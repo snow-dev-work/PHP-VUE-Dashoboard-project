@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./",
+		"paths": {
+			"@/*": ["src/*"],
+			"@Modules/*": ["../node_modules/*"],
+			"@Common/*": ["../common/*"],
+			"@CommonComponents/*": ["../common/components/*"],
+			"@CommonAssets/*": ["../common/assets/*"],
+			"@Hooks": ["../common/hooks.js"],
+			"@Utils": ["../common/utils.js"],
+			"@Constants": ["../common/constants.js"],
+			"@Store": ["../common/store/index.js"],
+			"@Components/*": ["src/components/*"],
+			"@Assets/*": ["src/assets/*"]
+		}
+	}
+}

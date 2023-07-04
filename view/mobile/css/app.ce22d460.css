@@ -1,0 +1,1 @@
+#dashboard,body{min-height:100vh}#dashboard{display:grid;grid-template-columns:1fr [content-start] 800px [content-end] 1fr;grid-template-rows:auto 1fr auto;row-gap:3em}#dashboard>:is(header,main,footer){grid-column:content}

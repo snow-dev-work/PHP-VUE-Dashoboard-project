@@ -1,0 +1,5080 @@
+{
+	"data": [
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Anomalie précalcul à zéro sur la partie CAFETERIA ++",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Campagne justifs enfants",
+			"due_date": "30-09-2020",
+			"priorite": "urgent",
+			"Tache": "Statistiques",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Problème d'index sur la recherche des contrats",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BackOffice",
+			"due_date": "01-09-2020",
+			"priorite": "urgent",
+			"Tache": "Extraction UNMI LOOMA",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Nouveaux onglets Ano Bénéf sans caisse",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Evolution des CdR",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Tranverse",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Maintenance quotidienne - matin",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Prise en compte des nouveaux CERFA pour les DSIJ",
+			"username": "Gautier ANTOINE",
+			"status": "confié à un prestataire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Prise en compte des nouveaux CERFA pour les DSIJ",
+			"username": "Hélios DUHAMEL",
+			"status": "confié à un prestataire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "03-02-2020",
+			"priorite": "urgent",
+			"Tache": "développement page web",
+			"username": "Jean-François DE CUBBER",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "03-02-2020",
+			"priorite": "urgent",
+			"Tache": "Bandeau carrousel SG Santé Assuré",
+			"username": "Jean-François DE CUBBER",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Emission carte TP : Ajout du contrôle sur le code CPAM",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Gestion du responsable administratif pour gérer l'interlocuteur en fonction du canal de ventes du partenaire",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Vérifier le paramétrage produit SANTE 16",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Anomalie Aiguillage",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Emission carte TP : Ajout du contrôle sur le code CPAM",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Radiation : Permettre au partenaire de fournir la date de réception de la demande de radiation",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": "14-08-2020",
+			"priorite": "urgent",
+			"Tache": "Notification via email du service cotisation en cas de changement d'option avec cotisations individuelles",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "SI le changement d'adresse provoque un changement de régime et que les options de cotisation ne respecte pas la codification, ne pas mettre a jour cafet et envoyer un mail à la gestion.",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Il faut tout loguer dans les ayants-droit exclusifs",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "PDOStatement est déprécié, il faut le remplacer dans les bundles de connexion cafeteria",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Gestion contrat en mutation",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "03-02-2020",
+			"priorite": "urgent",
+			"Tache": "développement page web",
+			"username": "Mathieu_B",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "03-02-2020",
+			"priorite": "urgent",
+			"Tache": "Bandeau carrousel SG Santé Assuré",
+			"username": "Mathieu_B",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "BDOC",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Migration outil de réédition des décomptes, executable décomptes, toolbox",
+			"username": "Mick Moisson",
+			"status": "en cours",
+			"start_date": "11-02-2021"
+		},
+		{
+			"Projet": "BIA en ligne V2",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Anomalies via la fenêtre de paramétrage BIA - Reinitialiasation de la validation RH et de la date d'effet",
+			"username": "Mick Moisson",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "PREST'IJ",
+			"due_date": "18-06-2021",
+			"priorite": "urgent",
+			"Tache": "Mise à jour le composant  « noyau_metierprevoyance.wdk »",
+			"username": "Mick Moisson",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "03-02-2020",
+			"priorite": "urgent",
+			"Tache": "développement page web",
+			"username": "Mylène Longeron",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Projet 2",
+			"due_date": "20-01-2020",
+			"priorite": "urgent",
+			"Tache": "Tâche 3",
+			"username": "Mylène Longeron",
+			"status": "Open",
+			"start_date": "17-01-2020"
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Anomalie précalcul à zéro sur la partie CAFETERIA ++",
+			"username": "Olivier Bertrand",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Prise en compte des nouveaux CERFA pour les DSIJ",
+			"username": "Pascal Petit",
+			"status": "confié à un prestataire",
+			"start_date": null
+		},
+		{
+			"Projet": "Risk Management",
+			"due_date": "30-06-2020",
+			"priorite": "urgent",
+			"Tache": "?? Unresolved project conflicts not escalated in a timely manner",
+			"username": "Pascal Petit",
+			"status": "to evaluate",
+			"start_date": "01-06-2020"
+		},
+		{
+			"Projet": "BackOffice",
+			"due_date": "01-09-2020",
+			"priorite": "urgent",
+			"Tache": "Extraction UNMI LOOMA",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Nouvel onglet d'anomalie (ANI)",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Nouveaux onglets Ano Bénéf sans caisse",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Evolution des CdR",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Tranverse",
+			"due_date": null,
+			"priorite": "urgent",
+			"Tache": "Maintenance quotidienne - matin",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Creations de connecteurs excel avant traitement",
+			"username": "Adrien Raout",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Traitement: Empecher la génération de mouvements d'envoi début janvier",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Création de l'interface permettant d'accéder aux données consolidées par les connecteurs",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Connecteur contrôle des codes organismes invalides",
+			"username": "Adrien Raout",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Connecteur contrôle envoi de mouvement réalisé, mais aucun retour des Organismes d'Assurance Maladie Obligatoire",
+			"username": "Adrien Raout",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Connecteur de contrôle des bénéficiaires fermés mais dont la télétransmission n'est pas annulée",
+			"username": "Adrien Raout",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Connecteur de contrôle de réception de décompte Sécu sans aucun mouvement de télétransmission envoyé et reçu",
+			"username": "Adrien Raout",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Informer de l'ensemble des liaisons de télétransmission dans le cas d'un double rattachement",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "statut \"erreur\" : il ne s'agit pas d'une erreur mais d'un rejet de l'organisme",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Cartographie des programmes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Tâche Dsn_TransfertFicheParamétrage",
+			"username": "Adrien Raout",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Cartographie des programmes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Tache Service_TraitementDSN",
+			"username": "Adrien Raout",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Cartographie des programmes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Tache Service_ReceptionCFT",
+			"username": "Adrien Raout",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Evolution : Mail automatiques",
+			"username": "Adrien Raout",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Incohérence concernant la remontée des salaires DSN via TOOLBOX",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Maj traitement DSN organisme inconnu",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Anomalie traitement module cotisations DSN, contrats GENERALI, incohérence entre les anomalies et le détails des contrôles AGEO",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Projet Maj traitement anomalies FrontalMetier - PREV",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ameliration : mise à jour assure si changement de nom",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Emissions des échéanciers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "api Feature/generation des échéanciers",
+			"username": "Adrien Raout",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Emissions des échéanciers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "api Feature/historisation",
+			"username": "Adrien Raout",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Liste des types d'événements à gérer par la pile d'événements (architecture CQRS/RabbitMQ)",
+			"username": "Alexandre Seité",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Valider l'accès aux DB client via le VPN",
+			"username": "Alexandre Seité",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Formulaire de déclaration de cotisations",
+			"username": "Alexandre Seité",
+			"status": "abandonned",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": "27-04-2021",
+			"priorite": "",
+			"Tache": "Définir les fréquences de déclenchement des synchronisations",
+			"username": "Alexandre Seité",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": "19-05-2021",
+			"priorite": "",
+			"Tache": "Documentation",
+			"username": "Alexandre Seité",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Revoir l'esthétique du centre de notification",
+			"username": "Alexandre Seité",
+			"status": "a tester (intégration)",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Acter des menus et sous-menus ainsi que de leur présentation",
+			"username": "Alexandre Seité",
+			"status": "bloqué / question",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Revoir l'esthétique du loader",
+			"username": "Alexandre Seité",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Etudier la pertinence de l'affichage actuel du total global (affichages de sous totaux) ?",
+			"username": "Alexandre Seité",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Pechospi Cumuler les garanties lors d'une surco",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Suppression tabulation (tab) lors de la création d'affaire",
+			"username": "Andy",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Pechospi - refusé les PEC automatiquement avec assuré inconnu",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "PECHOSPI aiguilleur modifier type batch vers TP (fax)",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Correction injection Hermes - Digi Prev",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Carte TP - Rabbit MQ Test courrier un par un",
+			"username": "Andy",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Campagne justifs enfants",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Erreur statistiques: total égal 99%",
+			"username": "Andy",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Campagne justifs enfants",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Erreur statistiques: retours Julie",
+			"username": "Andy",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Cartographie des programmes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "executable_OutilQualification.exe",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Cartographie des programmes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Attestation_Scolarite.exe",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Cartographie des programmes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Hermes",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Commissions",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout d'une interface afin de ré-attribuer les apporteurs de non rattachés sur le param de com. (exemple : UMANENS)",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace assuré",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout d'un paramétrage sur les hôpitaux afin de refuser la PEC",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace assuré",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Justificatif Scolarité - voir transfert sur la Page de campagne des justifs",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace assuré",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demandes pour lesquelles le système n\u2019a pas retrouvé l\u2019assuré",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace assuré",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demandes pour lesquelles le code DMT transmis peut correspondre à plusieurs services différents",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace assuré",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Blocage des demandes de prises en charge à plus de 30 jours (4axes)",
+			"username": "Andy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "HERMES",
+			"due_date": "11-01-2021",
+			"priorite": "",
+			"Tache": "Découper en tâches et voir la charge",
+			"username": "Andy",
+			"status": "a etudier",
+			"start_date": null
+		},
+		{
+			"Projet": "Qualification",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Export hebdomadaire concernant les mails et courriers transmis",
+			"username": "Andy",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion du process Worker sur le serveur",
+			"username": "Antony Boivin",
+			"status": "bloqué / question",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace assuré",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Migration SSO vers Keycloak + impersonate",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Talend Scripts & Organisation review",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Liste des courriers",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "accès courtier au CDR",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Bug affichage logo (mobile)",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Migration de l'API Rest vers Symfony 5",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Talend : historique des déploiements",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Bug : Date de création client",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Amélioration du système de gestion des portefeuilles clients",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Feature / Amélioration de l'affichage des cotisations",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": "29-07-2021",
+			"priorite": "",
+			"Tache": "Présentation PowerPoint",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": "29-07-2021",
+			"priorite": "",
+			"Tache": "Installation du Front & API",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Evolution - Sélection des souscripteurs uniques",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Bug encodage UTF-16 sur les commandes imports portefeuille client",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Lister les 2 correspondants clients (sinistre et prime)",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajouter contact compagnie (inspecteur, depuis Hermès) non géré depuis le digi-Prev",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des incidents",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des portefeuilles clients et associations organisames/contrats",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Actualisation des fiches Apporteurs",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "liste responsables (dans hermes affaires) (adhésion, cotisation, prestation, + un autre)",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Message motif résiliation",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des utilisateurs avec Keycloak",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Historisation des actions",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Réunions",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des apporteurs transverses (369, Hermès, Cafète)",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Apporteurs & commissions Looma",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion de projet",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Documentation Gestion des utilisateurs & organisations",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout et configuration des utilisateurs AGEO dans Keycloak production",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Message page contrats -> filtres avec assuré + contrats à venir = 0 résultat",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Menu Intéractif",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Documentation (métier, API, etc.)",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Indicateur état 'impayé' du contrat à partir des cotisations et non lb_impaye de s_caf_contrat",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Create VIEW ifc_sas",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Bug initialisation portefeuille looma pour le client SFB (4 contrats sur 6)",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Amélioration des performances pour les accès Pole, Entreprise, Vendeur",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "changer identifiant et IP du compte LDAP",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Bug : Connexion avec IE",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "SSO",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Composent SSO -Connections via Iframe partenaire",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "SSO",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Component SSO - Gestion des redirect_uri",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "SSO",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des groupes",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Paramétrage du produit CCN DU SPORT",
+			"username": "Boris Helvas",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Paramétrage du produit CCN MANDATAIRES JUDICIAIRES PERSONNES MAJEURES",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Documentation technique - Flux XML contrat",
+			"username": "Boris Helvas",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Listing droits Novaxel Joan",
+			"username": "Cyril BOYER",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "13-12-2019",
+			"priorite": "",
+			"Tache": "mise à jours des ordi sur AD et sur OCS inventorisation",
+			"username": "Cyril BOYER",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Mise à jour extranet UCT - 2020",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Donner la description plus précise du projet et le temps passé",
+			"username": "Cyril BOYER",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Listing droits Novaxel Joan",
+			"username": "Frederic Canepa",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "FTP",
+			"username": "Frederic Canepa",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demande de modification de Gaëtan",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BackOffice",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse du besoin",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BackOffice",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout de colonnes dans modèle contrat MyReport",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BackOffice",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Anomalie Nb contrats",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BackOffice",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Retour client sur nombre de contrats",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Conformité",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse besoin tableau de suivi des controles des décomptes",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Nouvel onglet d'anomalies PREV (suivi médical)",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Nouveau rapport avec anomalies sur appels de primes",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Nouvel onglet Situation Famille",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Nouvel onglet période d'adhésion d'ANI",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Nouvel onglet Assuré avec date fin garantie mais pas de date de fin assuré",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Refonte système détection anomalies",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Dates d'effet de garantie qui se chevauchent",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Anomalies assurés et bénéficiares de famille différente , les RIB identiques",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Validation des barèmes de prestation",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Documents traité PRESTA, à traité BDD",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Impacts Workflows non respectés",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse demande modifications CdR",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mise à jour de la charte graphique",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mise en place AdmBI pour process et serveurs",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Double qualification",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyser les Workflows",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Double qualification",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyser la demande",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Finance",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse du besoin",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Finance",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Réalisation du modèle Décomptes santé",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Finance",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse du besoin",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Finance",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Evolutions Lot 1",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Finance",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout des champs de rapprochement lettrage",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Gestion",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Créer job pour identifier les documents sans statuts.",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Gestion",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "TDBs pour activité Hermès",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Gestion",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demandes actualisations et gestion projet",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Historique des modifications sur un assuré",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Controle de l'export global",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Looma",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Primes",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Looma",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Commissions",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Looma",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Prestations",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Marketing",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse  du besoin",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Santé",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse du besoin",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Tranverse",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Rédiger support de formation MyReport pour internes",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Tranverse",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Histo Assure-Contass-Benefici-Option-Choix",
+			"username": "Gaetan Pruvost",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Tranverse",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Creation de logs pour la mise à jour de l'entropt ifc_sas",
+			"username": "Gaetan Pruvost",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Installation extranet par Adhoc GTI",
+			"username": "Gautier ANTOINE",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "25-06-2021",
+			"priorite": "",
+			"Tache": "Historisation et récupération des dates de créations de comptes",
+			"username": "Gautier ANTOINE",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Suivi création compte assuré",
+			"username": "Gautier ANTOINE",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-12-2021",
+			"priorite": "",
+			"Tache": "gestion des dispenses ",
+			"username": "Gautier ANTOINE",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "30-09-2021",
+			"priorite": "",
+			"Tache": "Zones administrables sites SG Santé",
+			"username": "Gautier ANTOINE",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "03-08-2021",
+			"priorite": "",
+			"Tache": "dans les comptes de resultat",
+			"username": "Gautier ANTOINE",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout d'une étape de création de l'espace assuré à la fin du BIA en ligne",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Prévoir les taux d'usage DSN, le taux d'utilisation du bloc de paiement DSN (filtrable), taux d'utilisation dsn mensuelles/évènementielles",
+			"username": "Gautier ANTOINE",
+			"status": "en attente d'infos po",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Script d'anonymisation de données",
+			"username": "Gautier ANTOINE",
+			"status": "a etudier par la dsi",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Point d'entrée unique pour les webservices",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Création d'un outil de devis (tout domaine: optique, dentaire, hospitalisation...), lié à la LAD RAD ?",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "04-04-2021",
+			"priorite": "",
+			"Tache": "Automatisation pour l'envoi des propositions individuelles via BDOC",
+			"username": "Gautier ANTOINE",
+			"status": "en attente d'infos po",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "15-04-2021",
+			"priorite": "",
+			"Tache": "Edition des cartes Tiers payants suite à l\u2019ajout ou la suppression d\u2019ayant droit & Correction d\u2019anomalie suite à l\u2019émission de carte à tort lors des modifications sur le BIM.",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demandes de pièces: rappel par SMS",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Changer le délai d'affichage des relevés de remboursements dans l\u2019espace assuré et l\u2019application mobile.",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion changement mot de passe accès RH",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Fiabilisation de données du backoffice et impact site RH",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Amelioration service ''Mot de passe oublié''",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "27-05-2021",
+			"priorite": "",
+			"Tache": "Migration \"OPEDI / PR\" avec SIRET Fictif en lien avec COPERLAB",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demandes de pièces via ligne de décompte à zéro: gestion des relances",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-06-2021",
+			"priorite": "",
+			"Tache": "Centraliser toutes les actions manuelles et automatiques (bim/bia en ligne) et transmettre ces données à sodexo et securitas (Gaétan est informé)",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-07-2021",
+			"priorite": "",
+			"Tache": "PROJET COPERLAB - INTEGRATIONS ET PARAMETRAGE",
+			"username": "Gautier ANTOINE",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "30-07-2021",
+			"priorite": "",
+			"Tache": "Création suivi et historisation de la data quality ",
+			"username": "Gautier ANTOINE",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout géolocalisation partenaire seveane santeclair carte blanchee",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Automatisation de la facturation santéclair et autre plateforme de soin",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "30-11-2021",
+			"priorite": "",
+			"Tache": "Attestations Madelin - Gammes TNS gestion confiée AGEO",
+			"username": "Gautier ANTOINE",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": "? Q4 2020",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Test Gautier",
+			"username": "Gautier ANTOINE",
+			"status": "in progress",
+			"start_date": null
+		},
+		{
+			"Projet": "Campagne justifs enfants",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Voir bug rencontré par Stéphanie (est-ce qu'on arrive à reproduire, qu'est-ce qui pourrait l'expliquer sur cet assuré...)",
+			"username": "Gautier ANTOINE",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Connecteurs Cafétéria",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Validation recette par Stéphanie LAUNOIS",
+			"username": "Gautier ANTOINE",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes reportées",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Statuer sur le projet, affecter les ressources et le planifier",
+			"username": "Gautier ANTOINE",
+			"status": "reporté",
+			"start_date": null
+		},
+		{
+			"Projet": "DigiPrev",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "AGEO",
+			"username": "Gautier ANTOINE",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "DigiPrev",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Refus SPO: champ commentaire",
+			"username": "Gautier ANTOINE",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Projet 2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Tâche 2",
+			"username": "Gautier ANTOINE",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "DigiPrev",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Générer le JSON conforme pour la restitution Powerpoint",
+			"username": "Hadboun Samir",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "DigiPrev",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Définition flux JSON pour import depuis BSCom",
+			"username": "Hadboun Samir",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "25-06-2021",
+			"priorite": "",
+			"Tache": "Historisation et récupération des dates de créations de comptes",
+			"username": "Hélios DUHAMEL",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mise à à jour des serveurs 2008 R2 en 2016",
+			"username": "Hélios DUHAMEL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Suivi création compte assuré",
+			"username": "Hélios DUHAMEL",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-12-2021",
+			"priorite": "",
+			"Tache": "gestion des dispenses ",
+			"username": "Hélios DUHAMEL",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "30-09-2021",
+			"priorite": "",
+			"Tache": "Zones administrables sites SG Santé",
+			"username": "Hélios DUHAMEL",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "03-08-2021",
+			"priorite": "",
+			"Tache": "dans les comptes de resultat",
+			"username": "Hélios DUHAMEL",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout d'une étape de création de l'espace assuré à la fin du BIA en ligne",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Prévoir les taux d'usage DSN, le taux d'utilisation du bloc de paiement DSN (filtrable), taux d'utilisation dsn mensuelles/évènementielles",
+			"username": "Hélios DUHAMEL",
+			"status": "en attente d'infos po",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Script d'anonymisation de données",
+			"username": "Hélios DUHAMEL",
+			"status": "a etudier par la dsi",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Point d'entrée unique pour les webservices",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Création d'un outil de devis (tout domaine: optique, dentaire, hospitalisation...), lié à la LAD RAD ?",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "04-04-2021",
+			"priorite": "",
+			"Tache": "Automatisation pour l'envoi des propositions individuelles via BDOC",
+			"username": "Hélios DUHAMEL",
+			"status": "en attente d'infos po",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "15-04-2021",
+			"priorite": "",
+			"Tache": "Edition des cartes Tiers payants suite à l\u2019ajout ou la suppression d\u2019ayant droit & Correction d\u2019anomalie suite à l\u2019émission de carte à tort lors des modifications sur le BIM.",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demandes de pièces: rappel par SMS",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Changer le délai d'affichage des relevés de remboursements dans l\u2019espace assuré et l\u2019application mobile.",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion changement mot de passe accès RH",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Fiabilisation de données du backoffice et impact site RH",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Amelioration service ''Mot de passe oublié''",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "27-05-2021",
+			"priorite": "",
+			"Tache": "Migration \"OPEDI / PR\" avec SIRET Fictif en lien avec COPERLAB",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demandes de pièces via ligne de décompte à zéro: gestion des relances",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-06-2021",
+			"priorite": "",
+			"Tache": "Centraliser toutes les actions manuelles et automatiques (bim/bia en ligne) et transmettre ces données à sodexo et securitas (Gaétan est informé)",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-07-2021",
+			"priorite": "",
+			"Tache": "PROJET COPERLAB - INTEGRATIONS ET PARAMETRAGE",
+			"username": "Hélios DUHAMEL",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "30-07-2021",
+			"priorite": "",
+			"Tache": "Création suivi et historisation de la data quality ",
+			"username": "Hélios DUHAMEL",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout géolocalisation partenaire seveane santeclair carte blanchee",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Automatisation de la facturation santéclair et autre plateforme de soin",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "30-11-2021",
+			"priorite": "",
+			"Tache": "Attestations Madelin - Gammes TNS gestion confiée AGEO",
+			"username": "Hélios DUHAMEL",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": "Cartographie des programmes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "service_edimachine",
+			"username": "Hélios DUHAMEL",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Connecteurs Cafétéria",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Création connecteur",
+			"username": "Hélios DUHAMEL",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Incohérence concernant la remontée des salaires DSN via TOOLBOX",
+			"username": "Hélios DUHAMEL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes reportées",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Statuer sur le projet, affecter les ressources et le planifier",
+			"username": "Hélios DUHAMEL",
+			"status": "reporté",
+			"start_date": null
+		},
+		{
+			"Projet": "DigiPrev",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Définition flux JSON pour import depuis BSCom",
+			"username": "Hélios DUHAMEL",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "DigiPrev",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "POST / PUT /modalite/statuts : Contrôles à ajouter suite à l'enregistrement",
+			"username": "Hélios DUHAMEL",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise",
+			"due_date": "29-03-2021",
+			"priorite": "",
+			"Tache": "Distinction surco obligatoire / facultative",
+			"username": "Hélios DUHAMEL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Masquer le complément d'information pour masquer le libellé \"Prest\"",
+			"username": "Hélios DUHAMEL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Afficher la notion de contrat de base",
+			"username": "Hélios DUHAMEL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Afficher la notion de contrat responsable / non responsable",
+			"username": "Hélios DUHAMEL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Authentification : Analyser le cas de la connexion avec une adresse email contenant des caractères spéciaux",
+			"username": "Hélios DUHAMEL",
+			"status": "update requested",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Détail d'une cotisation",
+			"username": "Hélios DUHAMEL",
+			"status": "update requested",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Création d'un endpoint dans le WS Soap pour récupérer tous les souscripteurs inscrits au télérèglement",
+			"username": "Hélios DUHAMEL",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Recette WebDev : HS",
+			"username": "Hélios DUHAMEL",
+			"status": "en recette",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Tester le bon fonctionnement de bout en bout de la validation BIA",
+			"username": "Hélios DUHAMEL",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Job cafétéria",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajouter les destinataires des e-mails",
+			"username": "Hélios DUHAMEL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Job cafétéria",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Vérifier si Julie est bien dans les destinataires des emails d'anomalies Noémie et CTP car elle dit qu'elle ne les reçoit plus",
+			"username": "Hélios DUHAMEL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Looma",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Primes",
+			"username": "Hélios DUHAMEL",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Looma",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Commissions",
+			"username": "Hélios DUHAMEL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Looma",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Prestations",
+			"username": "Hélios DUHAMEL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Test Management",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "?? sampleapp!Six",
+			"username": "Hélios DUHAMEL",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Test Management",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "? ACCESS_CODE_125",
+			"username": "Hélios DUHAMEL",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "créer un batch pour supprimer les points backup sur les profils des TSE",
+			"username": "Julien BUSSON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "13-12-2019",
+			"priorite": "",
+			"Tache": "mise à jours des ordi sur AD et sur OCS inventorisation",
+			"username": "Julien BUSSON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "CFT",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "FTP",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "DSN",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Contrôle des flux avant envoi",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": "22-02-2021",
+			"priorite": "",
+			"Tache": "Planifier les traitements à réaliser sur le sujet",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Connecteur contrôle des codes organismes incomplets",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": "11-08-2021",
+			"priorite": "",
+			"Tache": "Réaliser le processus de traitement actuel d'un BIA à intégrer",
+			"username": "Julien COMPAGNON",
+			"status": "planifié",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Déplacer les fichiers physiques générés par le programme sur le FILLER",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Moteur de recherche du paramétrage d'un contrat existant pour dupliquer son paramétrage après modification",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Générateur de code : Permettre l'utilisation des fonctions existantes de manière simplifiée pour ouverture au BO",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des modeles",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Contrôler les interfaces de suppression d'objet, une fois les méthodes DELETE créées dans l'API",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Combo_cas : à la sélection d'une ligne, gérer les \"modeles_situation\" lorsque ce sera géré par l'API",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Suite à la mise des données de production en recette, je dois m'assurer qu'aucune donnée ne manque en recette, je dois comparer avec la sauvegarde avant maj",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "POST / PATCH : Gestion des traitements dans les modalités",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion automatique du nouveau motif \"Ajout d'ayant-droit à la surcomplémentaire\"",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Recette de la fenêtre contrat",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion de la recherche d'un modèle de paramétrage",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM Paramétrage",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Duplication du paramétrage d'un contrat existant à un autre contrat",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Campagne justifs enfants",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Voir bug rencontré par Stéphanie (est-ce qu'on arrive à reproduire, qu'est-ce qui pourrait l'expliquer sur cet assuré...)",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Révision de l'expression de besoins sur la fiche de paramétrage",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Révision de l'expression de besoin sur la fiche client",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Modifier Alimentation du champ Observation dans  la table FichierMCComPaiementsCompagnies",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "HERMES",
+			"due_date": "11-01-2021",
+			"priorite": "",
+			"Tache": "Découper en tâches et voir la charge",
+			"username": "Julien COMPAGNON",
+			"status": "a etudier",
+			"start_date": null
+		},
+		{
+			"Projet": "Module Radiations",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Compléter la trame pour la partie existante dans les programmes",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Normes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Recette interne de l'outil",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Suivi de contrat",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Permettre la saisie de plusieurs critères de nature différente pour l'export",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Suivi de contrat",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Lorsque j\u2019ai fait la démo, je me suis rendu compte en montrant aux équipes le fonctionnement correct de la date, lors de ma validaiton définitive dans l\u2019outi, il n\u2019a pas pris en compte la dernière date que j\u2019ai saisi et modifié",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Suivi de contrat",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Revoir la gestion de l'historique des modifications du statut d'un contrat",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Suivi de contrat",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Communication Assuré récupération de carte TP",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Suivi de contrat",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Permettre la recherche multicritères dans le suivi des contrats",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Suivi de contrat",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajouter systématiquement la compagnie dans la table de restitution des données et le fichier excel",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Suivi de contrat",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Intégrer l'ensemble des adresse mail pour les communications dans le fichier de paramétrage",
+			"username": "Julien COMPAGNON",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": "11-08-2021",
+			"priorite": "",
+			"Tache": "Changement de souscripteur et d'assuré principal",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ecriture du processus de sans-effet",
+			"username": "Julien COMPAGNON",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Liste des BIA - Tests fonctionnels",
+			"username": "Julien Lamy",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Réaliser la version responsive du layout et des menus",
+			"username": "Julien Lamy",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Intégration graphique : intégration des menus sidebar",
+			"username": "Julien Lamy",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Export Excel de la liste des appels de cotisations pour un contrat et un souscripteur donné",
+			"username": "Julien Lamy",
+			"status": "abandonned",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Test fonctionnel : génération d'un export excel",
+			"username": "Julien Lamy",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Recette WebDev : HS",
+			"username": "Julien Lamy",
+			"status": "en recette",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": "19-05-2021",
+			"priorite": "",
+			"Tache": "Documentation",
+			"username": "Julien Lamy",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajustements tableau de cotisation",
+			"username": "Julien Lamy",
+			"status": "a tester (intégration)",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Revoir l'esthétique du centre de notification",
+			"username": "Julien Lamy",
+			"status": "a tester (intégration)",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Créer une modale/infobulle générique afin d'afficher des informations de type \"tutoriel\"",
+			"username": "Julien Lamy",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion globale des erreurs",
+			"username": "Julien Lamy",
+			"status": "in progress",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Retirer des échanges de validation BIA la notion de date d'effet. Ne conserver que la date d'embauche",
+			"username": "Julien Lamy",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Assurer que les montants ont bien tous deux chiffres après la virgule",
+			"username": "Julien Lamy",
+			"status": "a tester (intégration)",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Expliciter les tris par colonne des cotisations en ajoutant des flèches grises légères",
+			"username": "Julien Lamy",
+			"status": "a tester (intégration)",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ticket 1191 : Blocage sur plusieurs matricules",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Nouvelle interface de paramétrage des rapports",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Problème d'exécution sur le serveur",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Cartographie des programmes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "noyau_retourcorus.exe",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "REPORTING IJ",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Permettre de gérer via l'interface l'ordre de lancement des reporting IJ",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajouter la lecture de l'entête même si le XSD n'est pas conforme",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Fonctionnalité : Paiement par carte bancaire",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": "02-01-2020",
+			"priorite": "",
+			"Tache": "Reporting Mensuel IMA",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Loi Evin manquants",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des anomalies Apporteurs",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Paramétrage du produit CCN DU SPORT",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajouter un contrôle sur l'âge des enfants lors de la création de bénéficiaires",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Paramétrage du produit CCN MANDATAIRES JUDICIAIRES PERSONNES MAJEURES",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Paramétrage du produit CCN ENTREPRISES ADAPTEES",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Contrôle sur le changement de date d'effet",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Paramétrage du produit AFI PERFORMANCE SANTE",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Paramétrage du produit SYNTEC AG_BET",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Paramétrer contrats Mixtes sur les anciennes gammes",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion d'un barème de prestation inconnu (prévoyance)",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ticket 13258 : Changement d'assuré principal",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Corriger les fiches Hermès des contrats TNS",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Fonctionnalité d'avenant pour modifier le code de regroupement de contrat",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": "11-08-2021",
+			"priorite": "",
+			"Tache": "Changement de souscripteur et d'assuré principal",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Créer un service de traitement des anomalies de classement GED",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Bug création barème de cotisation contrat",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Revoir le Regex des adresses emails (nombre de caractères pour l'extension)",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Alerter le BackOffice en cas de désynchronisation Cafeteria/Hermès  sur les produits d'un contrat",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "getAssureWeb : Anomalie sur le numérotation des adhésions",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "getAssureWeb : Retourner en plus de la balise <noemie>, la balise <refusnoe> et <motifrefus> (le libellé du motif)",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "getAssureWeb : Mentionner le type de carte généré",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "getAssureWeb : Ajout du libellé dans le noeud <genre>",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "getAssureWeb : Ajout du libellé dans le noeud <sitFam>",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "getAssureWeb : Ajout du libelle dans les noeuds <ModePaie> et <ModeCoti>",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "getAssureWeb : Ajout d'un nœud <cpam> dans le nœud <benefici>",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "getAssureWeb : Mouvement noemie en attente d'envoi au CPAM n'apparait pas",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "getAssureWeb : Les mouvements CPAM envoyés ou en attente sans contintern ne ressortent pas",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "getAssureWeb : Rédaction de la documentation",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Créer une méthode pour traiter en masse des flux",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Corriger l'application des règles sur les contrats mixtes déclaratifs MADP",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des contrats mixtes sur la modification des cotisations",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Revoir process impayé",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Rédaction documentation",
+			"username": "Jérémie PORNOT",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion de la date de naissance lunaire pour Noémie",
+			"username": "Jérémie PORNOT",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "SI la correction ne peut se faire, Corriger le script de compensastion (qui corrige les documents mal enregistré)",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "API Carte TP",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Il aut pouvoir générer une carte TP que 1 mois avant sont effet",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "API Carte TP",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Lors de la demande de génération d'une carte TP, s'il en existe une future, peut être qu'il faudra la supprimer",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "API Carte TP",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Bloquage pour n'envoyé qu'une carte TP par jour si l'assuré en génère plusieurs de suite",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Test code BIA onblur",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "fonction en double de récup parametrage",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "En cas de préafiliation, on rend la date d'embauche non modifiable",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion Radiation ayant-droit",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "algorithme detection d'options",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Algorithme changement d'options",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "CHange d'information d'identité : gestion de la detection d'un changement complet ou non (voir processus)",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "API Radiation Ayant-droit",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "APi demande de radiationd 'ayant-droit",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mise en place de la connexion Oauth2 SSO",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion carte TP",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Affichage carte tiers-payant",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Règles spécifique des garantie (cf BIA pour Elivie)",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Prise en compte des règles spécifique des garanties (cd BIA pour Elivie)",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Autocomplétion de l'adresse",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Transmission d'un e-mail au support dévellopement à la création d'un code postal qui n'existe pas dans cafet",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Afficher le livret du contrat",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Retourner le livret du contrat du paramètrage BIA/BIM",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Retourner les RIB des ayants-droits dans la méthode GET /assures/{id}/paiement_prestations",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Modifier les RIB des ayants-droits dans la méthode PUT /assures/{id}/paiement_prestations",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Modification des RIB des ayants-droit",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Afficher les options futures",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gérer le champ REFUSBENEF de CONTRAt qui indique l'interdiction d'ajouter des bénéficiaires sur le contrat",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gérer le champ REFUSBENEF de CONTRAt qui indique l'interdiction d'ajouter des bénéficiaires sur le contrat",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Factoriser le changeent de garantie Santelaire. Pour pouvoir gérer les cas d'autres garanties",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Modifcation du nom de l'assure Principal",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "L\u2019assuré modifie sa date de naissance",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "L\u2019assuré modifie le num SS",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Modifier ses codes CPAM :",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mettre les google analytics sur le default message",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Attestation CPAM facultative",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "S'il y a une affiliation de deux adultes, on met un document en GED a traiter",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Affichage de toutes les situations et des modalitées.",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion du régime",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Intégration aide",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Attestation CPAM.",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ayant-droit existant sur un autre contrat",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mettre les données de l'assuré en session ou token jwt pour ne pas requêter le site assuré à chaque fois",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Lorsqu'un champ est en erreur, faire le onfocus + scroll dessus",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Attention, si les dates de fin de contrat sont inférieur à la date d'effet d'une modification, il faut bloquer la modification",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Carte TP future",
+			"username": "Jérémy rafflin",
+			"status": "a valider par la gestion",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Pour les ocntrats surco, lorsque l'on apelle le contrat calculateur, on passe l'id du contrat principale. Il faut aussi passé l'id de la surco parceque les calcul d'ancienneté de l'adhésion doivent être fait sur la surco et non la base",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Règle de mutation",
+			"username": "Jérémy rafflin",
+			"status": "a valider par la gestion",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Que fait on sur les contrat pas encore ouvert",
+			"username": "Jérémy rafflin",
+			"status": "a valider par la gestion",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Lors de la modificaton des RIB, passer le FR en majuscule (globalmeent, passer le texte complet en MAJ et le faire aussi pour le BIC)",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "En plus de mettre la modalité dnas le mail récap de l'assuré, il la mettre dans le document signé numériquement",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Domaine Adhesion",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Domaine Bénéficiaire",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Changement d'adresse",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des codes CPAM",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Radiation beneficiaire => desactivation visio-droit",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace assuré",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "gestion double valdiation de compte",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace assuré",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Oauth referer en https dans le site assure.",
+			"username": "Jérémy rafflin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "GED Knowings : API REST centralisé",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Fermer les connexions faites par l'api.",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Monitoring",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajouter le suivi des tâches JobScheduler",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Site SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Blocage des sites sous IE8",
+			"username": "Jérémy rafflin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Connecteur contrôle des codes organismes incomplets",
+			"username": "Laurent",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Connecteur contrôle des codes organismes invalides",
+			"username": "Laurent",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Connecteur contrôle envoi de mouvement réalisé, mais aucun retour des Organismes d'Assurance Maladie Obligatoire",
+			"username": "Laurent",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Connecteur de contrôle des bénéficiaires fermés mais dont la télétransmission n'est pas annulée",
+			"username": "Laurent",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Connecteur de contrôle de réception de décompte Sécu sans aucun mouvement de télétransmission envoyé et reçu",
+			"username": "Laurent",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "revue de code",
+			"username": "Laurent",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "formation redux",
+			"username": "Laurent",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "05-06-2020",
+			"priorite": "",
+			"Tache": "Recette nouvelle version",
+			"username": "Mathieu_B",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "02-06-2020",
+			"priorite": "",
+			"Tache": "Réponse questions SSO Thibaud",
+			"username": "Mathieu_B",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "App CTP",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Conception fonctionnelle / maquettage",
+			"username": "Mathieu_B",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "App CTP",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Developpement front",
+			"username": "Mathieu_B",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "App CTP",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Conception fonctionnelle connexion / inscription",
+			"username": "Mathieu_B",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "App CTP",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Developpement front connexion / inscription",
+			"username": "Mathieu_B",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "App SGSanté",
+			"due_date": "29-01-2021",
+			"priorite": "",
+			"Tache": "Géolocalisation des partenaires santé (réseaux des soins)",
+			"username": "Mathieu_B",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "App SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Paramètres dans l'url pour forcer les MAJ",
+			"username": "Mathieu_B",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIM",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Intégration aide",
+			"username": "Mathieu_B",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Amélios",
+			"username": "Mathieu_B",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace assuré",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Conception / Maquetage",
+			"username": "Mathieu_B",
+			"status": "a etudier",
+			"start_date": null
+		},
+		{
+			"Projet": "Listing Demandes & Projets marketing digital",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "analytics SG Santé Entreprise (pages post connexions)",
+			"username": "Mathieu_B",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Listing Demandes & Projets marketing digital",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "analytics SG Santé Assuré (pages post connexions, funnel complet)",
+			"username": "Mathieu_B",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Listing Demandes & Projets marketing digital",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "trackers sur actions site SG Santé",
+			"username": "Mathieu_B",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "OKR Management",
+			"due_date": "29-06-2020",
+			"priorite": "",
+			"Tache": "?? Develop a New Product Vision",
+			"username": "Mathieu_B",
+			"status": "not started",
+			"start_date": "16-06-2020"
+		},
+		{
+			"Projet": "Responsive sites et applis web",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Version Desktop",
+			"username": "Mathieu_B",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Responsive sites et applis web",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Version Tablette",
+			"username": "Mathieu_B",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Responsive sites et applis web",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Version Smartphone",
+			"username": "Mathieu_B",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Responsive sites et applis web",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Formation Vue.js",
+			"username": "Mathieu_B",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Site SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout d'un loader sur la page des exemples de remboursements",
+			"username": "Mathieu_B",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Site SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Page de maintenance (ci-joint éléments du marketing)",
+			"username": "Mathieu_B",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Site SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Loader d'attente de l'upload des documents",
+			"username": "Mathieu_B",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Site SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Maquette Front (HTML + CSS) de la nouvelle page de création de compte",
+			"username": "Mathieu_B",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Site SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Blocage des sites sous IE8",
+			"username": "Mathieu_B",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Site SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Indicateur de mot de passe",
+			"username": "Mathieu_B",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Site SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Carousel Consult+",
+			"username": "Mathieu_B",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Site SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Espace assurés ASSURONE",
+			"username": "Mathieu_B",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Test Management",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "?? Highlighting a checklist in a comment resolves the comment",
+			"username": "Mathieu_B",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "DigiPrev",
+			"due_date": "01-06-2020",
+			"priorite": "",
+			"Tache": "BScom",
+			"username": "Matthieu LE GAL",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BDOC",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Envoi de SMS avec l'api Orange",
+			"username": "Melvyn PERIN",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BDOC",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "gérer les timeout pour les appels Bdoc",
+			"username": "Melvyn PERIN",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Test code BIA onblur",
+			"username": "Melvyn PERIN",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "fonction en double de récup parametrage",
+			"username": "Melvyn PERIN",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "ajouter une vérif sur la date d'effet au moment de la validation",
+			"username": "Melvyn PERIN",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "ajouter une date de création du BIA dans la bdd sql",
+			"username": "Melvyn PERIN",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Vérifier certains cas qui ne passent pas sur des clients pour lesquels le BIA en ligne est en place depuis longtemps",
+			"username": "Melvyn PERIN",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "En cas de préafiliation, on rend la date d'embauche non modifiable",
+			"username": "Melvyn PERIN",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Rajouter un controle sur la saisie cpam",
+			"username": "Melvyn PERIN",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Job cafétéria",
+			"due_date": "02-04-2020",
+			"priorite": "",
+			"Tache": "Gestion cartes TP: cartes éditées sur les mauvais contrats",
+			"username": "Melvyn PERIN",
+			"status": "en cours",
+			"start_date": "02-04-2020"
+		},
+		{
+			"Projet": "Job cafétéria",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Historiser quotidiennement les statuts d\u2019adhésion et détecter les modifications",
+			"username": "Melvyn PERIN",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Cartographie des programmes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "API-CTP",
+			"username": "Michel Lepretre",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Connecteurs Cafétéria",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Création connecteur",
+			"username": "Michel Lepretre",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "EDI-CTP 2022",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Modification des CTP en fonction du/des CDC",
+			"username": "Michel Lepretre",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "EDI-Refonte Modèles Bdoc",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mise à jours des modèles Hermes Santé",
+			"username": "Michel Lepretre",
+			"status": "terminé",
+			"start_date": null
+		},
+		{
+			"Projet": "EDI-Refonte Modèles Bdoc",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mise à jour des signatures mails",
+			"username": "Michel Lepretre",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "EDI-Refonte Modèles Bdoc",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "RECETTE GESTION HERMES",
+			"username": "Michel Lepretre",
+			"status": "terminé",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Test code BIA onblur",
+			"username": "Mick Moisson",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "fonction en double de récup parametrage",
+			"username": "Mick Moisson",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Envoi de mails pour signaler attente validation BIA",
+			"username": "Mick Moisson",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Normes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Recette interne de l'outil",
+			"username": "Mick Moisson",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Normes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Etude de la norme ASB",
+			"username": "Mick Moisson",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Normes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Génération d'un flux ASB",
+			"username": "Mick Moisson",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Normes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse de cas dans CAFETERIA",
+			"username": "Mick Moisson",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Normes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Adapter la chronologie des couverture bénéficiaire",
+			"username": "Mick Moisson",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Normes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Recette partenaires",
+			"username": "Mick Moisson",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Normes",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des anomalies",
+			"username": "Mick Moisson",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "PREST'IJ",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Projet - Siret Fictif",
+			"username": "Mick Moisson",
+			"status": "en cours",
+			"start_date": "22-07-2021"
+		},
+		{
+			"Projet": "Qualification",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Liste des améliorations demandées à passer en tickets amélio les lundi",
+			"username": "Mick Moisson",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Incohérence concernant la remontée des salaires DSN via TOOLBOX",
+			"username": "Olivier Bertrand",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Projet Maj traitement anomalies FrontalMetier - PREV",
+			"username": "Olivier Bertrand",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "25-06-2021",
+			"priorite": "",
+			"Tache": "Historisation et récupération des dates de créations de comptes",
+			"username": "Pascal Petit",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mise à à jour des serveurs 2008 R2 en 2016",
+			"username": "Pascal Petit",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Suivi création compte assuré",
+			"username": "Pascal Petit",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-12-2021",
+			"priorite": "",
+			"Tache": "gestion des dispenses ",
+			"username": "Pascal Petit",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "30-09-2021",
+			"priorite": "",
+			"Tache": "Zones administrables sites SG Santé",
+			"username": "Pascal Petit",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "03-08-2021",
+			"priorite": "",
+			"Tache": "dans les comptes de resultat",
+			"username": "Pascal Petit",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout d'une étape de création de l'espace assuré à la fin du BIA en ligne",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Prévoir les taux d'usage DSN, le taux d'utilisation du bloc de paiement DSN (filtrable), taux d'utilisation dsn mensuelles/évènementielles",
+			"username": "Pascal Petit",
+			"status": "en attente d'infos po",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Script d'anonymisation de données",
+			"username": "Pascal Petit",
+			"status": "a etudier par la dsi",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Point d'entrée unique pour les webservices",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Création d'un outil de devis (tout domaine: optique, dentaire, hospitalisation...), lié à la LAD RAD ?",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "04-04-2021",
+			"priorite": "",
+			"Tache": "Automatisation pour l'envoi des propositions individuelles via BDOC",
+			"username": "Pascal Petit",
+			"status": "en attente d'infos po",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "15-04-2021",
+			"priorite": "",
+			"Tache": "Edition des cartes Tiers payants suite à l\u2019ajout ou la suppression d\u2019ayant droit & Correction d\u2019anomalie suite à l\u2019émission de carte à tort lors des modifications sur le BIM.",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demandes de pièces: rappel par SMS",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Changer le délai d'affichage des relevés de remboursements dans l\u2019espace assuré et l\u2019application mobile.",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion changement mot de passe accès RH",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Fiabilisation de données du backoffice et impact site RH",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Amelioration service ''Mot de passe oublié''",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "27-05-2021",
+			"priorite": "",
+			"Tache": "Migration \"OPEDI / PR\" avec SIRET Fictif en lien avec COPERLAB",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demandes de pièces via ligne de décompte à zéro: gestion des relances",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-06-2021",
+			"priorite": "",
+			"Tache": "Centraliser toutes les actions manuelles et automatiques (bim/bia en ligne) et transmettre ces données à sodexo et securitas (Gaétan est informé)",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-07-2021",
+			"priorite": "",
+			"Tache": "PROJET COPERLAB - INTEGRATIONS ET PARAMETRAGE",
+			"username": "Pascal Petit",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "30-07-2021",
+			"priorite": "",
+			"Tache": "Création suivi et historisation de la data quality ",
+			"username": "Pascal Petit",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout géolocalisation partenaire seveane santeclair carte blanchee",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Automatisation de la facturation santéclair et autre plateforme de soin",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "30-11-2021",
+			"priorite": "",
+			"Tache": "Attestations Madelin - Gammes TNS gestion confiée AGEO",
+			"username": "Pascal Petit",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes reportées",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Statuer sur le projet, affecter les ressources et le planifier",
+			"username": "Pascal Petit",
+			"status": "reporté",
+			"start_date": null
+		},
+		{
+			"Projet": "App SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Charte graphique SG Santé",
+			"username": "Pierre Moulin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "App SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Correction bugs",
+			"username": "Pierre Moulin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "App SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Fiches contact dans les règles des garanties",
+			"username": "Pierre Moulin",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "App SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Remboursements",
+			"username": "Pierre Moulin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "App SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Upload de document",
+			"username": "Pierre Moulin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "App SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajustements UI",
+			"username": "Pierre Moulin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "App SGSanté",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Refacto",
+			"username": "Pierre Moulin",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Réplication de données : filtrer sur une période",
+			"username": "Remi Belanyi",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Déclarer un nouvel arrêt de travail",
+			"username": "Remi Belanyi",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Déclaration des arrêts de travail",
+			"username": "Remi Belanyi",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Recette WebDev : HS",
+			"username": "Remi Belanyi",
+			"status": "en recette",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ci GitLab : optimiser et mise en cache de l'installation des dépendances (composer & yarn)",
+			"username": "Remi Belanyi",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": "27-04-2021",
+			"priorite": "",
+			"Tache": "Définir les fréquences de déclenchement des synchronisations",
+			"username": "Remi Belanyi",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Découpage par domaine métier",
+			"username": "Remi Belanyi",
+			"status": "update requested",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": "19-05-2021",
+			"priorite": "",
+			"Tache": "Documentation",
+			"username": "Remi Belanyi",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion globale des erreurs",
+			"username": "Remi Belanyi",
+			"status": "in progress",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gestion des environnements / Sécurité",
+			"username": "Remi Belanyi",
+			"status": "a tester (intégration)",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Code quality : prise en compte du rapport PHPStan",
+			"username": "Remi Belanyi",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Retirer des échanges de validation BIA la notion de date d'effet. Ne conserver que la date d'embauche",
+			"username": "Remi Belanyi",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Gérer les cas d'affichage de l'accueil quand on passe d'une page refondue à une page legacy",
+			"username": "Remi Belanyi",
+			"status": "a tester (intégration)",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Tester le bon fonctionnement de bout en bout de la validation BIA",
+			"username": "Remi Belanyi",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Recette WebDev : HS",
+			"username": "Stéphane Buresi",
+			"status": "en recette",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Environnement de développement",
+			"username": "Stéphane Buresi",
+			"status": "update requested",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": "19-05-2021",
+			"priorite": "",
+			"Tache": "Documentation",
+			"username": "Stéphane Buresi",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "DSN",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Projet Maj traitement anomalies FrontalMetier - PREV",
+			"username": "Teddy ECORCHARD",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BackOffice",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout de colonnes dans modèle contrat MyReport",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "BackOffice",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Anomalie Nb contrats",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Nouvel onglet d'anomalies PREV (suivi médical)",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Data Quality",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Nouveau rapport avec anomalies sur appels de primes",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse demande modifications CdR",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mise à jour de la charte graphique",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Double qualification",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyser les Workflows",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Double qualification",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyser la demande",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Finance",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse du besoin",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Finance",
+			"due_date": "13-12-2020",
+			"priorite": "",
+			"Tache": "Ajout de nouveaux champs",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Finance",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Evolutions Lot 1",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Finance",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajout des champs de rapprochement lettrage",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Santé",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyse du besoin",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Statistiques 360",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Recette Cotisations",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Statistiques 360",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Recette Prestations",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Statistiques 360",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Liste détaillées des effectifs",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Tranverse",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Rédiger support de formation MyReport pour internes",
+			"username": "Thinhinane MECHAREK",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Tranverse",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Creation de logs pour la mise à jour de l'entropt ifc_sas",
+			"username": "Thinhinane MECHAREK",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Module Radiations",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Compléter les trames en complément de l\u2019existant",
+			"username": "Thomas BONHOMME",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Créer la vue timeline",
+			"username": "Thomas Henriot",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Corriger l'insertion des document qui ne sont pas lisible en GED",
+			"username": "Vincent MARIAS",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Demande de modification de Gaëtan",
+			"username": "Vincent MARIAS",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Ajouter les notions demandées par Julie.O",
+			"username": "Vincent MARIAS",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Rec/Mep",
+			"username": "Vincent MARIAS",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Demandes divers",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Documents traité PRESTA, à traité BDD",
+			"username": "Vincent MARIAS",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Double qualification",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyser les Workflows",
+			"username": "Vincent MARIAS",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Double qualification",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mettre au point une réunion de travail avec les gestionnaires",
+			"username": "Vincent MARIAS",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Double qualification",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Analyser la demande",
+			"username": "Vincent MARIAS",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "EDI-CTP 2022",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Modification des CTP en fonction du/des CDC",
+			"username": "Vincent MARIAS",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "EDI-Refonte Modèles Bdoc",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mise à jours des modèles Hermes Santé",
+			"username": "Vincent MARIAS",
+			"status": "terminé",
+			"start_date": null
+		},
+		{
+			"Projet": "EDI-Refonte Modèles Bdoc",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Mise à jour des signatures mails",
+			"username": "Vincent MARIAS",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "EDI-Refonte Modèles Bdoc",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "RECETTE GESTION HERMES",
+			"username": "Vincent MARIAS",
+			"status": "terminé",
+			"start_date": null
+		},
+		{
+			"Projet": "Fusion AGEO / GEOZ",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Modification des mentions légale",
+			"username": "Vincent MARIAS",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Simplification des Méta Données",
+			"due_date": null,
+			"priorite": "",
+			"Tache": "Récupérer les métadonnées en production",
+			"username": "Vincent MARIAS",
+			"status": "a faire",
+			"start_date": null
+		}
+	]
+}

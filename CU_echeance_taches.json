@@ -1,0 +1,751 @@
+{
+	"data": [
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "08-08-2019",
+			"priority": "high",
+			"temps_restant": -735,
+			"Tache": "Set up data warehouse",
+			"status": "review",
+			"start_date": "05-08-2019"
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "08-08-2019",
+			"priority": "high",
+			"temps_restant": -735,
+			"Tache": "Set up data warehouse",
+			"status": "review",
+			"start_date": "05-08-2019"
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "19-08-2019",
+			"priority": "low",
+			"temps_restant": -724,
+			"Tache": "New Feature",
+			"status": "review",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "19-08-2019",
+			"priority": "low",
+			"temps_restant": -724,
+			"Tache": "New Feature",
+			"status": "review",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "20-08-2019",
+			"priority": "normal",
+			"temps_restant": -723,
+			"Tache": "Improve that feature",
+			"status": "staged",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "21-08-2019",
+			"priority": "high",
+			"temps_restant": -722,
+			"Tache": "Quality check the build",
+			"status": "review",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "22-08-2019",
+			"priority": "high",
+			"temps_restant": -721,
+			"Tache": "Bug report",
+			"status": "pending",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "22-08-2019",
+			"priority": "normal",
+			"temps_restant": -721,
+			"Tache": "New billing page",
+			"status": "Open",
+			"start_date": "16-08-2019"
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "22-08-2019",
+			"priority": "high",
+			"temps_restant": -721,
+			"Tache": "Bug report",
+			"status": "pending",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "22-08-2019",
+			"priority": "normal",
+			"temps_restant": -721,
+			"Tache": "New billing page",
+			"status": "Open",
+			"start_date": "16-08-2019"
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "23-08-2019",
+			"priority": "normal",
+			"temps_restant": -720,
+			"Tache": "Refactor some code",
+			"status": "review",
+			"start_date": "18-08-2019"
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "23-08-2019",
+			"priority": "low",
+			"temps_restant": -720,
+			"Tache": "New signup page",
+			"status": "review",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "23-08-2019",
+			"priority": "normal",
+			"temps_restant": -720,
+			"Tache": "Refactor some code",
+			"status": "review",
+			"start_date": "18-08-2019"
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "25-08-2019",
+			"priority": "high",
+			"temps_restant": -718,
+			"Tache": "Fix 404 error",
+			"status": "in progress",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "25-08-2019",
+			"priority": "high",
+			"temps_restant": -718,
+			"Tache": "Fix 404 error",
+			"status": "in progress",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "26-08-2019",
+			"priority": "high",
+			"temps_restant": -717,
+			"Tache": "User story",
+			"status": "in progress",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "26-08-2019",
+			"priority": "high",
+			"temps_restant": -717,
+			"Tache": "User story",
+			"status": "in progress",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "27-08-2019",
+			"priority": "normal",
+			"temps_restant": -716,
+			"Tache": "Fix routing problems",
+			"status": "Open",
+			"start_date": "22-08-2019"
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "27-08-2019",
+			"priority": "high",
+			"temps_restant": -716,
+			"Tache": "Redesign frontend",
+			"status": "in progress",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "27-08-2019",
+			"priority": "normal",
+			"temps_restant": -716,
+			"Tache": "Fix routing problems",
+			"status": "Open",
+			"start_date": "22-08-2019"
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "27-08-2019",
+			"priority": "high",
+			"temps_restant": -716,
+			"Tache": "Redesign frontend",
+			"status": "in progress",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "30-08-2019",
+			"priority": "urgent",
+			"temps_restant": -713,
+			"Tache": "Customer request",
+			"status": "pending",
+			"start_date": "27-08-2019"
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "30-08-2019",
+			"priority": "normal",
+			"temps_restant": -713,
+			"Tache": "Implement pretty URLs",
+			"status": "Open",
+			"start_date": "29-08-2019"
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "30-08-2019",
+			"priority": "urgent",
+			"temps_restant": -713,
+			"Tache": "Customer request",
+			"status": "pending",
+			"start_date": "27-08-2019"
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "30-08-2019",
+			"priority": "normal",
+			"temps_restant": -713,
+			"Tache": "Implement pretty URLs",
+			"status": "Open",
+			"start_date": "29-08-2019"
+		},
+		{
+			"Projet": "Sprints and Backlog",
+			"due_date": "11-09-2019",
+			"priority": "high",
+			"temps_restant": -701,
+			"Tache": "Document build plans",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Sprints and backlogs",
+			"due_date": "11-09-2019",
+			"priority": "high",
+			"temps_restant": -701,
+			"Tache": "Document build plans",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "13-12-2019",
+			"priority": null,
+			"temps_restant": -608,
+			"Tache": "mise à jours des ordi sur AD et sur OCS inventorisation",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": "02-01-2020",
+			"priority": null,
+			"temps_restant": -588,
+			"Tache": "Reporting Mensuel IMA",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Historique des modifications sur un assuré",
+			"due_date": "14-01-2020",
+			"priority": null,
+			"temps_restant": -576,
+			"Tache": "Lister les champs concernés dans cafet",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Historique des modifications sur un assuré",
+			"due_date": "15-01-2020",
+			"priority": null,
+			"temps_restant": -575,
+			"Tache": "Créer le script d'export",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Projet 2",
+			"due_date": "20-01-2020",
+			"priority": "urgent",
+			"temps_restant": -570,
+			"Tache": "Tâche 3",
+			"status": "Open",
+			"start_date": "17-01-2020"
+		},
+		{
+			"Projet": null,
+			"due_date": "03-02-2020",
+			"priority": "urgent",
+			"temps_restant": -556,
+			"Tache": "Bandeau carrousel SG Santé Assuré",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "03-02-2020",
+			"priority": "urgent",
+			"temps_restant": -556,
+			"Tache": "développement page web",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Emissions des échéanciers",
+			"due_date": "15-02-2020",
+			"priority": "high",
+			"temps_restant": -544,
+			"Tache": "Automatisation des Echéanciers",
+			"status": "en cours",
+			"start_date": "10-11-2019"
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "24-02-2020",
+			"priority": "high",
+			"temps_restant": -535,
+			"Tache": "Plan the build",
+			"status": "in progress",
+			"start_date": "17-02-2020"
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "25-03-2020",
+			"priority": "normal",
+			"temps_restant": -505,
+			"Tache": "Write a knowledge base",
+			"status": "in progress",
+			"start_date": "21-03-2020"
+		},
+		{
+			"Projet": "Job cafétéria",
+			"due_date": "02-04-2020",
+			"priority": null,
+			"temps_restant": -497,
+			"Tache": "Gestion cartes TP: cartes éditées sur les mauvais contrats",
+			"status": "en cours",
+			"start_date": "02-04-2020"
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "16-04-2020",
+			"priority": "high",
+			"temps_restant": -483,
+			"Tache": "Detail the product blueprint",
+			"status": "to do",
+			"start_date": "07-03-2020"
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "28-04-2020",
+			"priority": "normal",
+			"temps_restant": -471,
+			"Tache": "Mockup",
+			"status": "to do",
+			"start_date": "08-04-2020"
+		},
+		{
+			"Projet": "DigiPrev",
+			"due_date": "01-06-2020",
+			"priority": null,
+			"temps_restant": -437,
+			"Tache": "BScom",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "02-06-2020",
+			"priority": null,
+			"temps_restant": -436,
+			"Tache": "Réponse questions SSO Thibaud",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "05-06-2020",
+			"priority": "normal",
+			"temps_restant": -433,
+			"Tache": "MVP",
+			"status": "to do",
+			"start_date": "01-05-2020"
+		},
+		{
+			"Projet": null,
+			"due_date": "05-06-2020",
+			"priority": null,
+			"temps_restant": -433,
+			"Tache": "Recette nouvelle version",
+			"status": "Open",
+			"start_date": null
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "08-06-2020",
+			"priority": "urgent",
+			"temps_restant": -430,
+			"Tache": "Organize teams and delegate tasks",
+			"status": "to do",
+			"start_date": "01-06-2020"
+		},
+		{
+			"Projet": "Test Management",
+			"due_date": "22-06-2020",
+			"priority": null,
+			"temps_restant": -416,
+			"Tache": "?? Website",
+			"status": "to do",
+			"start_date": "16-06-2020"
+		},
+		{
+			"Projet": "OKR Management",
+			"due_date": "29-06-2020",
+			"priority": null,
+			"temps_restant": -409,
+			"Tache": "?? Develop a New Product Vision",
+			"status": "not started",
+			"start_date": "16-06-2020"
+		},
+		{
+			"Projet": "Risk Management",
+			"due_date": "30-06-2020",
+			"priority": "urgent",
+			"temps_restant": -408,
+			"Tache": "?? Unresolved project conflicts not escalated in a timely manner",
+			"status": "to evaluate",
+			"start_date": "01-06-2020"
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "07-07-2020",
+			"priority": "high",
+			"temps_restant": -401,
+			"Tache": "Build functioning prototype",
+			"status": "to do",
+			"start_date": "09-06-2020"
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "10-07-2020",
+			"priority": "normal",
+			"temps_restant": -398,
+			"Tache": "Quality test",
+			"status": "to do",
+			"start_date": "08-07-2020"
+		},
+		{
+			"Projet": "Test Management",
+			"due_date": "13-07-2020",
+			"priority": null,
+			"temps_restant": -395,
+			"Tache": "?? Version 1.0",
+			"status": "to build",
+			"start_date": "07-07-2020"
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "22-07-2020",
+			"priority": "low",
+			"temps_restant": -386,
+			"Tache": "Showcase the product",
+			"status": "to do",
+			"start_date": "09-07-2020"
+		},
+		{
+			"Projet": "Product Management",
+			"due_date": "28-07-2020",
+			"priority": null,
+			"temps_restant": -380,
+			"Tache": "?? Profiles",
+			"status": "to do",
+			"start_date": "30-06-2020"
+		},
+		{
+			"Projet": "BIM",
+			"due_date": "14-08-2020",
+			"priority": "urgent",
+			"temps_restant": -363,
+			"Tache": "Notification via email du service cotisation en cas de changement d'option avec cotisations individuelles",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace assuré",
+			"due_date": "20-08-2020",
+			"priority": null,
+			"temps_restant": -357,
+			"Tache": "Correction des erreurs les plus courantes",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "29-08-2020",
+			"priority": "high",
+			"temps_restant": -348,
+			"Tache": "Hire a support team",
+			"status": "to do",
+			"start_date": "08-08-2020"
+		},
+		{
+			"Projet": "BackOffice",
+			"due_date": "01-09-2020",
+			"priority": "urgent",
+			"temps_restant": -345,
+			"Tache": "Extraction UNMI LOOMA",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "26-09-2020",
+			"priority": "normal",
+			"temps_restant": -320,
+			"Tache": "Build a sales team",
+			"status": "to do",
+			"start_date": "31-08-2020"
+		},
+		{
+			"Projet": "Campagne justifs enfants",
+			"due_date": "30-09-2020",
+			"priority": "urgent",
+			"temps_restant": -316,
+			"Tache": "Statistiques",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "05-10-2020",
+			"priority": "high",
+			"temps_restant": -311,
+			"Tache": "Scale marketing",
+			"status": "to do",
+			"start_date": "25-09-2020"
+		},
+		{
+			"Projet": "Project Management",
+			"due_date": "06-12-2020",
+			"priority": "high",
+			"temps_restant": -249,
+			"Tache": "Reach $1 billion valuation",
+			"status": "to do",
+			"start_date": "07-10-2020"
+		},
+		{
+			"Projet": "Finance",
+			"due_date": "13-12-2020",
+			"priority": "high",
+			"temps_restant": -242,
+			"Tache": "Ajout de nouveaux champs",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "HERMES",
+			"due_date": "11-01-2021",
+			"priority": null,
+			"temps_restant": -213,
+			"Tache": "Découper en tâches et voir la charge",
+			"status": "a etudier",
+			"start_date": null
+		},
+		{
+			"Projet": "App SGSanté",
+			"due_date": "29-01-2021",
+			"priority": null,
+			"temps_restant": -195,
+			"Tache": "Géolocalisation des partenaires santé (réseaux des soins)",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "API Noémie 408",
+			"due_date": "22-02-2021",
+			"priority": null,
+			"temps_restant": -171,
+			"Tache": "Planifier les traitements à réaliser sur le sujet",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise",
+			"due_date": "29-03-2021",
+			"priority": null,
+			"temps_restant": -136,
+			"Tache": "Distinction surco obligatoire / facultative",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "04-04-2021",
+			"priority": "high",
+			"temps_restant": -130,
+			"Tache": "Automatisation pour l'envoi des propositions individuelles via BDOC",
+			"status": "en attente d'infos po",
+			"start_date": null
+		},
+		{
+			"Projet": "Communication Management",
+			"due_date": "12-04-2021",
+			"priority": null,
+			"temps_restant": -122,
+			"Tache": "?? Newsletter Insert or Other",
+			"status": "to send",
+			"start_date": null
+		},
+		{
+			"Projet": "Improvement Management",
+			"due_date": "12-04-2021",
+			"priority": null,
+			"temps_restant": -122,
+			"Tache": "?? Jackson Fowler",
+			"status": "to start",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "15-04-2021",
+			"priority": "high",
+			"temps_restant": -119,
+			"Tache": "Edition des cartes Tiers payants suite à l\u2019ajout ou la suppression d\u2019ayant droit & Correction d\u2019anomalie suite à l\u2019émission de carte à tort lors des modifications sur le BIM.",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": "27-04-2021",
+			"priority": "high",
+			"temps_restant": -107,
+			"Tache": "Définir les fréquences de déclenchement des synchronisations",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace entreprise v2",
+			"due_date": "19-05-2021",
+			"priority": null,
+			"temps_restant": -85,
+			"Tache": "Documentation",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "27-05-2021",
+			"priority": "high",
+			"temps_restant": -77,
+			"Tache": "Migration \"OPEDI / PR\" avec SIRET Fictif en lien avec COPERLAB",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-06-2021",
+			"priority": "normal",
+			"temps_restant": -72,
+			"Tache": "Centraliser toutes les actions manuelles et automatiques (bim/bia en ligne) et transmettre ces données à sodexo et securitas (Gaétan est informé)",
+			"status": "a planifier",
+			"start_date": null
+		},
+		{
+			"Projet": "PREST'IJ",
+			"due_date": "18-06-2021",
+			"priority": "urgent",
+			"temps_restant": -55,
+			"Tache": "Mise à jour le composant  « noyau_metierprevoyance.wdk »",
+			"status": "a faire",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "25-06-2021",
+			"priority": "normal",
+			"temps_restant": -48,
+			"Tache": "Historisation et récupération des dates de créations de comptes",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "01-07-2021",
+			"priority": "high",
+			"temps_restant": -42,
+			"Tache": "PROJET COPERLAB - INTEGRATIONS ET PARAMETRAGE",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": "29-07-2021",
+			"priority": null,
+			"temps_restant": -14,
+			"Tache": "Installation du Front & API",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": "Espace partenaires",
+			"due_date": "29-07-2021",
+			"priority": null,
+			"temps_restant": -14,
+			"Tache": "Présentation PowerPoint",
+			"status": "en cours",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "30-07-2021",
+			"priority": "normal",
+			"temps_restant": -13,
+			"Tache": "Création suivi et historisation de la data quality ",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": null,
+			"due_date": "03-08-2021",
+			"priority": "normal",
+			"temps_restant": -9,
+			"Tache": "dans les comptes de resultat",
+			"status": "a statuer en coproj",
+			"start_date": null
+		},
+		{
+			"Projet": "BIA en ligne V1",
+			"due_date": "11-08-2021",
+			"priority": null,
+			"temps_restant": -1,
+			"Tache": "Réaliser le processus de traitement actuel d'un BIA à intégrer",
+			"status": "planifié",
+			"start_date": null
+		},
+		{
+			"Projet": "Webservice partenaires",
+			"due_date": "11-08-2021",
+			"priority": null,
+			"temps_restant": -1,
+			"Tache": "Changement de souscripteur et d'assuré principal",
+			"status": "en cours",
+			"start_date": null
+		}
+	]
+}

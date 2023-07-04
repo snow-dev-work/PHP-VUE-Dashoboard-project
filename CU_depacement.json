@@ -1,0 +1,2500 @@
+{
+	"data": [
+		{
+			"time_estimate": 4.0,
+			"Projet": "Santé",
+			"Depacement": 1.25,
+			"PourcentDepacement": 25,
+			"Tache": "Nouveau référentiel des familles d'actes",
+			"timeSpent": 5.0
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "Demandes divers",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Mise à jour du reférentiel Nature",
+			"timeSpent": 3.0
+		},
+		{
+			"time_estimate": 14.0,
+			"Projet": "Santé",
+			"Depacement": 0.71,
+			"PourcentDepacement": -29,
+			"Tache": "Nouvelles diapositives S/P assureurs et apporteurs",
+			"timeSpent": 10.0
+		},
+		{
+			"time_estimate": 28.0,
+			"Projet": "Santé",
+			"Depacement": 0.11,
+			"PourcentDepacement": -89,
+			"Tache": "Règle de calcul OPTAM/NON OPTAM",
+			"timeSpent": 2.99
+		},
+		{
+			"time_estimate": 14.0,
+			"Projet": "Santé",
+			"Depacement": 0.14,
+			"PourcentDepacement": -86,
+			"Tache": "Diapositive dispertion audioprothèse",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 35.0,
+			"Projet": "Espace assuré",
+			"Depacement": 0.6,
+			"PourcentDepacement": -40,
+			"Tache": "Graphique des consommations",
+			"timeSpent": 21.0
+		},
+		{
+			"time_estimate": 8.0,
+			"Projet": "BIM",
+			"Depacement": 0.92,
+			"PourcentDepacement": -8,
+			"Tache": "Gestion carte TP",
+			"timeSpent": 7.33
+		},
+		{
+			"time_estimate": 105.0,
+			"Projet": "Emissions des échéanciers",
+			"Depacement": 0.01,
+			"PourcentDepacement": -99,
+			"Tache": "Automatisation des Confirmations d'adhésions",
+			"timeSpent": 1.32
+		},
+		{
+			"time_estimate": 105.0,
+			"Projet": "Emissions des échéanciers",
+			"Depacement": 0.02,
+			"PourcentDepacement": -98,
+			"Tache": "Automatisation des lettres avenants",
+			"timeSpent": 2.55
+		},
+		{
+			"time_estimate": 70.0,
+			"Projet": "Emissions des échéanciers",
+			"Depacement": 0.03,
+			"PourcentDepacement": -97,
+			"Tache": "Historisation du traitement des dossiers",
+			"timeSpent": 1.92
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "Intégration contrats cafet dans hermes",
+			"Depacement": 0.8,
+			"PourcentDepacement": -20,
+			"Tache": "Gestion des anomalies",
+			"timeSpent": 1.6
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "Intégration contrats cafet dans hermes",
+			"Depacement": 0.33,
+			"PourcentDepacement": -67,
+			"Tache": "Finaliser la création de gestion de diffusion",
+			"timeSpent": 0.66
+		},
+		{
+			"time_estimate": 6.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.83,
+			"PourcentDepacement": -17,
+			"Tache": "Gestion de la personnalisation d'un code BIA",
+			"timeSpent": 5.0
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "BIM",
+			"Depacement": 0.06,
+			"PourcentDepacement": -94,
+			"Tache": "Bundle de log automatique des modifs/ajout/sur les entités",
+			"timeSpent": 0.24
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "BIM",
+			"Depacement": 0.5,
+			"PourcentDepacement": -50,
+			"Tache": "Affichage carte tiers-payant",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "BIM",
+			"Depacement": 11.0,
+			"PourcentDepacement": 1000,
+			"Tache": "Gestion du code CPAM en cas de changement de département",
+			"timeSpent": 22.0
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "BIM",
+			"Depacement": 2.69,
+			"PourcentDepacement": 169,
+			"Tache": "Métadonnées pour le classement GED",
+			"timeSpent": 2.69
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Acte",
+			"timeSpent": 5.0
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.6,
+			"PourcentDepacement": -40,
+			"Tache": "Apgar",
+			"timeSpent": 3.0
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.2,
+			"PourcentDepacement": -80,
+			"Tache": "Apgarben",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.1,
+			"PourcentDepacement": -90,
+			"Tache": "Appelcot",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.1,
+			"PourcentDepacement": -90,
+			"Tache": "Apporteu",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.1,
+			"PourcentDepacement": -90,
+			"Tache": "Assremb",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.07,
+			"PourcentDepacement": -93,
+			"Tache": "Assure",
+			"timeSpent": 0.33
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.1,
+			"PourcentDepacement": -90,
+			"Tache": "Cetecpam",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.07,
+			"PourcentDepacement": -93,
+			"Tache": "Choix",
+			"timeSpent": 0.33
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.2,
+			"PourcentDepacement": -80,
+			"Tache": "Cie",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.07,
+			"PourcentDepacement": -93,
+			"Tache": "Contass",
+			"timeSpent": 0.33
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.1,
+			"PourcentDepacement": -90,
+			"Tache": "Contrat",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.1,
+			"PourcentDepacement": -90,
+			"Tache": "Entedi",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.4,
+			"PourcentDepacement": -60,
+			"Tache": "Garconci",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 8.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.06,
+			"PourcentDepacement": -94,
+			"Tache": "Ldec",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.13,
+			"PourcentDepacement": -87,
+			"Tache": "Produit",
+			"timeSpent": 0.67
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.07,
+			"PourcentDepacement": -93,
+			"Tache": "Respcont",
+			"timeSpent": 0.33
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Tranverse",
+			"Depacement": 0.1,
+			"PourcentDepacement": -90,
+			"Tache": "Uti",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 21.0,
+			"Projet": "Statistiques 360",
+			"Depacement": 0.14,
+			"PourcentDepacement": -86,
+			"Tache": "Première analyse du besoin",
+			"timeSpent": 3.0
+		},
+		{
+			"time_estimate": 1.5,
+			"Projet": "Demandes divers",
+			"Depacement": 0.67,
+			"PourcentDepacement": -33,
+			"Tache": "Extractions des prestations pour Sodexo",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "Intégration clients",
+			"Depacement": 0.15,
+			"PourcentDepacement": -85,
+			"Tache": "Souscripteurs SECURITAS",
+			"timeSpent": 0.44
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Demandes divers",
+			"Depacement": 0.75,
+			"PourcentDepacement": -25,
+			"Tache": "Extraction des actes SOINS COURANTS - PROTHESES pour analyse Eric O.",
+			"timeSpent": 0.75
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Gestion",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Migration source de données (connexion sur SQLSERVER)",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "Intégration contrats cafet dans hermes",
+			"Depacement": 0.78,
+			"PourcentDepacement": -22,
+			"Tache": "Ajout de la recherche par \"Pole\"",
+			"timeSpent": 0.39
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Intégration contrats cafet dans hermes",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Ajout des modèles de paramétrage de commissions",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 6.0,
+			"Projet": "Demandes divers",
+			"Depacement": 0.92,
+			"PourcentDepacement": -8,
+			"Tache": "Anomalie lors de la génération d'un CdR (Inserxo)",
+			"timeSpent": 5.5
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "Demandes divers",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Support sur actualisation des données SAGE",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 1.33,
+			"PourcentDepacement": 33,
+			"Tache": "Création d'un reporting listant les bénéficiaires sortis",
+			"timeSpent": 2.65
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Gestion",
+			"Depacement": 0.07,
+			"PourcentDepacement": -93,
+			"Tache": "Atelier avec le métier à effectuer",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "Intégration contrats cafet dans hermes",
+			"Depacement": 0.0,
+			"PourcentDepacement": -100,
+			"Tache": "Intégration des contrats pour le domaine Indiv",
+			"timeSpent": 0.0
+		},
+		{
+			"time_estimate": 0.75,
+			"Projet": "Gestion",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Validation du job Talend",
+			"timeSpent": 0.75
+		},
+		{
+			"time_estimate": 0.17,
+			"Projet": "Gestion",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Planification du job Talend",
+			"timeSpent": 0.17
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Gestion",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Validation des jobs SAS",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 0.25,
+			"Projet": "Gestion",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Planification des jobs SAS",
+			"timeSpent": 0.25
+		},
+		{
+			"time_estimate": 0.17,
+			"Projet": "Gestion",
+			"Depacement": 0.47,
+			"PourcentDepacement": -53,
+			"Tache": "Validation du rapport de test",
+			"timeSpent": 0.08
+		},
+		{
+			"time_estimate": 3.5,
+			"Projet": "BIM",
+			"Depacement": 2.83,
+			"PourcentDepacement": 183,
+			"Tache": "Génération du document BDOC",
+			"timeSpent": 9.91
+		},
+		{
+			"time_estimate": 3.5,
+			"Projet": "BIM",
+			"Depacement": 6.81,
+			"PourcentDepacement": 581,
+			"Tache": "Appel du service de signature numérique",
+			"timeSpent": 23.82
+		},
+		{
+			"time_estimate": 14.0,
+			"Projet": "Statistiques 360",
+			"Depacement": 0.36,
+			"PourcentDepacement": -64,
+			"Tache": "Etude de faisabilité",
+			"timeSpent": 5.0
+		},
+		{
+			"time_estimate": 0.25,
+			"Projet": "Demandes divers",
+			"Depacement": 0.68,
+			"PourcentDepacement": -32,
+			"Tache": "Paramétrage MyReport Solange O.",
+			"timeSpent": 0.17
+		},
+		{
+			"time_estimate": 0.25,
+			"Projet": "Demandes divers",
+			"Depacement": 0.68,
+			"PourcentDepacement": -32,
+			"Tache": "Paramétrage MyReport Baptiste H.",
+			"timeSpent": 0.17
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "Demandes divers",
+			"Depacement": 0.66,
+			"PourcentDepacement": -34,
+			"Tache": "Mise à jour licences SAS OA",
+			"timeSpent": 0.33
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "Demandes divers",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Mise  à jour licences serveur VIYA",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 0.08,
+			"Projet": "Espace assuré",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Corriger le message d'erreur lors de l'expiration de la session",
+			"timeSpent": 0.08
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "BIM",
+			"Depacement": 0.02,
+			"PourcentDepacement": -98,
+			"Tache": "page de connexion indépendante avec gestion des erreurs",
+			"timeSpent": 0.12
+		},
+		{
+			"time_estimate": 0.25,
+			"Projet": "Demandes divers",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Mise à jour référentiel Nature",
+			"timeSpent": 0.25
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Demandes divers",
+			"Depacement": 0.5,
+			"PourcentDepacement": -50,
+			"Tache": "Support Serveur VIYA",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "BIM",
+			"Depacement": 2.77,
+			"PourcentDepacement": 177,
+			"Tache": "Modification des données dans CAFETERIA après signature",
+			"timeSpent": 5.54
+		},
+		{
+			"time_estimate": 0.08,
+			"Projet": "Demandes divers",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Mise à jour fichier FASTT au 30/10/2019",
+			"timeSpent": 0.08
+		},
+		{
+			"time_estimate": 10.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.2,
+			"PourcentDepacement": -80,
+			"Tache": "Intégration au sein de la bibliothèque et du code, la création d'un utilisateur pour l'accès à l'espace partenaire",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 8.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.13,
+			"PourcentDepacement": -87,
+			"Tache": "Reporting Mensuel IMA",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Gestion",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Migration rapport TDB A traiter",
+			"timeSpent": 5.0
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "Gestion",
+			"Depacement": 0.33,
+			"PourcentDepacement": -67,
+			"Tache": "Migration rapport Tiers trésorerie",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "Gestion",
+			"Depacement": 0.75,
+			"PourcentDepacement": -25,
+			"Tache": "Migration TDB PEC HOSPI",
+			"timeSpent": 3.0
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Gestion",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Préparer communication auprès des utilisateurs",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "Gestion",
+			"Depacement": 1.5,
+			"PourcentDepacement": 50,
+			"Tache": "Nouveaux lien vers rapports",
+			"timeSpent": 3.0
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.77,
+			"PourcentDepacement": -23,
+			"Tache": "Réunion téléphonique bimensuelle",
+			"timeSpent": 0.77
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "Gestion",
+			"Depacement": 0.5,
+			"PourcentDepacement": -50,
+			"Tache": "Ordonnancement des jobs VIYA",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "DSI",
+			"Depacement": 0.07,
+			"PourcentDepacement": -93,
+			"Tache": "Migration des jobs Talend sur nouveau serveur",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "Gestion",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Mise à jour des licences VIYA",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Demandes divers",
+			"Depacement": 0.33,
+			"PourcentDepacement": -67,
+			"Tache": "Installation et configuration compte MyReport pour Paul ROUSSEAUX",
+			"timeSpent": 0.33
+		},
+		{
+			"time_estimate": 14.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.36,
+			"PourcentDepacement": -64,
+			"Tache": "Créer un accès au BIA en ligne pour les gestionnaires",
+			"timeSpent": 5.0
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.07,
+			"PourcentDepacement": -93,
+			"Tache": "En tant que gestionnaire je ne suis pas obligée d'ajouter les pièces jointes",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.29,
+			"PourcentDepacement": -71,
+			"Tache": "En tant que gestionnaire je ne passe pas par la signature électronique",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Projet 2",
+			"Depacement": 0.29,
+			"PourcentDepacement": -71,
+			"Tache": "Tâche 2",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.86,
+			"PourcentDepacement": -14,
+			"Tache": "Le BIA rempli par une gestionnaire ne passe pas par la validation de l'entreprise",
+			"timeSpent": 6.0
+		},
+		{
+			"time_estimate": 10.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.12,
+			"PourcentDepacement": -88,
+			"Tache": "Prévoir le cas de la radiation d'une adhésion collective",
+			"timeSpent": 1.2
+		},
+		{
+			"time_estimate": 70.0,
+			"Projet": "Espace assuré",
+			"Depacement": 0.04,
+			"PourcentDepacement": -96,
+			"Tache": "Gestion des messages publiés sur le site web",
+			"timeSpent": 3.06
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "Espace assuré",
+			"Depacement": 0.26,
+			"PourcentDepacement": -74,
+			"Tache": "Sécuriser l'accès à la recette (idem site admin en URL /admin)",
+			"timeSpent": 1.03
+		},
+		{
+			"time_estimate": 0.08,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.38,
+			"PourcentDepacement": -62,
+			"Tache": "Intégrer le caractère \" - \" dans l'adresse email.",
+			"timeSpent": 0.03
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "Espace assuré",
+			"Depacement": 0.18,
+			"PourcentDepacement": -82,
+			"Tache": "Mise à jour kit graphique sur la page réseau itelis",
+			"timeSpent": 0.72
+		},
+		{
+			"time_estimate": 6.0,
+			"Projet": "Espace partenaires",
+			"Depacement": 0.28,
+			"PourcentDepacement": -72,
+			"Tache": "Gestion de projet, réunion et présentation",
+			"timeSpent": 1.66
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "Espace assuré",
+			"Depacement": 1.02,
+			"PourcentDepacement": 2,
+			"Tache": "Activer l'accès au BIM (carte d'identité) comme SODEXO au groupe SECURITAS code sousweb=9968491",
+			"timeSpent": 0.51
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.06,
+			"PourcentDepacement": -94,
+			"Tache": "Correction du BUG de mutation d'une adhésion d'un assuré sur une autre société du groupe",
+			"timeSpent": 0.06
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 2.0,
+			"PourcentDepacement": 100,
+			"Tache": "Ajout de l'interlocuteur sur le souscripteur du contrat",
+			"timeSpent": 14.0
+		},
+		{
+			"time_estimate": 45.0,
+			"Projet": "BIM",
+			"Depacement": 0.03,
+			"PourcentDepacement": -97,
+			"Tache": "Notification via email du service cotisation en cas de changement d'option avec cotisations individuelles",
+			"timeSpent": 1.45
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "Espace partenaires",
+			"Depacement": 1.01,
+			"PourcentDepacement": 1,
+			"Tache": "Initialisation Production",
+			"timeSpent": 4.04
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Espace assuré",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Activer l'accès au BIM (carte d'identité) pour tout les assurés",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "BIM",
+			"Depacement": 0.5,
+			"PourcentDepacement": -50,
+			"Tache": "Quand je change le numéro de téléphonne d'un assuré qui n'a aps de contrat santé, j'ai une erreur 'Auncune adhésion à un contrat santé.'",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "Espace partenaires",
+			"Depacement": 3.35,
+			"PourcentDepacement": 235,
+			"Tache": "lister les cotisations d'un contrat",
+			"timeSpent": 10.06
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "Espace partenaires",
+			"Depacement": 0.34,
+			"PourcentDepacement": -66,
+			"Tache": "Liste des cotisations - Popup modal détails cotisations",
+			"timeSpent": 1.03
+		},
+		{
+			"time_estimate": 0.25,
+			"Projet": "Espace partenaires",
+			"Depacement": 0.32,
+			"PourcentDepacement": -68,
+			"Tache": "client -> ajouter siret à la place de forme juridique",
+			"timeSpent": 0.08
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "Espace partenaires",
+			"Depacement": 0.08,
+			"PourcentDepacement": -92,
+			"Tache": "Cotisation - Ajouter rechercher par date + status",
+			"timeSpent": 0.23
+		},
+		{
+			"time_estimate": 35.0,
+			"Projet": "Espace assuré",
+			"Depacement": 0.03,
+			"PourcentDepacement": -97,
+			"Tache": "Intégration directe des infos des PEC Hospi dans HERMES",
+			"timeSpent": 1.11
+		},
+		{
+			"time_estimate": 21.0,
+			"Projet": "Espace assuré",
+			"Depacement": 0.05,
+			"PourcentDepacement": -95,
+			"Tache": "Envoi en ged des documents sur le site Assuré",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Espace partenaires",
+			"Depacement": 12.0,
+			"PourcentDepacement": 1100,
+			"Tache": "Ajouter filtre destinataire sur liste cotisation",
+			"timeSpent": 12.0
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "BIM",
+			"Depacement": 1.5,
+			"PourcentDepacement": 50,
+			"Tache": "Amélioration des logs. Ajouter notament un numéro de log unique par requête",
+			"timeSpent": 6.0
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "Demandes divers",
+			"Depacement": 0.67,
+			"PourcentDepacement": -33,
+			"Tache": "Anomalie détectée suite à l'ajout des Tiers dans modèle sage",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "App SGSanté",
+			"Depacement": 1.13,
+			"PourcentDepacement": 13,
+			"Tache": "Prise en charge hospitalière",
+			"timeSpent": 4.5
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "App SGSanté",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Accès au réseau de soins",
+			"timeSpent": 4.0
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "Normes",
+			"Depacement": 0.94,
+			"PourcentDepacement": -6,
+			"Tache": "Atelier norme ADS Prévoyance - Révision des règles prévoyance",
+			"timeSpent": 1.87
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "App SGSanté",
+			"Depacement": 0.75,
+			"PourcentDepacement": -25,
+			"Tache": "Affichage dynamique du lexique",
+			"timeSpent": 1.5
+		},
+		{
+			"time_estimate": 1.5,
+			"Projet": "App SGSanté",
+			"Depacement": 0.67,
+			"PourcentDepacement": -33,
+			"Tache": "Validation saisie SIGN UP",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "App SGSanté",
+			"Depacement": 0.44,
+			"PourcentDepacement": -56,
+			"Tache": "Affichage dynamique des logos",
+			"timeSpent": 1.32
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "BIM",
+			"Depacement": 0.55,
+			"PourcentDepacement": -45,
+			"Tache": "Modification du prénom de l'assure",
+			"timeSpent": 2.19
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "BIM",
+			"Depacement": 0.08,
+			"PourcentDepacement": -92,
+			"Tache": "Beneficiaire: nom, prenom, date de naissance",
+			"timeSpent": 0.55
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "BIM",
+			"Depacement": 0.29,
+			"PourcentDepacement": -71,
+			"Tache": "Controle de la cohérence du nuéro de sécu du conjoint par rapport à la date de naissance",
+			"timeSpent": 1.14
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "BIM",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Refactor pour pouvoir modifier les beneficiaires",
+			"timeSpent": 3.0
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Intégration contrats cafet dans hermes",
+			"Depacement": 0.2,
+			"PourcentDepacement": -80,
+			"Tache": "Correction des anomalies d'intégrations métier suite retour de la recette du 20/03/2020 - 06/04/2020 - 07/05/2020 - 13/05/2020",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 0.17,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 1.06,
+			"PourcentDepacement": 6,
+			"Tache": "Passer le champ \"id_contrat\" de la table \"modalite_contrat\" en index côté SQL et clé avec doublon côté Windev",
+			"timeSpent": 0.18
+		},
+		{
+			"time_estimate": 35.0,
+			"Projet": "Job cafétéria",
+			"Depacement": 0.05,
+			"PourcentDepacement": -95,
+			"Tache": "Traitement quotidien de demande des pièces justificatives",
+			"timeSpent": 1.92
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Job cafétéria",
+			"Depacement": 0.02,
+			"PourcentDepacement": -98,
+			"Tache": "Fichier anomalie: ajouter souscripteur, produit, gestionnaire BDD",
+			"timeSpent": 0.17
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Job cafétéria",
+			"Depacement": 0.49,
+			"PourcentDepacement": -51,
+			"Tache": "Gestion cartes TP: cartes éditées sur les mauvais contrats",
+			"timeSpent": 3.41
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Job cafétéria",
+			"Depacement": 0.18,
+			"PourcentDepacement": -82,
+			"Tache": "Gestion des anomalies",
+			"timeSpent": 1.26
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Harmonisation des courriers de gestion sortants",
+			"Depacement": 1.7,
+			"PourcentDepacement": 70,
+			"Tache": "Initiation Windev",
+			"timeSpent": 1.7
+		},
+		{
+			"time_estimate": 35.0,
+			"Projet": "Espace assuré",
+			"Depacement": 0.01,
+			"PourcentDepacement": -99,
+			"Tache": "Intégration directe des infos des PEC Hospi dans HERMES dans le front",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.54,
+			"PourcentDepacement": -46,
+			"Tache": "Contrôle de la validité du numéro de sécurité sociale dans le cas d'un enfant",
+			"timeSpent": 0.54
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.26,
+			"PourcentDepacement": -74,
+			"Tache": "Etude du cahier des charges de reporting pour PREVOIR",
+			"timeSpent": 0.13
+		},
+		{
+			"time_estimate": 6.0,
+			"Projet": "Job cafétéria",
+			"Depacement": 0.25,
+			"PourcentDepacement": -75,
+			"Tache": "Mettre en place EntityhistoryBundle",
+			"timeSpent": 1.5
+		},
+		{
+			"time_estimate": 14.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.05,
+			"PourcentDepacement": -95,
+			"Tache": "Gestion des num sécu enfants",
+			"timeSpent": 0.75
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.16,
+			"PourcentDepacement": -84,
+			"Tache": "Gestion du régime des ayants droits",
+			"timeSpent": 1.14
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.3,
+			"PourcentDepacement": -70,
+			"Tache": "Gestion du nombre d'employeurs",
+			"timeSpent": 2.07
+		},
+		{
+			"time_estimate": 3.5,
+			"Projet": "Attestations fiscales prev",
+			"Depacement": 0.26,
+			"PourcentDepacement": -74,
+			"Tache": "Générer export Excel",
+			"timeSpent": 0.9
+		},
+		{
+			"time_estimate": 0.08,
+			"Projet": "Ordonnanceur",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Changer l'émétteur des notifications JobScheduler",
+			"timeSpent": 0.08
+		},
+		{
+			"time_estimate": 0.25,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.0,
+			"PourcentDepacement": -100,
+			"Tache": "Mettre à jour les tables de production avec prise en compte des nouveaux champs",
+			"timeSpent": 0.0
+		},
+		{
+			"time_estimate": 21.0,
+			"Projet": "BIM",
+			"Depacement": 0.19,
+			"PourcentDepacement": -81,
+			"Tache": "Lors de l'ajout d'un beneficiaire, si l'ayant droit était déjà présent, il faut tracer la totalitée des adhésions dans 'Ayants droit exclusifs de la garantie'.",
+			"timeSpent": 4.0
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "BIM",
+			"Depacement": 0.34,
+			"PourcentDepacement": -66,
+			"Tache": "Remplir le README de l'APIGED",
+			"timeSpent": 0.34
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": null,
+			"Depacement": 0.12,
+			"PourcentDepacement": -88,
+			"Tache": "Pour le service Prévoyance ajouter sur l'état des lieux Gest'IP SODEXO, l'état des lieux des paiements SGSANTE",
+			"timeSpent": 0.37
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": null,
+			"Depacement": 0.66,
+			"PourcentDepacement": -34,
+			"Tache": "Pour le service Prévoyance, générer un fichier des indémnisations Sécu et RC à partir du fichier SODEXO",
+			"timeSpent": 1.98
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Outil de qualif",
+			"Depacement": 0.02,
+			"PourcentDepacement": -98,
+			"Tache": "Gestion du blocage des familles et domaines pour l'intégration en GED",
+			"timeSpent": 0.12
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "Espace assuré",
+			"Depacement": 0.0,
+			"PourcentDepacement": -100,
+			"Tache": "Augmenter la zone de clic sur toute la pastille violette",
+			"timeSpent": 0.0
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 2.01,
+			"PourcentDepacement": 101,
+			"Tache": "Paramétrage du produit LOOMA UNMI ST BUREAUX ETUDES TECH",
+			"timeSpent": 2.01
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.51,
+			"PourcentDepacement": -49,
+			"Tache": "Paramétrage du produit LOOMA UNMI ST HCR",
+			"timeSpent": 0.51
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.57,
+			"PourcentDepacement": -43,
+			"Tache": "Paramétrage du produit LOOMA UNMI ST IMMOBILIER",
+			"timeSpent": 0.57
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.03,
+			"PourcentDepacement": -97,
+			"Tache": "Paramétrage du produit LOOMA UNMI ST PHARMACIE",
+			"timeSpent": 0.03
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.16,
+			"PourcentDepacement": -84,
+			"Tache": "Paramétrage du produit LOOMA UNMI ST PLASTURGIE",
+			"timeSpent": 0.16
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.13,
+			"PourcentDepacement": -87,
+			"Tache": "Paramétrage du produit LOOMA UNMI ST PRESTA SERVICES",
+			"timeSpent": 0.13
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "BIM",
+			"Depacement": 0.2,
+			"PourcentDepacement": -80,
+			"Tache": "Contrôle ayants-droit. messages et a classer",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Santé",
+			"Depacement": 0.13,
+			"PourcentDepacement": -87,
+			"Tache": "Nouvelles diapositives « Focus Optique \u2013 utilisation du réseau »  par panier",
+			"timeSpent": 0.88
+		},
+		{
+			"time_estimate": 10.0,
+			"Projet": "Santé",
+			"Depacement": 0.2,
+			"PourcentDepacement": -80,
+			"Tache": "Nouvelles diapositives « Focus dentaire \u2013 utilisation du réseau »  par panier",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "Santé",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Faire apparaitre toutes les sous familles (100% Santé et Hors 100% Santé) pour le dentaire et l\u2019optique dans le tableau de la diapositive « Détail de la consommation ».",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Santé",
+			"Depacement": 0.29,
+			"PourcentDepacement": -71,
+			"Tache": "Ajouter un filtre sur la famille « Divers » pour afficher que les décomptes remboursés par AGEO.",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Santé",
+			"Depacement": 0.43,
+			"PourcentDepacement": -57,
+			"Tache": "Revoir la règle de calcul des couts moyens dans le tableaux du « synthèse du poste » dans les diapositives « Dispersion des dépenses » pour le 100% Santé.",
+			"timeSpent": 3.0
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Santé",
+			"Depacement": 0.6,
+			"PourcentDepacement": -40,
+			"Tache": "Mettre à jour l\u2019affichage des sous totaux du 100% Santé « afficher les trois types de paniers pour le dentaire et les deux pour l\u2019optique», et on laisse le cumule tel qu\u2019il est (en haut).",
+			"timeSpent": 3.0
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Santé",
+			"Depacement": 0.1,
+			"PourcentDepacement": -90,
+			"Tache": "Utiliser un code couleur des familles d\u2019actes dans le tableau du Détail de la consommation .",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "Santé",
+			"Depacement": 0.2,
+			"PourcentDepacement": -80,
+			"Tache": "Ajouter une ligne pour calculer le nombre de bénéficiaires ayant un médecin traitant .",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "Santé",
+			"Depacement": 0.67,
+			"PourcentDepacement": -33,
+			"Tache": "Faire apparaître la notion de « Divers Dentaire » et « Divers Optique » pour les actes qui ne sont pas dans le scope du 100% santé",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 18.0,
+			"Projet": "Finance",
+			"Depacement": 0.02,
+			"PourcentDepacement": -98,
+			"Tache": "Mise à jour rapport Excel pour détail des résultats financiers",
+			"timeSpent": 0.37
+		},
+		{
+			"time_estimate": 21.0,
+			"Projet": "Demandes divers",
+			"Depacement": 0.05,
+			"PourcentDepacement": -95,
+			"Tache": "TDB pour les documents supprimés",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "Santé",
+			"Depacement": 0.02,
+			"PourcentDepacement": -98,
+			"Tache": "Modification de la diapo \"Résultat de votre régime\"",
+			"timeSpent": 0.17
+		},
+		{
+			"time_estimate": 70.0,
+			"Projet": "BackOffice",
+			"Depacement": 0.02,
+			"PourcentDepacement": -98,
+			"Tache": "Consolidation des données",
+			"timeSpent": 1.24
+		},
+		{
+			"time_estimate": 1.5,
+			"Projet": "Demandes divers",
+			"Depacement": 0.34,
+			"PourcentDepacement": -66,
+			"Tache": "Correction anomlie dans appel de primes MyReport",
+			"timeSpent": 0.51
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "BIM",
+			"Depacement": 0.75,
+			"PourcentDepacement": -25,
+			"Tache": "Contrôle de l'option de cotisation",
+			"timeSpent": 3.0
+		},
+		{
+			"time_estimate": 14.0,
+			"Projet": "Gestion",
+			"Depacement": 0.01,
+			"PourcentDepacement": -99,
+			"Tache": "Ajout de controles",
+			"timeSpent": 0.17
+		},
+		{
+			"time_estimate": 21.0,
+			"Projet": "DSN",
+			"Depacement": 0.19,
+			"PourcentDepacement": -81,
+			"Tache": "Evolution : Ajout d'un paramètre souscripteur activer/Desactiver envoi Mail auto",
+			"timeSpent": 4.0
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "BIM",
+			"Depacement": 1.08,
+			"PourcentDepacement": 8,
+			"Tache": "Lors de l'ajout d'un concubin, il faut demander l'atestation de vie commune => oui",
+			"timeSpent": 2.16
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "BIM",
+			"Depacement": 0.16,
+			"PourcentDepacement": -84,
+			"Tache": "Pour le lien autre (si ascendant ou enfant handicapé), on ne fait pas l'adhesion, on classe en GED et la gestion fait l'adhésion.",
+			"timeSpent": 1.14
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "BIM",
+			"Depacement": 0.5,
+			"PourcentDepacement": -50,
+			"Tache": "Suppresion de la validation du code CPAM",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "BIM",
+			"Depacement": 0.3,
+			"PourcentDepacement": -70,
+			"Tache": "Changer les domaines des sites",
+			"timeSpent": 0.89
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "BIM",
+			"Depacement": 0.56,
+			"PourcentDepacement": -44,
+			"Tache": "Lors de l'ajout d'un ayantdroit, vérifier l'age limit du contrat par rapport à la date d'effet et non par rapport à ça date de naissance.",
+			"timeSpent": 1.69
+		},
+		{
+			"time_estimate": 21.0,
+			"Projet": "BIM",
+			"Depacement": 0.1,
+			"PourcentDepacement": -90,
+			"Tache": "Nouvelle règle de gestion",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 35.0,
+			"Projet": "DSN",
+			"Depacement": 0.06,
+			"PourcentDepacement": -94,
+			"Tache": "Evolution : Mail automatiques",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "App SGSanté",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Création de la modale pour les garanties",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "App SGSanté",
+			"Depacement": 1.5,
+			"PourcentDepacement": 50,
+			"Tache": "Activation de compte",
+			"timeSpent": 1.5
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "BIM",
+			"Depacement": 0.22,
+			"PourcentDepacement": -78,
+			"Tache": "Dans l'ajout d'ayants-droit, vérifier que les années de justif ne sont aps mis sur les conjoints au lieu des enfants",
+			"timeSpent": 0.66
+		},
+		{
+			"time_estimate": 40.0,
+			"Projet": "BIM",
+			"Depacement": 0.05,
+			"PourcentDepacement": -95,
+			"Tache": "S'il y a une option future et que l'on ajout un enfant. l'option future est supprimé au lieu d'être modifié",
+			"timeSpent": 2.09
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "BIM",
+			"Depacement": 0.02,
+			"PourcentDepacement": -98,
+			"Tache": "?\tLorsqu\u2019il y a une naissance , il faudrait que l\u2019acte de naissance soit en « à traiter » en GED chez la presta pour qu\u2019elle puisse verser la prime si besoin de naissance",
+			"timeSpent": 0.06
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "BIM",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Ajout d'enfant, mettre le nom d'usage comme copie du nom de naissance",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "App SGSanté",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Accès direct Géoloc santeclair",
+			"timeSpent": 2.0
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "App SGSanté",
+			"Depacement": 0.33,
+			"PourcentDepacement": -67,
+			"Tache": "Page problème de connexion",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "App SGSanté",
+			"Depacement": 0.48,
+			"PourcentDepacement": -52,
+			"Tache": "Correction bugs",
+			"timeSpent": 3.38
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "App SGSanté",
+			"Depacement": 0.2,
+			"PourcentDepacement": -80,
+			"Tache": "Envoi CTP par email",
+			"timeSpent": 1.43
+		},
+		{
+			"time_estimate": 21.0,
+			"Projet": "BIM",
+			"Depacement": 0.09,
+			"PourcentDepacement": -91,
+			"Tache": "Comment gérer correctement les changement multiple",
+			"timeSpent": 1.95
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "BIM",
+			"Depacement": 0.4,
+			"PourcentDepacement": -60,
+			"Tache": "Attention, si les dates de fin de contrat sont inférieur à la date d'effet d'une modification, il faut bloquer la modification",
+			"timeSpent": 2.77
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "BackOffice",
+			"Depacement": 0.58,
+			"PourcentDepacement": -42,
+			"Tache": "Mise en conformité requetes SQL pour le précompte",
+			"timeSpent": 2.32
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "Duplication de contrats",
+			"Depacement": 0.08,
+			"PourcentDepacement": -92,
+			"Tache": "FEDERATION ADMR VENDEE et DOUBS",
+			"timeSpent": 0.16
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Suivi de contrat",
+			"Depacement": 5.13,
+			"PourcentDepacement": 413,
+			"Tache": "Ajouter les champs modifiables \"Mail Apporteur\" et \"Mail Porteur de Risques\" dans le tableau récap. Obligatoire pour le RIA",
+			"timeSpent": 5.13
+		},
+		{
+			"time_estimate": 40.0,
+			"Projet": "BIM",
+			"Depacement": 0.08,
+			"PourcentDepacement": -92,
+			"Tache": "Gestion contrat en mutation",
+			"timeSpent": 3.11
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.13,
+			"PourcentDepacement": -87,
+			"Tache": "Pb de doublonnnage de l'adhésion dans certains cas notamment le sans effet",
+			"timeSpent": 0.25
+		},
+		{
+			"time_estimate": 0.17,
+			"Projet": "Suivi de contrat",
+			"Depacement": 2.47,
+			"PourcentDepacement": 147,
+			"Tache": "Correction de la détection d'un souscripteur individuel",
+			"timeSpent": 0.42
+		},
+		{
+			"time_estimate": 0.08,
+			"Projet": "Suivi de contrat",
+			"Depacement": 2.13,
+			"PourcentDepacement": 113,
+			"Tache": "Ajout des données porteur de risques au courrier souscripteur individuel",
+			"timeSpent": 0.17
+		},
+		{
+			"time_estimate": 0.17,
+			"Projet": "Suivi de contrat",
+			"Depacement": 0.65,
+			"PourcentDepacement": -35,
+			"Tache": "Dans la fenêtre cloture de contrat, bloquer la possibilité de sélection par clic droit sur un élément qui vient d'être traité",
+			"timeSpent": 0.11
+		},
+		{
+			"time_estimate": 0.25,
+			"Projet": "Suivi de contrat",
+			"Depacement": 1.24,
+			"PourcentDepacement": 24,
+			"Tache": "Gérer le cas où le contrat n'est lié à aucune affaire Hermes",
+			"timeSpent": 0.31
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 1.08,
+			"PourcentDepacement": 8,
+			"Tache": "Renommage des champs des tables afin de respecter les best pratices de nommage",
+			"timeSpent": 0.54
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 2.46,
+			"PourcentDepacement": 146,
+			"Tache": "Modification des classes pour prendre en considération les modifications de nommage",
+			"timeSpent": 2.46
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 4.64,
+			"PourcentDepacement": 364,
+			"Tache": "Préparation du package d'intégration des données en base de recette pour Hélios",
+			"timeSpent": 2.32
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.64,
+			"PourcentDepacement": -36,
+			"Tache": "Création des requêtes de création des tables non prises en charge par l'API pour le moment",
+			"timeSpent": 0.32
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.99,
+			"PourcentDepacement": -1,
+			"Tache": "Contrôle de l'intégration des fichiers non pris en charge par l'API",
+			"timeSpent": 0.99
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.24,
+			"PourcentDepacement": -76,
+			"Tache": "Nettoyage de la base de production en vue du changement de l'analyse",
+			"timeSpent": 0.24
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 2.6,
+			"PourcentDepacement": 160,
+			"Tache": "Mise en place de la sécurité pour appeler l'API",
+			"timeSpent": 2.6
+		},
+		{
+			"time_estimate": 0.33,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 1.97,
+			"PourcentDepacement": 97,
+			"Tache": "Gestion des motifs",
+			"timeSpent": 0.65
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.55,
+			"PourcentDepacement": -45,
+			"Tache": "Création de la méthode dynamique POST",
+			"timeSpent": 1.09
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.28,
+			"PourcentDepacement": -72,
+			"Tache": "Création de la méthode dynamique PATCH",
+			"timeSpent": 0.14
+		},
+		{
+			"time_estimate": 0.33,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 1.67,
+			"PourcentDepacement": 67,
+			"Tache": "Gestion des variables",
+			"timeSpent": 0.55
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.82,
+			"PourcentDepacement": -18,
+			"Tache": "Gestion des fonctions",
+			"timeSpent": 0.41
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.46,
+			"PourcentDepacement": -54,
+			"Tache": "Gestion des limites",
+			"timeSpent": 0.23
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.22,
+			"PourcentDepacement": -78,
+			"Tache": "Gestion des Justificatifs",
+			"timeSpent": 0.11
+		},
+		{
+			"time_estimate": 20.0,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.01,
+			"PourcentDepacement": -99,
+			"Tache": "Gestion des traitements",
+			"timeSpent": 0.26
+		},
+		{
+			"time_estimate": 0.17,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.71,
+			"PourcentDepacement": -29,
+			"Tache": "Gestion de la serialisation de l'ensemble des objets",
+			"timeSpent": 0.12
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 2.64,
+			"PourcentDepacement": 164,
+			"Tache": "Gestion des natures",
+			"timeSpent": 1.32
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.16,
+			"PourcentDepacement": -84,
+			"Tache": "modalite_variable : renommage du champ \"param_situation\" en \"cacher\". Inversion du booléen au sein de la table",
+			"timeSpent": 0.08
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.04,
+			"PourcentDepacement": -96,
+			"Tache": "Gestion des modalités",
+			"timeSpent": 0.07
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "DSN",
+			"Depacement": 1.3,
+			"PourcentDepacement": 30,
+			"Tache": "Rédaction du macro process de traitement des DSN",
+			"timeSpent": 1.3
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.05,
+			"PourcentDepacement": -95,
+			"Tache": "Appel de l'aiguilleur pour la génération des correspondances",
+			"timeSpent": 0.09
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 4.4,
+			"PourcentDepacement": 340,
+			"Tache": "Gestion des cas",
+			"timeSpent": 2.2
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 1.98,
+			"PourcentDepacement": 98,
+			"Tache": "Gérer l'encodage pour les caractères accentués lors d'un PATCH à l'API",
+			"timeSpent": 0.99
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "BIA en ligne V1",
+			"Depacement": 0.4,
+			"PourcentDepacement": -60,
+			"Tache": "Bug validation RH d'un BIA",
+			"timeSpent": 0.2
+		},
+		{
+			"time_estimate": 4.67,
+			"Projet": "Espace entreprise",
+			"Depacement": 0.3,
+			"PourcentDepacement": -70,
+			"Tache": "Evolution site déclaration DSIJ en reprise exclusive MTT - rajout de PJ",
+			"timeSpent": 1.38
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Duplication de contrats",
+			"Depacement": 0.4,
+			"PourcentDepacement": -60,
+			"Tache": "Demande de duplication de contrats",
+			"timeSpent": 0.4
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "BIM Paramétrage",
+			"Depacement": 0.11,
+			"PourcentDepacement": -89,
+			"Tache": "Mise à jour de la BDD de recette à partir de la production à la demande de Jérémie R.",
+			"timeSpent": 0.11
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.35,
+			"PourcentDepacement": 35,
+			"Tache": "Réalisation d'une 1ère recette interne dev",
+			"timeSpent": 1.35
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Normes",
+			"Depacement": 0.51,
+			"PourcentDepacement": -49,
+			"Tache": "Recette interne de l'outil",
+			"timeSpent": 0.51
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "Espace entreprise",
+			"Depacement": 2.0,
+			"PourcentDepacement": 100,
+			"Tache": "Débloquer le type de déclaration SECRUITAS ACCUEIL et SERVICES",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "Espace assuré",
+			"Depacement": 0.64,
+			"PourcentDepacement": -36,
+			"Tache": "Précisions sur les soins courants lors de l'envoi de documents",
+			"timeSpent": 1.28
+		},
+		{
+			"time_estimate": 14.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.0,
+			"PourcentDepacement": -100,
+			"Tache": "test requêtes postman + api elasticsearch",
+			"timeSpent": 0.0
+		},
+		{
+			"time_estimate": 14.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.03,
+			"PourcentDepacement": -97,
+			"Tache": "Vérification des champs de saisie",
+			"timeSpent": 0.39
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "Webservice partenaires",
+			"Depacement": 0.09,
+			"PourcentDepacement": -91,
+			"Tache": "getAssureWeb : Compléter la méthode pour renvoyer les mouvements Noémie envoyés au CPAM",
+			"timeSpent": 0.28
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.25,
+			"PourcentDepacement": -75,
+			"Tache": "correction visuel des champs de recherche + nettoyage du CSS",
+			"timeSpent": 0.98
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.13,
+			"PourcentDepacement": -87,
+			"Tache": "1ere correction des fautes d'orthographe",
+			"timeSpent": 0.25
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.03,
+			"PourcentDepacement": -97,
+			"Tache": "ajout des tooltips sur les champs de recherche",
+			"timeSpent": 0.11
+		},
+		{
+			"time_estimate": 14.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.24,
+			"PourcentDepacement": -76,
+			"Tache": "creation des objets pour les requetes axios vers elasticsearch",
+			"timeSpent": 3.31
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.4,
+			"PourcentDepacement": 40,
+			"Tache": "test des requetes axios vers elasticsearch",
+			"timeSpent": 2.8
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.29,
+			"PourcentDepacement": -71,
+			"Tache": "creation des regexs pour les champs de recherche",
+			"timeSpent": 1.16
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.6,
+			"PourcentDepacement": -40,
+			"Tache": "creation des composants de la modal d'affichage des données",
+			"timeSpent": 2.4
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.14,
+			"PourcentDepacement": -86,
+			"Tache": "ajout d'icon 'Info' sur les champs de recherche + tooltip",
+			"timeSpent": 0.42
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.89,
+			"PourcentDepacement": -11,
+			"Tache": "recuperation par requete des types de traitement pour alimenter les options des selects",
+			"timeSpent": 2.66
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.06,
+			"PourcentDepacement": 6,
+			"Tache": "creation d'un onglet pour une selection temporelle",
+			"timeSpent": 7.39
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.74,
+			"PourcentDepacement": -26,
+			"Tache": "creation system de pagination sur le tableau de resultat",
+			"timeSpent": 2.96
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.83,
+			"PourcentDepacement": -17,
+			"Tache": "affinage du visuel des tooltips",
+			"timeSpent": 1.66
+		},
+		{
+			"time_estimate": 40.0,
+			"Projet": "Normes",
+			"Depacement": 0.48,
+			"PourcentDepacement": -52,
+			"Tache": "Ajout de la notion de regroupement de TIC par souscripteur",
+			"timeSpent": 19.0
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "Normes",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Ajout de la visualisation du contrat mixte",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 10.0,
+			"Projet": "Normes",
+			"Depacement": 0.5,
+			"PourcentDepacement": -50,
+			"Tache": "Ajout de l'historique lors du rapprochement pour améliorer la détection auto",
+			"timeSpent": 5.0
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": null,
+			"Depacement": 0.01,
+			"PourcentDepacement": -99,
+			"Tache": "Intégration du rang du bénéficiaire (CODE_BENEF) dans les bases prestations",
+			"timeSpent": 0.1
+		},
+		{
+			"time_estimate": 3.5,
+			"Projet": null,
+			"Depacement": 0.1,
+			"PourcentDepacement": -90,
+			"Tache": "Transmettre le descriptif des données présentes dans le fichier mensuel des prestations",
+			"timeSpent": 0.36
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.15,
+			"PourcentDepacement": -85,
+			"Tache": "affichage des données dans la modal de restitution",
+			"timeSpent": 1.08
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.06,
+			"PourcentDepacement": -94,
+			"Tache": "modification des keys du composant createCombo",
+			"timeSpent": 0.12
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.72,
+			"PourcentDepacement": -28,
+			"Tache": "validation des données pour l'envoi",
+			"timeSpent": 0.72
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "Module Radiations",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "Trame expression de besoin / user stories",
+			"timeSpent": 3.0
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.51,
+			"PourcentDepacement": -49,
+			"Tache": "mise en place react-unique-key pour pour key du tableau de la modalData",
+			"timeSpent": 1.02
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.4,
+			"PourcentDepacement": -60,
+			"Tache": "Correction des warnings",
+			"timeSpent": 1.59
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.28,
+			"PourcentDepacement": -72,
+			"Tache": "modification du tableau de recherche",
+			"timeSpent": 1.13
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.68,
+			"PourcentDepacement": -32,
+			"Tache": "modification des tableaux de la modal de restitution",
+			"timeSpent": 2.7
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.75,
+			"PourcentDepacement": -25,
+			"Tache": "mise en place des messages utilisateurs",
+			"timeSpent": 1.5
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.94,
+			"PourcentDepacement": -6,
+			"Tache": "recherche des diffèrent shemas de données",
+			"timeSpent": 1.88
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.26,
+			"PourcentDepacement": -74,
+			"Tache": "Info-bulle d'aide à retirer lors du survol de libellé du champ",
+			"timeSpent": 0.13
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.4,
+			"PourcentDepacement": -60,
+			"Tache": "Réinitialisation des champs de recherche intempestives lors de la saisie de certains champs",
+			"timeSpent": 1.61
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.01,
+			"PourcentDepacement": 1,
+			"Tache": "Lors de la saisie via la sélection rapide, rien ne s'affiche",
+			"timeSpent": 4.03
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.18,
+			"PourcentDepacement": -82,
+			"Tache": "Lorsque l'on rentre en saisie dans les champs date de début et date de fin, la sélection rapide doit disparaitre si elle était affichée",
+			"timeSpent": 0.71
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.24,
+			"PourcentDepacement": -76,
+			"Tache": "résolution du pb de récupération di @timestamp",
+			"timeSpent": 0.47
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.18,
+			"PourcentDepacement": -82,
+			"Tache": "mettre en place un .env pour les url elastic",
+			"timeSpent": 0.36
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.2,
+			"PourcentDepacement": -80,
+			"Tache": "modification de la logique du combo traitement",
+			"timeSpent": 0.4
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.65,
+			"PourcentDepacement": -35,
+			"Tache": "suppression du stockage en session Storage sur les appel API",
+			"timeSpent": 4.54
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.63,
+			"PourcentDepacement": -37,
+			"Tache": "création d'un objet pour tous les textes affichés",
+			"timeSpent": 1.25
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.15,
+			"PourcentDepacement": -85,
+			"Tache": "correction bug fermeture sélection temporelle",
+			"timeSpent": 0.29
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.57,
+			"PourcentDepacement": -43,
+			"Tache": "tri + réorganisation des fichiers CSS",
+			"timeSpent": 2.28
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "réglage problème MAJ de la recette",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 14.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.05,
+			"PourcentDepacement": -95,
+			"Tache": "refonte de  modalData.js",
+			"timeSpent": 0.66
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.03,
+			"PourcentDepacement": 3,
+			"Tache": "revoir regex NIR et IDassure",
+			"timeSpent": 1.03
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.44,
+			"PourcentDepacement": -56,
+			"Tache": "modification disposition tableau de recherche",
+			"timeSpent": 0.44
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.09,
+			"PourcentDepacement": -91,
+			"Tache": "ajout boutons reset, export Excel",
+			"timeSpent": 0.18
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.09,
+			"PourcentDepacement": -91,
+			"Tache": "correction bug message d'erreur d'envoi du formulaire",
+			"timeSpent": 0.09
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.5,
+			"PourcentDepacement": -50,
+			"Tache": "correction bug d'affichage des temps du components date",
+			"timeSpent": 0.5
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.93,
+			"PourcentDepacement": -7,
+			"Tache": "fixer le header de la modalData",
+			"timeSpent": 0.93
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.06,
+			"PourcentDepacement": -94,
+			"Tache": "modification esthétique du message d'erreur d'envoie du formulaire",
+			"timeSpent": 0.06
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.09,
+			"PourcentDepacement": -91,
+			"Tache": "création logique du bouton export Excel",
+			"timeSpent": 0.18
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.35,
+			"PourcentDepacement": -65,
+			"Tache": "création bouton retour haut de page",
+			"timeSpent": 0.69
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.59,
+			"PourcentDepacement": -41,
+			"Tache": "changement du bouton de fermeture de la modalJson",
+			"timeSpent": 0.59
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.69,
+			"PourcentDepacement": -31,
+			"Tache": "création message de recherche null",
+			"timeSpent": 0.69
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.52,
+			"PourcentDepacement": -48,
+			"Tache": "refonte du formulaire",
+			"timeSpent": 2.07
+		},
+		{
+			"time_estimate": 7.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.33,
+			"PourcentDepacement": -67,
+			"Tache": "refonte de la logique d'envoie des requêtes avec le nouveau formulaire",
+			"timeSpent": 2.31
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.78,
+			"PourcentDepacement": -22,
+			"Tache": "refonte des tooltips",
+			"timeSpent": 1.56
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.13,
+			"PourcentDepacement": -87,
+			"Tache": "modification de l'objet message",
+			"timeSpent": 0.26
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.09,
+			"PourcentDepacement": -91,
+			"Tache": "correction bug affichage de date",
+			"timeSpent": 0.09
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.2,
+			"PourcentDepacement": -80,
+			"Tache": "correction des fautes d'orthographe",
+			"timeSpent": 0.2
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.4,
+			"PourcentDepacement": 40,
+			"Tache": "nouveaux ajout dans messageTooltips.js",
+			"timeSpent": 1.4
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.23,
+			"PourcentDepacement": -77,
+			"Tache": "ajustement de l'affichage des tableau et de la scroll bar modalData.js",
+			"timeSpent": 0.46
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.81,
+			"PourcentDepacement": -19,
+			"Tache": "ajout de spinner sur les recherche",
+			"timeSpent": 1.61
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.42,
+			"PourcentDepacement": -58,
+			"Tache": "passage en Arrow fonctions sur l'ensembles des fichier js",
+			"timeSpent": 0.84
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.81,
+			"PourcentDepacement": -19,
+			"Tache": "passage de React-components en function",
+			"timeSpent": 3.23
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.8,
+			"PourcentDepacement": 80,
+			"Tache": "perfectionnement React.js",
+			"timeSpent": 3.59
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.26,
+			"PourcentDepacement": -74,
+			"Tache": "vérification et modification des objet de requêtes",
+			"timeSpent": 0.51
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.82,
+			"PourcentDepacement": -18,
+			"Tache": "modification des textes de la pagination",
+			"timeSpent": 0.41
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.66,
+			"PourcentDepacement": -34,
+			"Tache": "affinage de l'affichage de la date dans le tableau de recherche",
+			"timeSpent": 1.32
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.45,
+			"PourcentDepacement": -55,
+			"Tache": "correction bug sur responsive design",
+			"timeSpent": 0.45
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.25,
+			"PourcentDepacement": -75,
+			"Tache": "ajout des 3 options sur combo option",
+			"timeSpent": 0.25
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.15,
+			"PourcentDepacement": -85,
+			"Tache": "correction incohérence de recherche par traitement",
+			"timeSpent": 0.59
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.76,
+			"PourcentDepacement": 76,
+			"Tache": "correction du bug d'affichage des datas de \"anciennes données cafétéria\"",
+			"timeSpent": 3.51
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.06,
+			"PourcentDepacement": -94,
+			"Tache": "corriger bug de requête de créneau de dates",
+			"timeSpent": 0.25
+		},
+		{
+			"time_estimate": 0.08,
+			"Projet": "Webservice partenaires",
+			"Depacement": 2.25,
+			"PourcentDepacement": 125,
+			"Tache": "Changer l'URL de l'API Assuré en production",
+			"timeSpent": 0.18
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.4,
+			"PourcentDepacement": -60,
+			"Tache": "valeur par default de input date",
+			"timeSpent": 1.59
+		},
+		{
+			"time_estimate": 0.17,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.82,
+			"PourcentDepacement": -18,
+			"Tache": "Label select temporel modifier couleur et ajout poctuation",
+			"timeSpent": 0.14
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.74,
+			"PourcentDepacement": -26,
+			"Tache": "réinitialiser la valeur de recherche au click sur la \"Sélection d'un critère de recherche\"",
+			"timeSpent": 0.37
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.44,
+			"PourcentDepacement": -56,
+			"Tache": "recherche : ajuster message utilisateur en fonction du champ incorrecte",
+			"timeSpent": 2.2
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.22,
+			"PourcentDepacement": -78,
+			"Tache": "Faire une liste des champs de données Cafeteria",
+			"timeSpent": 0.44
+		},
+		{
+			"time_estimate": 4.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.56,
+			"PourcentDepacement": -44,
+			"Tache": "affinage de la recherche par nom (commence par...)",
+			"timeSpent": 2.23
+		},
+		{
+			"time_estimate": 3.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.95,
+			"PourcentDepacement": -5,
+			"Tache": "réorganisation architecture du dossier src",
+			"timeSpent": 2.85
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.5,
+			"PourcentDepacement": 50,
+			"Tache": "ajout d'un composant message utilisateur",
+			"timeSpent": 1.5
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.0,
+			"PourcentDepacement": 0,
+			"Tache": "ajout d'un router",
+			"timeSpent": 1.0
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.66,
+			"PourcentDepacement": -34,
+			"Tache": "création d'un composant menu vierge",
+			"timeSpent": 0.33
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.86,
+			"PourcentDepacement": -14,
+			"Tache": "ajout des nouveaux messages utilisateur dans fichier text.js",
+			"timeSpent": 1.72
+		},
+		{
+			"time_estimate": 0.5,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.6,
+			"PourcentDepacement": -40,
+			"Tache": "supprimer les states des anciens messages utilisateur",
+			"timeSpent": 0.3
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.76,
+			"PourcentDepacement": -24,
+			"Tache": "ajout snackbar message search result",
+			"timeSpent": 0.76
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 1.34,
+			"PourcentDepacement": 34,
+			"Tache": "Tableau result :suppression du bouton détail",
+			"timeSpent": 2.68
+		},
+		{
+			"time_estimate": 2.0,
+			"Projet": "API Noémie 408",
+			"Depacement": 0.61,
+			"PourcentDepacement": -39,
+			"Tache": "Réaménagement de l'architecture code",
+			"timeSpent": 1.21
+		},
+		{
+			"time_estimate": 5.0,
+			"Projet": "App SGSanté",
+			"Depacement": 0.05,
+			"PourcentDepacement": -95,
+			"Tache": "Ajustements UI",
+			"timeSpent": 0.25
+		},
+		{
+			"time_estimate": 1.0,
+			"Projet": "App SGSanté",
+			"Depacement": 2.0,
+			"PourcentDepacement": 100,
+			"Tache": "Menu drawer",
+			"timeSpent": 2.0
+		}
+	]
+}

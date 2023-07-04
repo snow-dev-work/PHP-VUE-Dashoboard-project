@@ -1,0 +1,80 @@
+.custom-form {
+	--color-accent: var(--color-primary);
+	--scroll-bar-color: var(--color-accent);
+
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+
+	overflow-x: auto;
+
+	position: relative;
+	gap: 1em;
+
+	max-height: 80vh;
+}
+
+.custom-form__header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.custom-form h2 {
+	color: var(--color-secondary);
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.custom-form__header button {
+	border: none;
+	padding: 0;
+}
+
+.custom-form > .large {
+	grid-column: 1 / -1;
+}
+
+.custom-form__buttons {
+	display: flex;
+	justify-content: center;
+	gap: 1em;
+	padding: 1em;
+}
+
+.custom-form__submit {
+	--contrasting-color: var(--color-primary) !important;
+}
+.custom-form__cancel {
+	--contrasting-color: crimson !important;
+}
+.custom-form__exit {
+	--contrasting-color: transparent !important;
+	border: none !important;
+	padding: 0 !important;
+	color: var(--color-primary) !important;
+}
+
+.custom-form :is(.disabled, [disabled]) {
+	pointer-events: none;
+	opacity: 0.5;
+}
+
+.custom-form [required] > [class$="__label"]::after {
+	content: "\002731";
+	font-size: 0.75em;
+}
+
+@media screen and (max-width: 800px) {
+	.custom-form {
+		height: 100vh;
+		max-height: 100vh !important;
+		border-radius: 0;
+	}
+}
+
+@media screen and (max-width: 650px) {
+	.custom-form {
+		grid-template-columns: 1fr;
+		align-content: start;
+	}
+}

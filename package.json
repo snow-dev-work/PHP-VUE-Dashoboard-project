@@ -1,0 +1,54 @@
+{
+	"name": "dashboard-projets",
+	"version": "3.2.0",
+	"description": "Il s'agit d'un tableau de bord permettant de visualiser l'avancement des projets informatiques.",
+	"private": true,
+	"scripts": {
+		"serve:mobile": "cd ./mobile_dev/ & npm run serve",
+		"serve:table": "cd ./table_dev/ & npm run serve",
+		"serve:timeline": "cd ./timeline_dev/ & npm run serve",
+		"serve:availability": "cd ./availability_dev/ & npm run serve",
+		"serve": "php -S localhost:8080",
+		"remove:mobile": "cd ./mobile_dev/ & npm remove %npm_config_package%",
+		"remove:table": "cd ./table_dev/ & npm remove %npm_config_package%",
+		"remove:timeline": "cd ./timeline_dev/ & npm remove %npm_config_package%",
+		"remove:availability": "cd ./availability_dev/ & npm remove %npm_config_package%",
+		"remove": "concurrently \"npm:remove:* --package=%npm_config_package%\"",
+		"build:mobile": "cd ./mobile_dev/ & npm run build",
+		"build:table": "cd ./table_dev/ & npm run build",
+		"build:timeline": "cd ./timeline_dev/ & npm run build",
+		"build:availability": "cd ./availability_dev/ & npm run build",
+		"build": "concurrently \"npm:build:*\"",
+		"install:all:mobile": "cd ./mobile_dev/ & npm install",
+		"install:all:table": "cd ./table_dev/ & npm install",
+		"install:all:timeline": "cd ./timeline_dev/ & npm install",
+		"install:all:availability": "cd ./availability_dev/ & npm install",
+		"install:all:main": "npm install",
+		"install:all": "concurrently \"npm:install:all:*\"",
+		"git+push": "git pull && git add . && git commit -m %npm_config_message% && git push",
+		"build+push": "npm run build && npm run git+push --message=%npm_config_message%"
+	},
+	"repository": {
+		"type": "git",
+		"url": "http://gitlab/ageo/dashboard-projets.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"apexcharts": "^3.28.1",
+		"event-source-polyfill": "^1.0.25",
+		"lodash": "^4.17.21",
+		"moment": "^2.29.1",
+		"moment-duration-format": "^2.3.2",
+		"moment-range": "^4.0.2",
+		"normalize.css": "^8.0.1",
+		"path": "^0.12.7",
+		"vue": "^2.6.14",
+		"vue-apexcharts": "^1.6.2",
+		"vuex": "^3.6.2"
+	},
+	"devDependencies": {
+		"concurrently": "^6.5.1"
+	}
+}

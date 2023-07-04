@@ -1,0 +1,3344 @@
+{
+	"data": [
+		{
+			"lot": "Business Intelligence",
+			"time_estimate": 1.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Opérationnel",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Demandes formulaire",
+			"time_estimate": 48.17,
+			"date": null,
+			"projet": null,
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Demandes",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Page Web restitution automate",
+			"time_estimate": 2.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Modification repertoire",
+			"time_estimate": 2.0,
+			"date": null,
+			"projet": "Api GED (knowings)",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Maintenance",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Application SGSanté",
+			"time_declare": 3.25,
+			"collaborateur": null,
+			"equipe": "Opérationnel",
+			"temps_recalcule": 3.25
+		},
+		{
+			"lot": "Interface / Aiguilleur",
+			"time_estimate": 105.0,
+			"date": null,
+			"projet": "BDOC",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Accès gestionnaires",
+			"time_estimate": 75.0,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Opérationnel",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Amélio",
+			"time_estimate": 5.0,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Opérationnel",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Bugs",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 5.19,
+			"collaborateur": null,
+			"equipe": "Opérationnel",
+			"temps_recalcule": 5.19
+		},
+		{
+			"lot": "Service integrationCafeteria",
+			"time_estimate": 28.0,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 58.17,
+			"collaborateur": null,
+			"equipe": "Opérationnel",
+			"temps_recalcule": 58.15
+		},
+		{
+			"lot": "00 - Bugs / évolutions mineurs",
+			"time_estimate": 8.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "00 - Mutualisation du code",
+			"time_estimate": 12.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "02 - Ajout Ayant-droit exclusifs de la garantie",
+			"time_estimate": 40.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "03 - Gestion règles specifiques BIA",
+			"time_estimate": 21.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "04 - Gestion des spécificités du régime",
+			"time_estimate": 7.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "05 - Coordonnées bancaires rembousements pour les ayants droits",
+			"time_estimate": 7.5,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "06 - Coordonnées Postales",
+			"time_estimate": 26.5,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "06 - Modification d'un ayant-droit",
+			"time_estimate": 16.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "07 - Gestion des coordonnées bancaires cotisations",
+			"time_estimate": 2.5,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "08 - Telechargement Carte tiers-payant via BIM",
+			"time_estimate": 0.5,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "09 - Affichage garanties",
+			"time_estimate": 8.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "09 - Gestion Identifiants WEB (mots de passe)",
+			"time_estimate": 0.5,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "09 - Gestion champs REFUSBENEF",
+			"time_estimate": 4.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Base de données",
+			"time_estimate": 4.58,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Interface gestion données",
+			"time_estimate": 0.5,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Interface paramétrage",
+			"time_estimate": 16.0,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Campagne justifs enfants",
+			"time_declare": 19.49,
+			"collaborateur": null,
+			"equipe": "Opérationnel",
+			"temps_recalcule": 19.51
+		},
+		{
+			"lot": "?? Vacations",
+			"time_estimate": 8.0,
+			"date": null,
+			"projet": "Capacity Management",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_Agile_Management_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "??? Sick Leave",
+			"time_estimate": 8.0,
+			"date": null,
+			"projet": "Capacity Management",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_Agile_Management_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Web",
+			"time_estimate": 280.0,
+			"date": null,
+			"projet": "Emissions des échéanciers",
+			"time_declare": 238.91,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 238.87
+		},
+		{
+			"lot": "Bugs",
+			"time_estimate": 1.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 165.66,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 165.64
+		},
+		{
+			"lot": "Divers",
+			"time_estimate": 4.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 23.67,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 21.18
+		},
+		{
+			"lot": "Envoi des documents en GED",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 0.26,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.26
+		},
+		{
+			"lot": "PEC Hospi - 4 Axes",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 28.32,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 28.32
+		},
+		{
+			"lot": "V3",
+			"time_estimate": 297.58,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 335.17,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 318.16
+		},
+		{
+			"lot": "360",
+			"time_estimate": 88.0,
+			"date": null,
+			"projet": "Espace partenaires",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Comptes de résultats",
+			"time_estimate": 4.0,
+			"date": null,
+			"projet": "Espace partenaires",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "UMANENS",
+			"time_estimate": 27.0,
+			"date": null,
+			"projet": "Espace partenaires",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Résultats analytiques (Mobile)",
+			"time_estimate": 45.0,
+			"date": null,
+			"projet": "Finance",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Evolutions possible",
+			"time_estimate": 48.0,
+			"date": null,
+			"projet": "GED Knowings : API REST centralisé",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 1.0,
+			"date": null,
+			"projet": "Intégration contrats cafet dans hermes",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Projets livrés",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Sprint 1 - Gestion des statuts",
+			"time_estimate": 0.08,
+			"date": null,
+			"projet": "Job cafétéria",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "REF",
+			"time_estimate": 18.66,
+			"date": null,
+			"projet": "Normes",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 35.0,
+			"date": null,
+			"projet": "PASRAU",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Phase 1 - Strategy",
+			"time_estimate": 760.0,
+			"date": null,
+			"projet": "Project Management",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Phase 2 - Design",
+			"time_estimate": 592.0,
+			"date": null,
+			"projet": "Project Management",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Phase 3 - Development",
+			"time_estimate": 256.0,
+			"date": null,
+			"projet": "Project Management",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Phase 4 - Execution",
+			"time_estimate": 1032.0,
+			"date": null,
+			"projet": "Project Management",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "FASTT",
+			"time_estimate": 3.5,
+			"date": null,
+			"projet": "Prévoyance",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "CdR 100% santé",
+			"time_estimate": 96.0,
+			"date": null,
+			"projet": "Santé",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Backlog",
+			"time_estimate": 68.0,
+			"date": null,
+			"projet": "Sprints and Backlog",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Sprint 1",
+			"time_estimate": 100.0,
+			"date": null,
+			"projet": "Sprints and Backlog",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Sprint 2",
+			"time_estimate": 67.0,
+			"date": null,
+			"projet": "Sprints and Backlog",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Backlog",
+			"time_estimate": 68.0,
+			"date": null,
+			"projet": "Sprints and backlogs",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Sprint 1",
+			"time_estimate": 100.0,
+			"date": null,
+			"projet": "Sprints and backlogs",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Sprint 2",
+			"time_estimate": 67.0,
+			"date": null,
+			"projet": "Sprints and backlogs",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Refonte flux entrepot de données",
+			"time_estimate": 60.0,
+			"date": null,
+			"projet": "Tranverse",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "KERIALIS - Opérationnel",
+			"time_estimate": 2.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "UMANENS",
+			"time_estimate": 8.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 0.0,
+			"collaborateur": null,
+			"equipe": "Développement",
+			"temps_recalcule": 0.0
+		},
+		{
+			"lot": "Connecteurs",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 28.99,
+			"collaborateur": "Adrien Raout",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 28.99
+		},
+		{
+			"lot": "Contrôles des données",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 15.54,
+			"collaborateur": "Adrien Raout",
+			"equipe": "Développement",
+			"temps_recalcule": 15.54
+		},
+		{
+			"lot": "Sprint 1 - Automatisation de la gestion des mouvements",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 123.97,
+			"collaborateur": "Adrien Raout",
+			"equipe": "Développement",
+			"temps_recalcule": 106.97
+		},
+		{
+			"lot": "Sprint 2 - Gestion des codes CPAM",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 17.08,
+			"collaborateur": "Adrien Raout",
+			"equipe": "Développement",
+			"temps_recalcule": 17.08
+		},
+		{
+			"lot": "Sprint 3 - Inscription de mouvement",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 62.93,
+			"collaborateur": "Adrien Raout",
+			"equipe": "Développement",
+			"temps_recalcule": 45.93
+		},
+		{
+			"lot": "Sprint 4 - Statut du bénéficiaire",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 25.29,
+			"collaborateur": "Adrien Raout",
+			"equipe": "Développement",
+			"temps_recalcule": 25.29
+		},
+		{
+			"lot": "Sprint 5 - Module 408",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 14.0,
+			"collaborateur": "Adrien Raout",
+			"equipe": "Développement",
+			"temps_recalcule": 14.0
+		},
+		{
+			"lot": "Développement",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Cartographie des programmes",
+			"time_declare": 3.18,
+			"collaborateur": "Adrien Raout",
+			"equipe": "Développement",
+			"temps_recalcule": 3.18
+		},
+		{
+			"lot": "DSN - Cotisations",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 10.0,
+			"collaborateur": "Adrien Raout",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 10.0
+		},
+		{
+			"lot": "DSN - Etudes",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 79.0,
+			"collaborateur": "Adrien Raout",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 79.02
+		},
+		{
+			"lot": "DSN - Fiche de paramétrage",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 4.67,
+			"collaborateur": "Adrien Raout",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 4.67
+		},
+		{
+			"lot": "DSN - Frontal Métier",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 31.84,
+			"collaborateur": "Adrien Raout",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 31.84
+		},
+		{
+			"lot": "DSN - Interfaces",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 4.19,
+			"collaborateur": "Adrien Raout",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 4.19
+		},
+		{
+			"lot": "DSN - Traitement",
+			"time_estimate": 56.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 117.08,
+			"collaborateur": "Adrien Raout",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 117.07
+		},
+		{
+			"lot": "Etude des flux DSN",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 2.0,
+			"collaborateur": "Adrien Raout",
+			"equipe": "CoperLab - AGEO",
+			"temps_recalcule": 2.0
+		},
+		{
+			"lot": "Tickets",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 1.31,
+			"collaborateur": "Adrien Raout",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 1.0
+		},
+		{
+			"lot": "API",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Emissions des échéanciers",
+			"time_declare": 41.77,
+			"collaborateur": "Adrien Raout",
+			"equipe": "Développement",
+			"temps_recalcule": 41.77
+		},
+		{
+			"lot": "Web",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Emissions des échéanciers",
+			"time_declare": 7.0,
+			"collaborateur": "Adrien Raout",
+			"equipe": "Développement",
+			"temps_recalcule": 7.0
+		},
+		{
+			"lot": "Business Intelligence",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 1.01,
+			"collaborateur": "Andy",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 1.01
+		},
+		{
+			"lot": "Demandes quotidiennes",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 186.15,
+			"collaborateur": "Andy",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 186.15
+		},
+		{
+			"lot": "Sprint 1 - Automatisation de la gestion des mouvements",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 35.74,
+			"collaborateur": "Andy",
+			"equipe": "Développement",
+			"temps_recalcule": 18.01
+		},
+		{
+			"lot": "Sprint VisioDroits - Fube",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 5.1,
+			"collaborateur": "Andy",
+			"equipe": "Développement",
+			"temps_recalcule": 5.1
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Campagne justifs enfants",
+			"time_declare": 2.03,
+			"collaborateur": "Andy",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 2.03
+		},
+		{
+			"lot": "Amélios",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Commissions",
+			"time_declare": 5.45,
+			"collaborateur": "Andy",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 5.44
+		},
+		{
+			"lot": "Demandes",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Commissions",
+			"time_declare": 5.79,
+			"collaborateur": "Andy",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 5.79
+		},
+		{
+			"lot": "Envoi des documents en GED",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 9.31,
+			"collaborateur": "Andy",
+			"equipe": "Développement",
+			"temps_recalcule": 9.31
+		},
+		{
+			"lot": "PEC Hospi - 4 Axes",
+			"time_estimate": 35.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 40.59,
+			"collaborateur": "Andy",
+			"equipe": "Développement",
+			"temps_recalcule": 40.6
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Fusion lyreco / publipostage BIA",
+			"time_declare": 11.45,
+			"collaborateur": "Andy",
+			"equipe": "Ged",
+			"temps_recalcule": 11.44
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Historique des modifications sur un assuré",
+			"time_declare": 30.22,
+			"collaborateur": "Andy",
+			"equipe": "Développement",
+			"temps_recalcule": 30.22
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 14.5,
+			"date": null,
+			"projet": "Intégration contrats cafet dans hermes",
+			"time_declare": 68.41,
+			"collaborateur": "Andy",
+			"equipe": "Projets livrés",
+			"temps_recalcule": 68.45
+		},
+		{
+			"lot": "Tâches AGEO",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Lisibilité des garanties (UNOCAM)",
+			"time_declare": 17.68,
+			"collaborateur": "Andy",
+			"equipe": "Développement",
+			"temps_recalcule": 17.68
+		},
+		{
+			"lot": "2 - Interco AGEO - Coperlab",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Migration Gest'IP vers Coperlab",
+			"time_declare": 17.98,
+			"collaborateur": "Andy",
+			"equipe": "CoperLab - AGEO",
+			"temps_recalcule": 18.0
+		},
+		{
+			"lot": "Amélio",
+			"time_estimate": 7.0,
+			"date": null,
+			"projet": "Outil de qualif",
+			"time_declare": 23.5,
+			"collaborateur": "Andy",
+			"equipe": "Développement",
+			"temps_recalcule": 23.49
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Pont ADHOC-HERMES",
+			"time_declare": 28.76,
+			"collaborateur": "Andy",
+			"equipe": "Développement",
+			"temps_recalcule": 28.76
+		},
+		{
+			"lot": "Automatisation envoi aux pôles de gestion",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Qualification",
+			"time_declare": 8.42,
+			"collaborateur": "Andy",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 8.42
+		},
+		{
+			"lot": "Annalyse de l'existant",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Simplification des Méta Données",
+			"time_declare": 2.74,
+			"collaborateur": "Andy",
+			"equipe": "Ged",
+			"temps_recalcule": 2.74
+		},
+		{
+			"lot": "Production",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "[2019-2020] Carte Tiers Payant",
+			"time_declare": 0.33,
+			"collaborateur": "Andy",
+			"equipe": "Projets livrés",
+			"temps_recalcule": 0.33
+		},
+		{
+			"lot": "Bugs",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 48.32,
+			"collaborateur": "Boris Helvas",
+			"equipe": "Développement",
+			"temps_recalcule": 48.33
+		},
+		{
+			"lot": "360",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace partenaires",
+			"time_declare": 406.76,
+			"collaborateur": "Boris Helvas",
+			"equipe": "Développement",
+			"temps_recalcule": 406.76
+		},
+		{
+			"lot": "Comptes de résultats",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace partenaires",
+			"time_declare": 25.86,
+			"collaborateur": "Boris Helvas",
+			"equipe": "Développement",
+			"temps_recalcule": 25.86
+		},
+		{
+			"lot": "SATEC",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace partenaires",
+			"time_declare": 0.83,
+			"collaborateur": "Boris Helvas",
+			"equipe": "Développement",
+			"temps_recalcule": 0.83
+		},
+		{
+			"lot": "Souscription en ligne",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace partenaires",
+			"time_declare": 9.83,
+			"collaborateur": "Boris Helvas",
+			"equipe": "Développement",
+			"temps_recalcule": 9.83
+		},
+		{
+			"lot": "UMANENS",
+			"time_estimate": 20.25,
+			"date": null,
+			"projet": "Espace partenaires",
+			"time_declare": 463.81,
+			"collaborateur": "Boris Helvas",
+			"equipe": "Développement",
+			"temps_recalcule": 428.97998
+		},
+		{
+			"lot": "UMANENS",
+			"time_estimate": 1.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 8.25,
+			"collaborateur": "Boris Helvas",
+			"equipe": "Développement",
+			"temps_recalcule": 7.48
+		},
+		{
+			"lot": "Business Intelligence",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 4.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 4.0
+		},
+		{
+			"lot": "Modification Workflows",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 13.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Ged",
+			"temps_recalcule": 13.5
+		},
+		{
+			"lot": "MADP - extraction données",
+			"time_estimate": 70.0,
+			"date": null,
+			"projet": "BackOffice",
+			"time_declare": 171.12,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 171.13
+		},
+		{
+			"lot": "Modèle Attestations MADELIN",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BackOffice",
+			"time_declare": 13.95,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 13.95
+		},
+		{
+			"lot": "Réaliser modèle pour export des volumétries Cafetetria",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BackOffice",
+			"time_declare": 18.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 16.5
+		},
+		{
+			"lot": "UMNI-LOOMA restitution obligation légale",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BackOffice",
+			"time_declare": 70.52,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 50.5
+		},
+		{
+			"lot": "Tableau de controles décomptes",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Conformité",
+			"time_declare": 10.99,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 10.99
+		},
+		{
+			"lot": "Optimisation serveurs",
+			"time_estimate": 7.0,
+			"date": null,
+			"projet": "DSI",
+			"time_declare": 2.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 2.5
+		},
+		{
+			"lot": "Refonte Consolidation historique",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSI",
+			"time_declare": 2.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 2.0
+		},
+		{
+			"lot": "Suivi activité",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSI",
+			"time_declare": 14.03,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 14.03
+		},
+		{
+			"lot": "Veille technologique",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSI",
+			"time_declare": 3.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 3.0
+		},
+		{
+			"lot": "BackOffice",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Data Quality",
+			"time_declare": 2.31,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 2.31
+		},
+		{
+			"lot": "Prévoyance",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Data Quality",
+			"time_declare": 1.32,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 1.32
+		},
+		{
+			"lot": "Santé",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Data Quality",
+			"time_declare": 35.32,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 35.32
+		},
+		{
+			"lot": "Transverse",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Data Quality",
+			"time_declare": 7.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 7.5
+		},
+		{
+			"lot": "BackOffice",
+			"time_estimate": 8.5,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 49.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 49.5
+		},
+		{
+			"lot": "CdR",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 12.98,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 12.02
+		},
+		{
+			"lot": "DSI",
+			"time_estimate": 1.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 11.58,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 11.58
+		},
+		{
+			"lot": "Finance",
+			"time_estimate": 6.5,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 17.19,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 17.19
+		},
+		{
+			"lot": "Gestion",
+			"time_estimate": 4.25,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 71.39,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 71.4
+		},
+		{
+			"lot": "Infra",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 1.82,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 1.82
+		},
+		{
+			"lot": "Marketing",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 7.51,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 7.51
+		},
+		{
+			"lot": "PackGED",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 17.67,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 17.67
+		},
+		{
+			"lot": "Prévoyance",
+			"time_estimate": 0.08,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 27.25,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 27.25
+		},
+		{
+			"lot": "Support Web",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 25.15,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 25.15
+		},
+		{
+			"lot": "EDI-2020 - Mailing Fraude STREGO",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "EDI-Mailing",
+			"time_declare": 1.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Projets livrés",
+			"temps_recalcule": 1.0
+		},
+		{
+			"lot": "Bugs",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 0.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Développement",
+			"temps_recalcule": 0.5
+		},
+		{
+			"lot": "Modification modèle Cafeteria",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Finance",
+			"time_declare": 2.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 2.0
+		},
+		{
+			"lot": "Modification modèle Hermès Finance",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Finance",
+			"time_declare": 1.25,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 1.25
+		},
+		{
+			"lot": "Modification modèle compta générale",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Finance",
+			"time_declare": 2.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 2.0
+		},
+		{
+			"lot": "Modifications modèle Trésorerie",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Finance",
+			"time_declare": 0.13,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 0.13
+		},
+		{
+			"lot": "Nouveau modèle Prestations",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Finance",
+			"time_declare": 4.05,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 4.04
+		},
+		{
+			"lot": "Résultats analytiques (Mobile)",
+			"time_estimate": 18.0,
+			"date": null,
+			"projet": "Finance",
+			"time_declare": 24.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 23.99
+		},
+		{
+			"lot": "Ajout PEC Hospitalières",
+			"time_estimate": 2.34,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 2.25,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 2.25
+		},
+		{
+			"lot": "Maintenance serveur VIYA",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 1.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 1.5
+		},
+		{
+			"lot": "Maj Flux - erreur qualification",
+			"time_estimate": 7.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 0.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 0.5
+		},
+		{
+			"lot": "Mise à jour du paramétrage statut délai traitement",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 1.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 1.0
+		},
+		{
+			"lot": "Mise à jour licences VIYA",
+			"time_estimate": 0.5,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 0.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 0.5
+		},
+		{
+			"lot": "PackGED - Mise à jour incohérences et outil de qualification",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 16.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 16.5
+		},
+		{
+			"lot": "Rapport AFI",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 34.4,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 31.58
+		},
+		{
+			"lot": "Rapports d'anomalies pour Audits",
+			"time_estimate": 14.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 73.63,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 73.62
+		},
+		{
+			"lot": "Refonte TDB Gestion",
+			"time_estimate": 18.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 22.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 22.0
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Historique des modifications sur un assuré",
+			"time_declare": 110.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Développement",
+			"temps_recalcule": 110.0
+		},
+		{
+			"lot": "Extractions",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Looma",
+			"time_declare": 1.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 1.0
+		},
+		{
+			"lot": "Extractions divers",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Marketing",
+			"time_declare": 1.22,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 1.22
+		},
+		{
+			"lot": "Reporting interne mensuel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Marketing",
+			"time_declare": 11.17,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 11.17
+		},
+		{
+			"lot": "Reporting SAS VIYA",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Prévoyance",
+			"time_declare": 2.42,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 2.42
+		},
+		{
+			"lot": "BIM SODEXO - SECURITAS",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Santé",
+			"time_declare": 70.72,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 70.71
+		},
+		{
+			"lot": "CdR 100% santé",
+			"time_estimate": 30.0,
+			"date": null,
+			"projet": "Santé",
+			"time_declare": 34.62,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 34.63
+		},
+		{
+			"lot": "Extractions périodiques pour LOOMA",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Santé",
+			"time_declare": 6.06,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 6.06
+		},
+		{
+			"lot": "Maintenance serveur OA",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Santé",
+			"time_declare": 0.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 0.5
+		},
+		{
+			"lot": "Etudes",
+			"time_estimate": 35.0,
+			"date": null,
+			"projet": "Statistiques 360",
+			"time_declare": 19.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 19.0
+		},
+		{
+			"lot": "Evolution pour historisation des données assurés",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Tranverse",
+			"time_declare": 8.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 8.0
+		},
+		{
+			"lot": "Formation MyReport",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Tranverse",
+			"time_declare": 1.5,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 1.5
+		},
+		{
+			"lot": "Montée version MyReport Center",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Tranverse",
+			"time_declare": 6.0,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 6.0
+		},
+		{
+			"lot": "Refonte flux entrepot de données",
+			"time_estimate": 68.0,
+			"date": null,
+			"projet": "Tranverse",
+			"time_declare": 40.16,
+			"collaborateur": "Gaetan Pruvost",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 40.16
+		},
+		{
+			"lot": "List",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 0.01,
+			"collaborateur": "Gautier ANTOINE",
+			"equipe": "_TESTS_",
+			"temps_recalcule": 0.01
+		},
+		{
+			"lot": "Mailing des avenants",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 14.0,
+			"collaborateur": "Gautier ANTOINE",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 14.0
+		},
+		{
+			"lot": "Indicateurs qualité et production",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 2.0,
+			"collaborateur": "Gautier ANTOINE",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 2.0
+		},
+		{
+			"lot": "Sprint 1 (05/4/21 - 16/4/21)",
+			"time_estimate": 3.0,
+			"date": null,
+			"projet": "Module Radiations",
+			"time_declare": 3.0,
+			"collaborateur": "Gautier ANTOINE",
+			"equipe": "Développement",
+			"temps_recalcule": 3.0
+		},
+		{
+			"lot": "Phase 1",
+			"time_estimate": 7.0,
+			"date": null,
+			"projet": "Projet 2",
+			"time_declare": 2.0,
+			"collaborateur": "Gautier ANTOINE",
+			"equipe": "Marketing",
+			"temps_recalcule": 2.0
+		},
+		{
+			"lot": "SODEXO - Inscription Gest'IP suite garde enfant COVID19",
+			"time_estimate": 6.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 45.26,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Projets livrés",
+			"temps_recalcule": 45.28
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 3.5,
+			"date": null,
+			"projet": "Attestations fiscales prev",
+			"time_declare": 7.81,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Projets livrés",
+			"temps_recalcule": 7.82
+		},
+		{
+			"lot": "06 - Coordonnées Postales",
+			"time_estimate": 3.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 34.8,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Développement",
+			"temps_recalcule": 34.8
+		},
+		{
+			"lot": "07 - Gestion des coordonnées bancaires cotisations",
+			"time_estimate": 9.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 63.53,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Développement",
+			"temps_recalcule": 63.52
+		},
+		{
+			"lot": "08 - Telechargement Carte tiers-payant via BIM",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 11.26,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Développement",
+			"temps_recalcule": 11.26
+		},
+		{
+			"lot": "API paramétrage BIM",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DigiPrev",
+			"time_declare": 296.85,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Développement",
+			"temps_recalcule": 126.85001
+		},
+		{
+			"lot": "Création environnement de dev sécurisé en session TSE",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Environnement de développement",
+			"time_declare": 14.0,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Projets livrés",
+			"temps_recalcule": 14.0
+		},
+		{
+			"lot": "Amélio",
+			"time_estimate": 5.17,
+			"date": null,
+			"projet": "Espace entreprise",
+			"time_declare": 16.76,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 16.76
+		},
+		{
+			"lot": "Backlog",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace entreprise v2",
+			"time_declare": 1.36,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "PROXIAD - AGEO",
+			"temps_recalcule": 1.36
+		},
+		{
+			"lot": "Sprint 3",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace entreprise v2",
+			"time_declare": 1.48,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "PROXIAD - AGEO",
+			"temps_recalcule": 1.48
+		},
+		{
+			"lot": "Recensement de l'existant",
+			"time_estimate": 1.0,
+			"date": null,
+			"projet": "Harmonisation des courriers de gestion sortants",
+			"time_declare": 1.7,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Développement",
+			"temps_recalcule": 1.7
+		},
+		{
+			"lot": "Sprint 1 - Gestion des statuts",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Job cafétéria",
+			"time_declare": 0.64,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Développement",
+			"temps_recalcule": 0.64
+		},
+		{
+			"lot": "Tâches AGEO",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Lisibilité des garanties (UNOCAM)",
+			"time_declare": 5.47,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Développement",
+			"temps_recalcule": 5.47
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 0.08,
+			"date": null,
+			"projet": "Ordonnanceur",
+			"time_declare": 12.93,
+			"collaborateur": "Hélios DUHAMEL",
+			"equipe": "Développement",
+			"temps_recalcule": 12.93
+		},
+		{
+			"lot": "Demandes formulaire",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 1.16,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Demandes",
+			"temps_recalcule": 1.16
+		},
+		{
+			"lot": "Demandes quotidiennes",
+			"time_estimate": 10.5,
+			"date": null,
+			"projet": null,
+			"time_declare": 17.02,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 17.04
+		},
+		{
+			"lot": "Reporting IJ Prévoyance",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 2.13,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 2.13
+		},
+		{
+			"lot": "Contrôles des données",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 2.22,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 2.22
+		},
+		{
+			"lot": "Page Web restitution automate",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 5.48,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 5.47
+		},
+		{
+			"lot": "Recette",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 21.83,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 21.82
+		},
+		{
+			"lot": "Sprint 1 - Automatisation de la gestion des mouvements",
+			"time_estimate": 1.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 11.87,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 11.9
+		},
+		{
+			"lot": "Sprint 2 - Gestion des codes CPAM",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 1.5,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 1.5
+		},
+		{
+			"lot": "Sprint 4 - Statut du bénéficiaire",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 0.67,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 0.67
+		},
+		{
+			"lot": "Sprint VisioDroits - Fube",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 0.88,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 0.88
+		},
+		{
+			"lot": "Amélio",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 2.68,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 2.67
+		},
+		{
+			"lot": "Bugs",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 1.83,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 1.84
+		},
+		{
+			"lot": "Espace RH",
+			"time_estimate": 0.5,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 0.46,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 0.46
+		},
+		{
+			"lot": "Service integrationCafeteria",
+			"time_estimate": 6.08,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 64.64,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 64.61
+		},
+		{
+			"lot": "00 - Bugs / évolutions mineurs",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 0.24,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 0.24
+		},
+		{
+			"lot": "Appel à l'API",
+			"time_estimate": 4.0,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 37.31,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 37.3
+		},
+		{
+			"lot": "Base de données",
+			"time_estimate": 6.17,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 34.88,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 34.86
+		},
+		{
+			"lot": "Générateur de code",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 3.68,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 3.69
+		},
+		{
+			"lot": "Interface contrats",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 13.78,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 13.78
+		},
+		{
+			"lot": "Interface gestion données",
+			"time_estimate": 25.33,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 40.28,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 40.25
+		},
+		{
+			"lot": "Interface paramétrage",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 28.85,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 28.82
+		},
+		{
+			"lot": "Interface suivi contrats",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 3.85,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 3.85
+		},
+		{
+			"lot": "Paramétrage outil",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 6.09,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 6.08
+		},
+		{
+			"lot": "Tâches antérieures à la création du projet dans Click Up",
+			"time_estimate": 0.25,
+			"date": null,
+			"projet": "BIM Paramétrage",
+			"time_declare": 135.52,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 135.57
+		},
+		{
+			"lot": "MADP - extraction données",
+			"time_estimate": 4.0,
+			"date": null,
+			"projet": "BackOffice",
+			"time_declare": 33.71,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 33.72
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Campagne justifs enfants",
+			"time_declare": 2.88,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 2.88
+		},
+		{
+			"lot": "DSN - Etudes",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 101.43,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 101.43
+		},
+		{
+			"lot": "DSN - Frontal Métier",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 6.22,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 6.21
+		},
+		{
+			"lot": "Etude des flux DSN",
+			"time_estimate": 1.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 29.09,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "CoperLab - AGEO",
+			"temps_recalcule": 29.08
+		},
+		{
+			"lot": "Finance",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 0.1,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 0.1
+		},
+		{
+			"lot": "ADMR",
+			"time_estimate": 2.0,
+			"date": null,
+			"projet": "Duplication de contrats",
+			"time_declare": 0.16,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 0.16
+		},
+		{
+			"lot": "PROMAN",
+			"time_estimate": 1.0,
+			"date": null,
+			"projet": "Duplication de contrats",
+			"time_declare": 2.83,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 2.83
+		},
+		{
+			"lot": "SECURITAS",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Duplication de contrats",
+			"time_declare": 2.43,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 2.43
+		},
+		{
+			"lot": "Team Interim",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Duplication de contrats",
+			"time_declare": 0.28,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 0.28
+		},
+		{
+			"lot": "ADMR Vendée",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Intégration clients",
+			"time_declare": 1.35,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 1.35
+		},
+		{
+			"lot": "CIR - Cie Industrielle du Roulement",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Intégration clients",
+			"time_declare": 2.65,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 2.66
+		},
+		{
+			"lot": "Carrefour",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Intégration clients",
+			"time_declare": 1.84,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 1.84
+		},
+		{
+			"lot": "LP ART",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Intégration clients",
+			"time_declare": 0.44,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 0.44
+		},
+		{
+			"lot": "MADP",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Intégration clients",
+			"time_declare": 1.04,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 1.04
+		},
+		{
+			"lot": "Rouge Gorge Lingerie",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Intégration clients",
+			"time_declare": 0.4,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 0.4
+		},
+		{
+			"lot": "Sodexo",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Intégration clients",
+			"time_declare": 7.93,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 7.93
+		},
+		{
+			"lot": "Sécuritas",
+			"time_estimate": 3.0,
+			"date": null,
+			"projet": "Intégration clients",
+			"time_declare": 53.08,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 53.09
+		},
+		{
+			"lot": "Indexation des contrats",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Intégration des cotisations",
+			"time_declare": 13.71,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 13.71
+		},
+		{
+			"lot": "Sprint 9 (2/8/21 - 15/8/21)",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Module Radiations",
+			"time_declare": 4.72,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 4.71
+		},
+		{
+			"lot": "REF",
+			"time_estimate": 1.0,
+			"date": null,
+			"projet": "Normes",
+			"time_declare": 0.51,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 0.51
+		},
+		{
+			"lot": "Purge des dossiers vides",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Novaxel",
+			"time_declare": 10.24,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Ged",
+			"temps_recalcule": 10.24
+		},
+		{
+			"lot": "RIA",
+			"time_estimate": 1.67,
+			"date": null,
+			"projet": "Suivi de contrat",
+			"time_declare": 111.78,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 111.75
+		},
+		{
+			"lot": "Suivi de contrats",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Suivi de contrat",
+			"time_declare": 21.39,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 21.4
+		},
+		{
+			"lot": "Mise en œuvre technique de Visiodroits en mode hébergé cegedim",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Visiodroits",
+			"time_declare": 2.97,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Cafeteria",
+			"temps_recalcule": 2.97
+		},
+		{
+			"lot": "ASSURONE",
+			"time_estimate": 0.5,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 9.81,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 9.82
+		},
+		{
+			"lot": "ASSURONE - Opérationnel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 1.06,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 1.07
+		},
+		{
+			"lot": "GLOBAL",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 2.92,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 2.92
+		},
+		{
+			"lot": "GLOBAL - Opérationnel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 9.24,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 9.25
+		},
+		{
+			"lot": "KERIALIS",
+			"time_estimate": 2.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 17.44,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 17.44
+		},
+		{
+			"lot": "KERIALIS - Opérationnel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 0.45,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 0.45
+		},
+		{
+			"lot": "LOOMA",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 0.68,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 0.68
+		},
+		{
+			"lot": "LOOMA - Opérationnel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 5.93,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 5.93
+		},
+		{
+			"lot": "SMALLTOX",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 0.4,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 0.4
+		},
+		{
+			"lot": "SMALLTOX - Opérationnel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 49.21,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 49.19
+		},
+		{
+			"lot": "UMANENS - Opérationel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 8.09,
+			"collaborateur": "Julien COMPAGNON",
+			"equipe": "Développement",
+			"temps_recalcule": 6.0
+		},
+		{
+			"lot": "Demandes quotidiennes",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 1.28,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 1.28
+		},
+		{
+			"lot": "Reporting IJ Prévoyance",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 9.4,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 9.4
+		},
+		{
+			"lot": "Traitement MétierPrévoyance",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "REPORTING IJ",
+			"time_declare": 9.26,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 9.27
+		},
+		{
+			"lot": "ASSURONE",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 22.33,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 22.33
+		},
+		{
+			"lot": "ASSURONE - Opérationnel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 4.4,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 4.4
+		},
+		{
+			"lot": "GLOBAL",
+			"time_estimate": 3.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 70.6,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 70.61
+		},
+		{
+			"lot": "GLOBAL - Opérationnel",
+			"time_estimate": 0.08,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 219.01,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 185.06
+		},
+		{
+			"lot": "KERIALIS",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 1.45,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 1.45
+		},
+		{
+			"lot": "KERIALIS - Opérationnel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 45.29,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 45.29
+		},
+		{
+			"lot": "LOOMA",
+			"time_estimate": 6.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 83.26,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 83.22
+		},
+		{
+			"lot": "LOOMA - Opérationnel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 40.91,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 40.88
+		},
+		{
+			"lot": "SMALLTOX",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 82.3,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 67.88
+		},
+		{
+			"lot": "SMALLTOX - Opérationnel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 92.83,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 92.86
+		},
+		{
+			"lot": "UMANENS",
+			"time_estimate": 35.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 128.03,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 128.02
+		},
+		{
+			"lot": "UMANENS - Opérationel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Webservice partenaires",
+			"time_declare": 13.55,
+			"collaborateur": "Jérémie PORNOT",
+			"equipe": "Développement",
+			"temps_recalcule": 13.55
+		},
+		{
+			"lot": "Appels d'offre",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 4.78,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 4.78
+		},
+		{
+			"lot": "Document illisible",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 5.69,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Ged",
+			"temps_recalcule": 5.69
+		},
+		{
+			"lot": "Conception",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Api GED (knowings)",
+			"time_declare": 0.29,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 0.29
+		},
+		{
+			"lot": "Amélio",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 0.8,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 0.8
+		},
+		{
+			"lot": "Bugs",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIA en ligne V2",
+			"time_declare": 3.0,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 3.0
+		},
+		{
+			"lot": "00 - Bugs / évolutions mineurs",
+			"time_estimate": 92.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 198.39,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 198.4
+		},
+		{
+			"lot": "00 - Gestion visio droit",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 14.69,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 14.69
+		},
+		{
+			"lot": "00 - Mutualisation du code",
+			"time_estimate": 8.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 60.72,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 60.7
+		},
+		{
+			"lot": "00 - Refactoring BIM CQRS",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 176.63,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 166.15
+		},
+		{
+			"lot": "02 - Ajout Ayant-droit exclusifs de la garantie",
+			"time_estimate": 42.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 75.7,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 75.7
+		},
+		{
+			"lot": "02 - Gestion des mutations et des contrats fermé",
+			"time_estimate": 47.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 13.88,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 13.88
+		},
+		{
+			"lot": "02 - Notification du service cotisation",
+			"time_estimate": 45.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 24.49,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 24.49
+		},
+		{
+			"lot": "04 - SSO",
+			"time_estimate": 5.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 3.81,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 3.81
+		},
+		{
+			"lot": "05 - Coordonnées bancaires rembousements pour les ayants droits",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 12.12,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 12.11
+		},
+		{
+			"lot": "06 - Coordonnées Postales",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 16.29,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 16.29
+		},
+		{
+			"lot": "06 - Modification d'un ayant-droit",
+			"time_estimate": 24.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 60.52,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 60.53
+		},
+		{
+			"lot": "07 - Gestion des coordonnées bancaires cotisations",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 6.06,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 6.06
+		},
+		{
+			"lot": "08 - Telechargement Carte tiers-payant via BIM",
+			"time_estimate": 12.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 16.28,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 16.28
+		},
+		{
+			"lot": "statistique",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 5.0,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 5.0
+		},
+		{
+			"lot": "Tâches",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Campagne justifs enfants",
+			"time_declare": 0.5,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 0.5
+		},
+		{
+			"lot": "Développement",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Cartographie des programmes",
+			"time_declare": 0.36,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 0.36
+		},
+		{
+			"lot": "1. Import des salariés",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace RH",
+			"time_declare": 0.5,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 0.5
+		},
+		{
+			"lot": "4. Affichage (front)",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace RH",
+			"time_declare": 1.0,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 1.0
+		},
+		{
+			"lot": "Bugs",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 8.09,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 8.08
+		},
+		{
+			"lot": "Divers",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 4.29,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 4.29
+		},
+		{
+			"lot": "UMANENS",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Espace partenaires",
+			"time_declare": 2.5,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 2.5
+		},
+		{
+			"lot": "Evolutions possible",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "GED Knowings : API REST centralisé",
+			"time_declare": 13.34,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 13.34
+		},
+		{
+			"lot": "Tâches AGEO",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Lisibilité des garanties (UNOCAM)",
+			"time_declare": 0.39,
+			"collaborateur": "Jérémy rafflin",
+			"equipe": "Développement",
+			"temps_recalcule": 0.39
+		},
+		{
+			"lot": "Page Web restitution automate",
+			"time_estimate": 246.67,
+			"date": null,
+			"projet": "API Noémie 408",
+			"time_declare": 197.16,
+			"collaborateur": "Laurent",
+			"equipe": "Développement",
+			"temps_recalcule": 197.15
+		},
+		{
+			"lot": "08 - Telechargement Carte tiers-payant via BIM",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIM",
+			"time_declare": 3.98,
+			"collaborateur": "Mathieu_B",
+			"equipe": "Développement",
+			"temps_recalcule": 3.98
+		},
+		{
+			"lot": "Demandes quotidiennes",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 22.94,
+			"collaborateur": "Melvyn PERIN",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 22.96
+		},
+		{
+			"lot": "Interface / Aiguilleur",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BDOC",
+			"time_declare": 53.04,
+			"collaborateur": "Melvyn PERIN",
+			"equipe": "Développement",
+			"temps_recalcule": 53.05
+		},
+		{
+			"lot": "Accès gestionnaires",
+			"time_estimate": 35.0,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 24.91,
+			"collaborateur": "Melvyn PERIN",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 24.91
+		},
+		{
+			"lot": "Bugs",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 4.42,
+			"collaborateur": "Melvyn PERIN",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 4.42
+		},
+		{
+			"lot": "Envoi des documents en GED",
+			"time_estimate": 21.0,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 33.63,
+			"collaborateur": "Melvyn PERIN",
+			"equipe": "Développement",
+			"temps_recalcule": 33.64
+		},
+		{
+			"lot": "PEC Hospi - 4 Axes",
+			"time_estimate": 35.5,
+			"date": null,
+			"projet": "Espace assuré",
+			"time_declare": 29.24,
+			"collaborateur": "Melvyn PERIN",
+			"equipe": "Développement",
+			"temps_recalcule": 29.23
+		},
+		{
+			"lot": "Correction des caractères spéciaux ",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Job cafétéria",
+			"time_declare": 13.28,
+			"collaborateur": "Melvyn PERIN",
+			"equipe": "Développement",
+			"temps_recalcule": 18.26
+		},
+		{
+			"lot": "Sprint 1 - Gestion des statuts",
+			"time_estimate": 27.0,
+			"date": null,
+			"projet": "Job cafétéria",
+			"time_declare": 39.1,
+			"collaborateur": "Melvyn PERIN",
+			"equipe": "Développement",
+			"temps_recalcule": 39.1
+		},
+		{
+			"lot": "Sprint 2 - Demandes de pièces justificatives",
+			"time_estimate": 35.0,
+			"date": null,
+			"projet": "Job cafétéria",
+			"time_declare": 45.3,
+			"collaborateur": "Melvyn PERIN",
+			"equipe": "Développement",
+			"temps_recalcule": 45.3
+		},
+		{
+			"lot": "Demandes quotidiennes",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 13.75,
+			"collaborateur": "Mick Moisson",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 13.75
+		},
+		{
+			"lot": "Migration",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BDOC",
+			"time_declare": 6.0,
+			"collaborateur": "Mick Moisson",
+			"equipe": "Développement",
+			"temps_recalcule": 6.0
+		},
+		{
+			"lot": "Amélio",
+			"time_estimate": 6.0,
+			"date": null,
+			"projet": "BIA en ligne V1",
+			"time_declare": 5.0,
+			"collaborateur": "Mick Moisson",
+			"equipe": "Opérationnel",
+			"temps_recalcule": 5.0
+		},
+		{
+			"lot": "Développement",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Cartographie des programmes",
+			"time_declare": 3.43,
+			"collaborateur": "Mick Moisson",
+			"equipe": "Développement",
+			"temps_recalcule": 3.42
+		},
+		{
+			"lot": "DSN - Cotisations",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 24.0,
+			"collaborateur": "Mick Moisson",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 24.0
+		},
+		{
+			"lot": "DSN - Frontal Métier",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSN",
+			"time_declare": 15.5,
+			"collaborateur": "Mick Moisson",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 15.5
+		},
+		{
+			"lot": "2 - Interco AGEO - Coperlab",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Migration Gest'IP vers Coperlab",
+			"time_declare": 16.0,
+			"collaborateur": "Mick Moisson",
+			"equipe": "CoperLab - AGEO",
+			"temps_recalcule": 16.0
+		},
+		{
+			"lot": "ASB",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Normes",
+			"time_declare": 177.0,
+			"collaborateur": "Mick Moisson",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 109.0
+		},
+		{
+			"lot": "Déploiement",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Normes",
+			"time_declare": 7.0,
+			"collaborateur": "Mick Moisson",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 7.0
+		},
+		{
+			"lot": "Général",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Normes",
+			"time_declare": 30.5,
+			"collaborateur": "Mick Moisson",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 30.5
+		},
+		{
+			"lot": "Opérationnel",
+			"time_estimate": 2.0,
+			"date": null,
+			"projet": "Normes",
+			"time_declare": 12.63,
+			"collaborateur": "Mick Moisson",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 12.63
+		},
+		{
+			"lot": "REF",
+			"time_estimate": 51.0,
+			"date": null,
+			"projet": "Normes",
+			"time_declare": 428.29,
+			"collaborateur": "Mick Moisson",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 394.29
+		},
+		{
+			"lot": "Sprint 0 (31/5/21 - 11/6/21)",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Géolocalisation Sévéane",
+			"time_declare": 6.13,
+			"collaborateur": "Paul MAERTEN",
+			"equipe": "Développement",
+			"temps_recalcule": 6.13
+		},
+		{
+			"lot": "Corrections de bugs et MAJ",
+			"time_estimate": 13.0,
+			"date": null,
+			"projet": "App SGSanté",
+			"time_declare": 75.74,
+			"collaborateur": "Pierre Moulin",
+			"equipe": "Experience utilisateur",
+			"temps_recalcule": 75.75
+		},
+		{
+			"lot": "Fonctionnalités",
+			"time_estimate": 28.5,
+			"date": null,
+			"projet": "App SGSanté",
+			"time_declare": 150.05,
+			"collaborateur": "Pierre Moulin",
+			"equipe": "Experience utilisateur",
+			"temps_recalcule": 153.5
+		},
+		{
+			"lot": "Développement",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Cartographie des programmes",
+			"time_declare": 0.11,
+			"collaborateur": "Pierre Moulin",
+			"equipe": "Développement",
+			"temps_recalcule": 0.11
+		},
+		{
+			"lot": "Projet Migration OPEDI + Siret Fictif",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "PREST'IJ",
+			"time_declare": 3.5,
+			"collaborateur": "Teddy ECORCHARD",
+			"equipe": "DSN et Flux",
+			"temps_recalcule": 3.5
+		},
+		{
+			"lot": "Anomalie dans modèle cafeteria",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "BackOffice",
+			"time_declare": 4.33,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 4.33
+		},
+		{
+			"lot": "Ajout table EDD",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "DSI",
+			"time_declare": 1.88,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 1.88
+		},
+		{
+			"lot": "Santé",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Data Quality",
+			"time_declare": 18.07,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 18.07
+		},
+		{
+			"lot": "BackOffice",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 63.91,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 63.92
+		},
+		{
+			"lot": "CdR",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 8.79,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 8.8
+		},
+		{
+			"lot": "Finance",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 3.91,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 0.67
+		},
+		{
+			"lot": "Gestion",
+			"time_estimate": 21.0,
+			"date": null,
+			"projet": "Demandes divers",
+			"time_declare": 58.51,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 45.5
+		},
+		{
+			"lot": "Modification modèle Hermès Finance",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Finance",
+			"time_declare": 2.0,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 2.0
+		},
+		{
+			"lot": "Rapport Web - Trésorerie",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Finance",
+			"time_declare": 9.54,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 9.54
+		},
+		{
+			"lot": "Ajout des traités hors GED",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 4.53,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 4.53
+		},
+		{
+			"lot": "Evolution TDB Santé",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 7.71,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 6.71
+		},
+		{
+			"lot": "Refonte TDB Gestion",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Gestion",
+			"time_declare": 6.0,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 6.0
+		},
+		{
+			"lot": "Extractions divers",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Marketing",
+			"time_declare": 8.69,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 8.68
+		},
+		{
+			"lot": "Reporting interne mensuel",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Marketing",
+			"time_declare": 4.37,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 4.37
+		},
+		{
+			"lot": "FASTT",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Prévoyance",
+			"time_declare": 3.79,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 3.79
+		},
+		{
+			"lot": "CdR 100% santé",
+			"time_estimate": 88.0,
+			"date": null,
+			"projet": "Santé",
+			"time_declare": 175.86,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 164.1
+		},
+		{
+			"lot": "Réalisation",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Statistiques 360",
+			"time_declare": 40.5,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 40.5
+		},
+		{
+			"lot": "Maintenance",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Tranverse",
+			"time_declare": 71.76,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 50.77
+		},
+		{
+			"lot": "Montée version MyReport Center",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "Tranverse",
+			"time_declare": 4.5,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 2.0
+		},
+		{
+			"lot": "Refonte flux entrepot de données",
+			"time_estimate": 25.0,
+			"date": null,
+			"projet": "Tranverse",
+			"time_declare": 7.33,
+			"collaborateur": "Thinhinane MECHAREK",
+			"equipe": "Business Intelligence",
+			"temps_recalcule": 7.33
+		},
+		{
+			"lot": "Mise à jour des Mentions légales",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": null,
+			"time_declare": 56.0,
+			"collaborateur": "Vincent MARIAS",
+			"equipe": "Editique",
+			"temps_recalcule": 39.0
+		},
+		{
+			"lot": "Modélisation",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "EDI-2020 RIA",
+			"time_declare": 154.0,
+			"collaborateur": "Vincent MARIAS",
+			"equipe": "Projets livrés",
+			"temps_recalcule": 69.0
+		},
+		{
+			"lot": "Correction des modèles Hermes Santé",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "EDI-Refonte Modèles Bdoc",
+			"time_declare": 770.0,
+			"collaborateur": "Vincent MARIAS",
+			"equipe": "Editique",
+			"temps_recalcule": 243.0
+		},
+		{
+			"lot": "EDI-2021 - Ajout UMANENS",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "[2020-2021] Carte Tiers Payant",
+			"time_declare": 14.0,
+			"collaborateur": "Vincent MARIAS",
+			"equipe": "Projets livrés",
+			"temps_recalcule": 14.0
+		},
+		{
+			"lot": "Projet Cotisation/Echeancier",
+			"time_estimate": 0.0,
+			"date": null,
+			"projet": "[EDI-2020] Cotisation individuel, Loi Evin, TNS, Echéancier",
+			"time_declare": 315.0,
+			"collaborateur": "Vincent MARIAS",
+			"equipe": "Projets livrés",
+			"temps_recalcule": 94.0
+		}
+	]
+}

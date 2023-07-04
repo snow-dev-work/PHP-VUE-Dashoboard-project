@@ -1,0 +1,2154 @@
+{
+	"data": [
+		{ "Lot": "Définition du besoin", "Projet": "CRM", "Equipe": "AGEO" },
+		{
+			"Lot": "Tableau de controles décomptes",
+			"Projet": "Conformité",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Santé",
+			"Projet": "Data Quality",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Prévoyance",
+			"Projet": "Data Quality",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Transverse",
+			"Projet": "Data Quality",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "BackOffice",
+			"Projet": "Data Quality",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "FASTT",
+			"Projet": "Prévoyance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Analyse absentéisme",
+			"Projet": "Prévoyance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Reporting SAS VIYA",
+			"Projet": "Prévoyance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "CdR 100% santé",
+			"Projet": "Santé",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Maintenance serveur OA",
+			"Projet": "Santé",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Espace partenaires",
+			"Projet": "Santé",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Extractions périodiques pour LOOMA",
+			"Projet": "Santé",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "BIM SODEXO - SECURITAS",
+			"Projet": "Santé",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Reporting SAS VIYA",
+			"Projet": "Santé",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Gestion",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Support Web",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "BackOffice",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Finance",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "DSI",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Prévoyance",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "PackGED",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Marketing",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "CdR",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Infra",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Compliance",
+			"Projet": "Demandes divers",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Refonte TDB Gestion",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Maj Flux - erreur qualification",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Doubles qualifiés dans TDB",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Ajout PEC Hospitalières",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Mise à jour licences VIYA",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Modification onglet Par Relance",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Mise à jour du paramétrage statut délai traitement",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Maintenance serveur VIYA",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Rapport AFI",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "PackGED - Mise à jour incohérences et outil de qualification",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Rapports d'anomalies pour Audits",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Ajout des traités hors GED",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Indicateurs qualité et production",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Evolution TDB Santé",
+			"Projet": "Gestion",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Résultats analytiques (Mobile)",
+			"Projet": "Finance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Modification modèle Hermès Finance",
+			"Projet": "Finance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Nouveau modèle Prestations",
+			"Projet": "Finance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Rapport Web - Trésorerie",
+			"Projet": "Finance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Rapport Web - Analytique Filliales",
+			"Projet": "Finance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Modifications modèle Trésorerie",
+			"Projet": "Finance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Modification modèle Cafeteria",
+			"Projet": "Finance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Modification modèle compta générale",
+			"Projet": "Finance",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Refonte flux entrepot de données",
+			"Projet": "Tranverse",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Formation MyReport",
+			"Projet": "Tranverse",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Evolution pour historisation des données assurés",
+			"Projet": "Tranverse",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Maintenance",
+			"Projet": "Tranverse",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Montée version MyReport Center",
+			"Projet": "Tranverse",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Etudes",
+			"Projet": "Statistiques 360",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Réalisation",
+			"Projet": "Statistiques 360",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Réaliser modèle pour export des volumétries Cafetetria",
+			"Projet": "BackOffice",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Anomalie dans modèle cafeteria",
+			"Projet": "BackOffice",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Modèle prévoyance pour analyse sinistres",
+			"Projet": "BackOffice",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "MADP - extraction données",
+			"Projet": "BackOffice",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "UMNI-LOOMA restitution obligation légale",
+			"Projet": "BackOffice",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Modèle Attestations MADELIN",
+			"Projet": "BackOffice",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Suivi activité",
+			"Projet": "DSI",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Ajout table EDD",
+			"Projet": "DSI",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Optimisation serveurs",
+			"Projet": "DSI",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Refonte Consolidation historique",
+			"Projet": "DSI",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Veille technologique",
+			"Projet": "DSI",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Reporting interne mensuel",
+			"Projet": "Marketing",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Base de données Marketing",
+			"Projet": "Marketing",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Extractions divers",
+			"Projet": "Marketing",
+			"Equipe": "Business Intelligence"
+		},
+		{
+			"Lot": "Mise en œuvre technique de Visiodroits en mode hébergé cegedim",
+			"Projet": "Visiodroits",
+			"Equipe": "Cafeteria"
+		},
+		{ "Lot": "Tâches", "Projet": "ROC", "Equipe": "Cafeteria" },
+		{
+			"Lot": "Etude des flux DSN",
+			"Projet": "DSN",
+			"Equipe": "CoperLab - AGEO"
+		},
+		{
+			"Lot": "0 - Planification migration flux vers Coperlab",
+			"Projet": "Migration Gest'IP vers Coperlab",
+			"Equipe": "CoperLab - AGEO"
+		},
+		{
+			"Lot": "2 - Interco AGEO - Coperlab",
+			"Projet": "Migration Gest'IP vers Coperlab",
+			"Equipe": "CoperLab - AGEO"
+		},
+		{
+			"Lot": "1 - Interco Coperlab - Concentrateurs",
+			"Projet": "Migration Gest'IP vers Coperlab",
+			"Equipe": "CoperLab - AGEO"
+		},
+		{
+			"Lot": "3 - Protocoles porteurs de risque",
+			"Projet": "Migration Gest'IP vers Coperlab",
+			"Equipe": "CoperLab - AGEO"
+		},
+		{
+			"Lot": "4 - Reprise portefeuille historique Noémie à migrer vers GestIP",
+			"Projet": "Migration Gest'IP vers Coperlab",
+			"Equipe": "CoperLab - AGEO"
+		},
+		{
+			"Lot": "5 - Arrêt de la réception des décomptes prev par les flux Noémie",
+			"Projet": "Migration Gest'IP vers Coperlab",
+			"Equipe": "CoperLab - AGEO"
+		},
+		{ "Lot": "DSN - Frontal Métier", "Projet": "DSN", "Equipe": "DSN et Flux" },
+		{ "Lot": "DSN - Etudes", "Projet": "DSN", "Equipe": "DSN et Flux" },
+		{
+			"Lot": "DSN - Fiche de paramétrage",
+			"Projet": "DSN",
+			"Equipe": "DSN et Flux"
+		},
+		{ "Lot": "DSN - Traitement", "Projet": "DSN", "Equipe": "DSN et Flux" },
+		{ "Lot": "DSN - Salaires", "Projet": "DSN", "Equipe": "DSN et Flux" },
+		{ "Lot": "DSN - Interfaces", "Projet": "DSN", "Equipe": "DSN et Flux" },
+		{ "Lot": "DSN - Cotisations", "Projet": "DSN", "Equipe": "DSN et Flux" },
+		{
+			"Lot": "DSN - contrôle des taux de cotisations",
+			"Projet": "DSN",
+			"Equipe": "DSN et Flux"
+		},
+		{ "Lot": "Tickets", "Projet": "DSN", "Equipe": "DSN et Flux" },
+		{
+			"Lot": "Interface MétierPrévoyance",
+			"Projet": "REPORTING IJ",
+			"Equipe": "DSN et Flux"
+		},
+		{
+			"Lot": "Traitement MétierPrévoyance",
+			"Projet": "REPORTING IJ",
+			"Equipe": "DSN et Flux"
+		},
+		{ "Lot": "Traitements", "Projet": "PREST'IJ", "Equipe": "DSN et Flux" },
+		{ "Lot": "Interface", "Projet": "PREST'IJ", "Equipe": "DSN et Flux" },
+		{
+			"Lot": "Projet Migration OPEDI + Siret Fictif",
+			"Projet": "PREST'IJ",
+			"Equipe": "DSN et Flux"
+		},
+		{ "Lot": "REF", "Projet": "Normes", "Equipe": "DSN et Flux" },
+		{ "Lot": "ASB", "Projet": "Normes", "Equipe": "DSN et Flux" },
+		{ "Lot": "REV 3.0", "Projet": "Normes", "Equipe": "DSN et Flux" },
+		{ "Lot": "Général", "Projet": "Normes", "Equipe": "DSN et Flux" },
+		{ "Lot": "Déploiement", "Projet": "Normes", "Equipe": "DSN et Flux" },
+		{ "Lot": "Opérationnel", "Projet": "Normes", "Equipe": "DSN et Flux" },
+		{
+			"Lot": "Contrôle courriers sortants",
+			"Projet": "BDOC",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Interface / Aiguilleur",
+			"Projet": "BDOC",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Migration", "Projet": "BDOC", "Equipe": "Développement" },
+		{
+			"Lot": "Lister et vérifier toutes les applis",
+			"Projet": "Gestion de la sécurité / droits",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Gérer les droits d'accès selon des plages horaires",
+			"Projet": "Gestion de la sécurité / droits",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Indexation des contrats",
+			"Projet": "Intégration des cotisations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Développement",
+			"Projet": "Cartographie des programmes",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 1 (12/7/21 - 25/7/21)",
+			"Projet": "API Carte TP",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Module commissions",
+			"Projet": "HERMES",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "List", "Projet": "Module Mutations", "Equipe": "Développement" },
+		{
+			"Lot": "Tâches antérieures à la création du projet dans Click Up",
+			"Projet": "BIM Paramétrage",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Appel à l'API",
+			"Projet": "BIM Paramétrage",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Interface contrats",
+			"Projet": "BIM Paramétrage",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Interface paramétrage",
+			"Projet": "BIM Paramétrage",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Générateur de code",
+			"Projet": "BIM Paramétrage",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Interface suivi contrats",
+			"Projet": "BIM Paramétrage",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Interface gestion données",
+			"Projet": "BIM Paramétrage",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Base de données",
+			"Projet": "BIM Paramétrage",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Paramétrage outil",
+			"Projet": "BIM Paramétrage",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 2 (26/4/21 - 9/5/21)",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 1 (05/4/21 - 16/4/21)",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Backlog",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 3 (10/5/21 - 23/5/21)",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 4 (24/5/21 - 6/6/21)",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 5 (7/6/21 - 20/6/21)",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 6 (21/6/21 - 4/7/21)",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 7 (5/7/21 - 18/7/21)",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 8 (19/7/21 - 1/8/21)",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 9 (2/8/21 - 15/8/21)",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 10 (16/8/21 - 29/8/21)",
+			"Projet": "Module Radiations",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 2 (21/6/21 - 4/7/21)",
+			"Projet": "Géolocalisation Sévéane",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 3 (5/7/21 - 18/7/21)",
+			"Projet": "Géolocalisation Sévéane",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 4 (19/7/21 - 1/8/21)",
+			"Projet": "Géolocalisation Sévéane",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 5 (2/8/21 - 15/8/21)",
+			"Projet": "Géolocalisation Sévéane",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Backlog",
+			"Projet": "Géolocalisation Sévéane",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 0 (31/5/21 - 11/6/21)",
+			"Projet": "Géolocalisation Sévéane",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "List",
+			"Projet": "Fusion AGEO / GEOZ",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "CDC santé prev + résumé + retour assureur",
+			"Projet": "DigiPrev",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Restitution", "Projet": "DigiPrev", "Equipe": "Développement" },
+		{
+			"Lot": "Injection cafet",
+			"Projet": "DigiPrev",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Recette globale",
+			"Projet": "DigiPrev",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Bugs", "Projet": "DigiPrev", "Equipe": "Développement" },
+		{ "Lot": "Documentation", "Projet": "DigiPrev", "Equipe": "Développement" },
+		{
+			"Lot": "API paramétrage BIM",
+			"Projet": "DigiPrev",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "V3", "Projet": "Espace assuré", "Equipe": "Développement" },
+		{ "Lot": "Bugs", "Projet": "Espace assuré", "Equipe": "Développement" },
+		{
+			"Lot": "PEC Hospi - 4 Axes",
+			"Projet": "Espace assuré",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Envoi des documents en GED",
+			"Projet": "Espace assuré",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Dématérialisation et centralisation  des documents dans l'espace assuré",
+			"Projet": "Espace assuré",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Divers", "Projet": "Espace assuré", "Equipe": "Développement" },
+		{
+			"Lot": "Clause bénéficiaire décès AG2R  CIR",
+			"Projet": "Espace assuré",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Comptes de résultats",
+			"Projet": "Espace partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "SATEC",
+			"Projet": "Espace partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "UMANENS",
+			"Projet": "Espace partenaires",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "360", "Projet": "Espace partenaires", "Equipe": "Développement" },
+		{
+			"Lot": "Souscription en ligne",
+			"Projet": "Espace partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "00 - Mutualisation du code",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "06 - Coordonnées Postales",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "09 - Gestion Identifiants WEB (mots de passe)",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "08 - Telechargement Carte tiers-payant via BIM",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "09 - Affichage garanties",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "05 - Coordonnées bancaires rembousements pour les ayants droits",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "07 - Gestion des coordonnées bancaires cotisations",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "04 - SSO", "Projet": "BIM", "Equipe": "Développement" },
+		{
+			"Lot": "00 - Bugs / évolutions mineurs",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Adhésions facultatives",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "06 - Modification d'un ayant-droit",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "02 - Notification du service cotisation",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "09 - Gestion champs REFUSBENEF",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "03 - Gestion règles specifiques BIA",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "07 - Affichage informations future (garanties options....)",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "04 - Accès BIM gestionnaires",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Ajouter la notice de mathieu",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "07 - Aide BIM", "Projet": "BIM", "Equipe": "Développement" },
+		{
+			"Lot": "04 - Gestion des spécificités du régime",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "02 - Ajout Ayant-droit exclusifs de la garantie",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "05 - Gestion des ayant-droits existants sur un autre contrat (notification, blocage, ?)",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "07 - Ajout d'ayant-droit enfant, gestion du rang laser",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Preselection des modalitées",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "02 - Gestion des mutations et des contrats fermé",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Restriction A une modification/creation à la fois",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "00 - Refactoring BIM CQRS",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "00 - Gestion visio droit",
+			"Projet": "BIM",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Tâches", "Projet": "SSO", "Equipe": "Développement" },
+		{
+			"Lot": "1. Import des salariés",
+			"Projet": "Espace RH",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "2. Gestion des indémnités transport",
+			"Projet": "Espace RH",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "3. Gestion tickets retaurant",
+			"Projet": "Espace RH",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "5. Statistiques des absences (option)",
+			"Projet": "Espace RH",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "4. Affichage (front)",
+			"Projet": "Espace RH",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Absence", "Projet": "Espace RH", "Equipe": "Développement" },
+		{ "Lot": "Télétravail", "Projet": "Espace RH", "Equipe": "Développement" },
+		{
+			"Lot": "Tâches AGEO",
+			"Projet": "Lisibilité des garanties (UNOCAM)",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Intervention Stratech",
+			"Projet": "Lisibilité des garanties (UNOCAM)",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Tâches AGEO", "Projet": "OPAMC V10", "Equipe": "Développement" },
+		{
+			"Lot": "Intervention Stratec",
+			"Projet": "OPAMC V10",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Web",
+			"Projet": "Emissions des échéanciers",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "API",
+			"Projet": "Emissions des échéanciers",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Bugs",
+			"Projet": "Emissions des échéanciers",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "PHP",
+			"Projet": "Structure logiciel IT",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Bus d'évènement",
+			"Projet": "Structure logiciel IT",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "UMANENS",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "KERIALIS",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "ASSURONE",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "SMALLTOX",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "GLOBAL",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "LOOMA",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "SMALLTOX - Opérationnel",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "UMANENS - Opérationel",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "LOOMA - Opérationnel",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "GLOBAL - Opérationnel",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "KERIALIS - Opérationnel",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "ASSURONE - Opérationnel",
+			"Projet": "Webservice partenaires",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Tâches",
+			"Projet": "Creation d'un intranet",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Bugs", "Projet": "BIA en ligne V2", "Equipe": "Développement" },
+		{
+			"Lot": "01 - Vérification de l'existence d'une adhésion à un contrat santé collectif",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "01 - Contrôle et/ou aide sur la possibilité de saisir la date d'effet de l'adhésion",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "01 - Gestion des cas ou la carte TP est bloquée",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "01 - Mise a disposition du BIA et du certificat d'adhesion sur le site SgSante",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "01 - Contrôle supplémentaire du code société si le souscripteur n'est pas précisé",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "01 - Contrôle du code souscripteur par rapport au barème de cotisation",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "01 - Contrôle sur les bénéficiares",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "01 - Cas du double employeur",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "01 - A la validation du BIA en ligne, vérifier que le contrat est toujours ouvert",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "01 - Affichage des cotisations",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "02 - Alerter la société par email des BIA en attente de validation",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "03 - Envoi automatique de l\u2019inscription au BIA lorsque l\u2019adresse email est connue",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "03 - Contrôle de la saisie des codes CPAM",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "03 - Contrôle de la saisie des adresses",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "03 - Gestion des caisse CPAM spécifique",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "03 - Gestion du double rattachement",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "04 - Validation de documents tiers avec la signature du BIA",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "04 - Adhésion prévoyance lorsque le contrat prévoyance existe",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "05 - Gestion des doubles surcomplémentaires",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "05 - Cas de société et assuré qui ne sont pas au même régime",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "05 - Gestion champs REFUSBENEF",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "05 - Gestion de la limite d'âge des enfants",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "01 - Généralisation type régime MADP",
+			"Projet": "BIA en ligne V2",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Tâches",
+			"Projet": "Historique des modifications sur un assuré",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Tâches",
+			"Projet": "Pont ADHOC-HERMES",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Administration",
+			"Projet": "Fusion BIM - BIA",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Maquettage",
+			"Projet": "Fusion BIM - BIA",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Développement",
+			"Projet": "Fusion BIM - BIA",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Etude",
+			"Projet": "Amélioration prod R&D",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Amélio", "Projet": "Outil de qualif", "Equipe": "Développement" },
+		{
+			"Lot": "Sprint 1 - Automatisation de la gestion des mouvements",
+			"Projet": "API Noémie 408",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Backlog", "Projet": "API Noémie 408", "Equipe": "Développement" },
+		{
+			"Lot": "Sprint 2 - Gestion des codes CPAM",
+			"Projet": "API Noémie 408",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 3 - Inscription de mouvement",
+			"Projet": "API Noémie 408",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 4 - Statut du bénéficiaire",
+			"Projet": "API Noémie 408",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 5 - Module 408",
+			"Projet": "API Noémie 408",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint VisioDroits - Fube",
+			"Projet": "API Noémie 408",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Page Web restitution automate",
+			"Projet": "API Noémie 408",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Contrôles des données",
+			"Projet": "API Noémie 408",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Recette", "Projet": "API Noémie 408", "Equipe": "Développement" },
+		{
+			"Lot": "Recensement de l'existant",
+			"Projet": "Harmonisation des courriers de gestion sortants",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 2 - Demandes de pièces justificatives",
+			"Projet": "Job cafétéria",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Sprint 1 - Gestion des statuts",
+			"Projet": "Job cafétéria",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Correction des caractères spéciaux ",
+			"Projet": "Job cafétéria",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Conception",
+			"Projet": "Api GED (knowings)",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Modification repertoire",
+			"Projet": "Api GED (knowings)",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Tâches", "Projet": "PASRAU", "Equipe": "Développement" },
+		{
+			"Lot": "Site SG Santé",
+			"Projet": "Responsive sites et applis web",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Espace assuré",
+			"Projet": "Responsive sites et applis web",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "BIM",
+			"Projet": "Responsive sites et applis web",
+			"Equipe": "Développement"
+		},
+		{ "Lot": "Tâches", "Projet": "Ordonnanceur", "Equipe": "Développement" },
+		{
+			"Lot": "Evolutions possible",
+			"Projet": "GED Knowings : API REST centralisé",
+			"Equipe": "Développement"
+		},
+		{
+			"Lot": "Demande de RIB en attente",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Editique"
+		},
+		{ "Lot": "List", "Projet": "EDI-CTP 2022", "Equipe": "Editique" },
+		{
+			"Lot": "Correction des modèles Hermes Santé",
+			"Projet": "EDI-Refonte Modèles Bdoc",
+			"Equipe": "Editique"
+		},
+		{
+			"Lot": "[bdoc Edit] Analyse/Cadrage fonctionnelle",
+			"Projet": "EDI-2020 MIGRATION BDOC v6.1 vers V7",
+			"Equipe": "Editique"
+		},
+		{
+			"Lot": "[Bdoc interactive] Analyse/Cadrage fonctionnelle",
+			"Projet": "EDI-2020 MIGRATION BDOC v6.1 vers V7",
+			"Equipe": "Editique"
+		},
+		{
+			"Lot": "Recette",
+			"Projet": "EDI-2020 MIGRATION BDOC v6.1 vers V7",
+			"Equipe": "Editique"
+		},
+		{
+			"Lot": "Production",
+			"Projet": "EDI-2020 MIGRATION BDOC v6.1 vers V7",
+			"Equipe": "Editique"
+		},
+		{
+			"Lot": "Analyse/Cadrage Technique",
+			"Projet": "EDI-2020 MIGRATION BDOC v6.1 vers V7",
+			"Equipe": "Editique"
+		},
+		{
+			"Lot": "Page institutionnelle",
+			"Projet": "Site SGSanté",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "Espace assurés",
+			"Projet": "Site SGSanté",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "Corrections de bugs",
+			"Projet": "Site SGSanté",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "Fonctionnalités",
+			"Projet": "App SGSanté",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "Corrections de bugs et MAJ",
+			"Projet": "App SGSanté",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "DashBoard projets",
+			"Projet": "Divers",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "Tâches diverses",
+			"Projet": "Divers",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "Projet à définir",
+			"Projet": "Intranet interne",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "Conception",
+			"Projet": "App CTP",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "Backlog",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "Bugs",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V1 : 10/2/21 - 24/2/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V2 : 25/2/21 - 19/3/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V3 : 20/3/21 - 31/3/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V4 : 1/4/21 - 14/4/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V5 : 3/5/21 - 16/5/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V6 : 17/5/21 - 30/5/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V7 : 31/5/21 - 13/6/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V8 : 14/6/21 - 27/6/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V9 : 28/6/21 - 11/7/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V10 : 12/7/21 - 25/7/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V11 : 26/7/21 - 8/8/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "V12 : 9/8/21 - 22/8/21",
+			"Projet": "Dashboard Projets",
+			"Equipe": "Experience utilisateur"
+		},
+		{
+			"Lot": "Annalyse de l'existant",
+			"Projet": "Simplification des Méta Données",
+			"Equipe": "Ged"
+		},
+		{ "Lot": "Workflows", "Projet": "Double qualification", "Equipe": "Ged" },
+		{
+			"Lot": "Tâches",
+			"Projet": "Fusion lyreco / publipostage BIA",
+			"Equipe": "Ged"
+		},
+		{
+			"Lot": "List",
+			"Projet": "Migration Novaxel / Knowings",
+			"Equipe": "Ged"
+		},
+		{ "Lot": "List", "Projet": "Adoc", "Equipe": "Ged" },
+		{ "Lot": "Tâches", "Projet": "RAD / LAD", "Equipe": "Ged" },
+		{ "Lot": "Purge des dossiers vides", "Projet": "Novaxel", "Equipe": "Ged" },
+		{
+			"Lot": "List",
+			"Projet": "Mise à jour extranet UCT - 2020",
+			"Equipe": "HelpDesk"
+		},
+		{
+			"Lot": "Mises à jour",
+			"Projet": "Sites institutionnels",
+			"Equipe": "Marketing"
+		},
+		{ "Lot": "Phase 1", "Projet": "Projet 2", "Equipe": "Marketing" },
+		{ "Lot": "Phase 2", "Projet": "Projet 2", "Equipe": "Marketing" },
+		{
+			"Lot": "Développer analytics ",
+			"Projet": "Listing Demandes & Projets marketing digital",
+			"Equipe": "Marketing"
+		},
+		{ "Lot": "Extractions", "Projet": "Looma", "Equipe": "Opérationnel" },
+		{
+			"Lot": "Tâches",
+			"Projet": "Campagne justifs enfants",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Améliorations pour la qualification du service PREVOYANCE dans TOOLBOX",
+			"Projet": "Qualification",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Automatisation envoi aux pôles de gestion",
+			"Projet": "Qualification",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Suivi de contrats",
+			"Projet": "Suivi de contrat",
+			"Equipe": "Opérationnel"
+		},
+		{ "Lot": "RIA", "Projet": "Suivi de contrat", "Equipe": "Opérationnel" },
+		{ "Lot": "Amélios", "Projet": "Commissions", "Equipe": "Opérationnel" },
+		{ "Lot": "Demandes", "Projet": "Commissions", "Equipe": "Opérationnel" },
+		{ "Lot": "List", "Projet": "Monitoring", "Equipe": "Opérationnel" },
+		{
+			"Lot": "SECURITAS",
+			"Projet": "Duplication de contrats",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "ADMR",
+			"Projet": "Duplication de contrats",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Team Interim",
+			"Projet": "Duplication de contrats",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "PROMAN",
+			"Projet": "Duplication de contrats",
+			"Equipe": "Opérationnel"
+		},
+		{ "Lot": "Amélio", "Projet": "BIA en ligne V1", "Equipe": "Opérationnel" },
+		{
+			"Lot": "Socle nuxt  - Tous projets",
+			"Projet": "BIA en ligne V1",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Accès gestionnaires",
+			"Projet": "BIA en ligne V1",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Service integrationCafeteria",
+			"Projet": "BIA en ligne V1",
+			"Equipe": "Opérationnel"
+		},
+		{ "Lot": "Bugs", "Projet": "BIA en ligne V1", "Equipe": "Opérationnel" },
+		{
+			"Lot": "Espace RH",
+			"Projet": "BIA en ligne V1",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Maintenance",
+			"Projet": "Application SGSanté",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Sécuritas",
+			"Projet": "Intégration clients",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Sodexo",
+			"Projet": "Intégration clients",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "MADP",
+			"Projet": "Intégration clients",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "CIR - Cie Industrielle du Roulement",
+			"Projet": "Intégration clients",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Rouge Gorge Lingerie",
+			"Projet": "Intégration clients",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "LP ART",
+			"Projet": "Intégration clients",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Carrefour",
+			"Projet": "Intégration clients",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "ADMR Vendée",
+			"Projet": "Intégration clients",
+			"Equipe": "Opérationnel"
+		},
+		{ "Lot": "Paramétrage", "Projet": "BIM", "Equipe": "Opérationnel" },
+		{ "Lot": "statistique", "Projet": "BIM", "Equipe": "Opérationnel" },
+		{
+			"Lot": "Amélio",
+			"Projet": "Espace entreprise",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Extractions statuts pièces manquantes et pré affiliation",
+			"Projet": "Connecteurs Cafétéria",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Extraction assurés plateforme sans carte TP",
+			"Projet": "Connecteurs Cafétéria",
+			"Equipe": "Opérationnel"
+		},
+		{
+			"Lot": "Retours / Bugs",
+			"Projet": "Espace entreprise v2",
+			"Equipe": "PROXIAD - AGEO"
+		},
+		{
+			"Lot": "Backlog",
+			"Projet": "Espace entreprise v2",
+			"Equipe": "PROXIAD - AGEO"
+		},
+		{
+			"Lot": "Sprint 2",
+			"Projet": "Espace entreprise v2",
+			"Equipe": "PROXIAD - AGEO"
+		},
+		{
+			"Lot": "Sprint 3",
+			"Projet": "Espace entreprise v2",
+			"Equipe": "PROXIAD - AGEO"
+		},
+		{
+			"Lot": "Migration KC 360",
+			"Projet": "Espace entreprise v2",
+			"Equipe": "PROXIAD - AGEO"
+		},
+		{
+			"Lot": "Sprint 4",
+			"Projet": "Espace entreprise v2",
+			"Equipe": "PROXIAD - AGEO"
+		},
+		{
+			"Lot": "Sprint 5",
+			"Projet": "Espace entreprise v2",
+			"Equipe": "PROXIAD - AGEO"
+		},
+		{
+			"Lot": "Création environnement de dev sécurisé en session TSE",
+			"Projet": "Environnement de développement",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "[CO] Demande de RIB Vierge",
+			"Projet": "EDI-2019 Demandes/Projets annexes",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "[CO] Mandat SEPA vide",
+			"Projet": "EDI-2019 Demandes/Projets annexes",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Analyse campagne CTP 2021",
+			"Projet": "[2020-2021] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Affichage picto Responsable",
+			"Projet": "[2020-2021] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Production",
+			"Projet": "[2020-2021] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "CORUS",
+			"Projet": "[2020-2021] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Modélisation",
+			"Projet": "[2020-2021] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Planning",
+			"Projet": "[2020-2021] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Organisation",
+			"Projet": "[2020-2021] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2021 - Ajout UMANENS",
+			"Projet": "[2020-2021] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Modélisation",
+			"Projet": "[EDI-2020] Trop perçu",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Projet Cotisation/Echeancier",
+			"Projet": "[EDI-2020] Cotisation individuel, Loi Evin, TNS, Echéancier",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Modélisation",
+			"Projet": "EDI-2020 RIA",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Liste des modèles",
+			"Projet": "EDI-Demandes/Projets annexes",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Supprimer le logo AFAQ de tous les documents BDoc",
+			"Projet": "EDI-Demandes/Projets annexes",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Génération Autorisation RIB vierge",
+			"Projet": "EDI-Demandes/Projets annexes",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Serveur image",
+			"Projet": "EDI-Demandes/Projets annexes",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Concentrateurs & Réseaux de soins",
+			"Projet": "[2019-2020] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Modélisation",
+			"Projet": "[2019-2020] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Production",
+			"Projet": "[2019-2020] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "CORUS",
+			"Projet": "[2019-2020] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Planning",
+			"Projet": "[2019-2020] Carte Tiers Payant",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Tâches",
+			"Projet": "Intégration contrats cafet dans hermes",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Socle de base",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Janvier -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Février -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Mars -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Avril -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Mai -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Juin -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Juillet -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Réaliser la mise en GED des précédents envois",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Août -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Septembre -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Octobre -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Novembre -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Décembre -1",
+			"Projet": "EDI-2019/2020 Mailing/Courrier Renouvellement mutuelle",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 Courriers santé ajouter un encart appli SGSanté",
+			"Projet": "EDI-Courriers/Mails",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 Modifier le Décompte Santé Tiers",
+			"Projet": "EDI-Courriers/Mails",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 Notification Document espace assuré",
+			"Projet": "EDI-Courriers/Mails",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 Modifier le Décompte Prévoyance",
+			"Projet": "EDI-Courriers/Mails",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Modélisation nouveaux modèles",
+			"Projet": "EDI-Courriers/Mails",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Mail BI RH BIM",
+			"Projet": "EDI-Courriers/Mails",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Socle de base",
+			"Projet": "EDI-2020 Versement - Attestation fiscale",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Actions",
+			"Projet": "EDI-2020 Versement - Attestation fiscale",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "Tâches",
+			"Projet": "Attestations fiscales prev",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 - Mailing Affiliation Mutuelle",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2019 Mailling LYRECO",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 - Mailing Sodexo - Téléconsultation et Soins Psychologique",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 - GAN - Information chômage partiel",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 - Mailing Fraude STREGO",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 - Attestation Scolaire",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 - Mutuelle du réseau AD",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 - Rouge Gorge",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 - Affiliation Mutuelle",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 Confirmation option Frais de santé",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2021 - Demande de RIB",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "EDI-2020 ATTESTATION MADELIN 2020 - VIAPI - ALLIANZ",
+			"Projet": "EDI-Mailing",
+			"Equipe": "Projets livrés"
+		},
+		{
+			"Lot": "?? Holidays",
+			"Projet": "Capacity Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Vacations",
+			"Projet": "Capacity Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "??? Sick Leave",
+			"Projet": "Capacity Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Crashes",
+			"Projet": "Test Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "? Errors",
+			"Projet": "Test Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Versions",
+			"Projet": "Test Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Test Suites",
+			"Projet": "Test Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Bugs",
+			"Projet": "Test Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Risks",
+			"Projet": "Risk Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Epics",
+			"Projet": "Product Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Objectives",
+			"Projet": "OKR Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Stakeholders",
+			"Projet": "Stakeholder Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Communications",
+			"Projet": "Communication Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Ideas",
+			"Projet": "Improvement Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Individual Assessments",
+			"Projet": "Improvement Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Trainings",
+			"Projet": "Improvement Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Experiments",
+			"Projet": "Improvement Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Team Status",
+			"Projet": "Improvement Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? User Feedback",
+			"Projet": "Improvement Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "??? Vendors",
+			"Projet": "Procurement Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Expenses",
+			"Projet": "Procurement Management",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Sprint 2 (12/21 - 1/3)",
+			"Projet": "? Q4 2020",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Sprint 10 (4/12 - 4/25)",
+			"Projet": "? Q4 2020",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Sprint 9 (3/29 - 4/11)",
+			"Projet": "? Q4 2020",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Sprint 1 (12/7 - 12/20)",
+			"Projet": "? Q4 2020",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Sprint 4 (1/18 - 1/31)",
+			"Projet": "? Q4 2020",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Sprint 5 (2/1 - 2/14)",
+			"Projet": "? Q4 2020",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Sprint 6 (2/15 - 2/28)",
+			"Projet": "? Q4 2020",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Sprint 7 (3/1 - 3/14)",
+			"Projet": "? Q4 2020",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Sprint 8 (3/15 - 3/28)",
+			"Projet": "? Q4 2020",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "?? Sprint 3 (1/4 - 1/17)",
+			"Projet": "? Q4 2020",
+			"Equipe": "_Agile_Management_"
+		},
+		{
+			"Lot": "Sprint 3 (1/2/21 - 14/2/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 4 (15/2/21 - 28/2/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 5 (1/3/21 - 15/3/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 6 (15/3/21 - 29/3/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 7 (29/3/21 - 12/4/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 8 (12/4/21 - 26/4/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 1 (4/1/21 - 17/1/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 2 (18/1/21 - 31/1/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 9 (26/4/21 - 10/5/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 10 (10/5/21 - 24/5/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 11 (24/5/21 - 7/6/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 12 (7/6/21 - 21/6/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 13 (21/6/21 - 5/7/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 14 (5/7/21 - 19/7/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 15 (19/7/21 - 2/8/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 16 (2/8/21 - 16/8/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 17 (16/8/21 - 30/8/21)",
+			"Projet": "Sprint Folder",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Sprint 1",
+			"Projet": "Sprints and backlogs",
+			"Equipe": "_TESTS_"
+		},
+		{ "Lot": "Bugs", "Projet": "Sprints and backlogs", "Equipe": "_TESTS_" },
+		{ "Lot": "Backlog", "Projet": "Sprints and backlogs", "Equipe": "_TESTS_" },
+		{
+			"Lot": "Sprint 2",
+			"Projet": "Sprints and backlogs",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Phase 3 - Development",
+			"Projet": "Project Management",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Phase 1 - Strategy",
+			"Projet": "Project Management",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Phase 4 - Execution",
+			"Projet": "Project Management",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Phase 2 - Design",
+			"Projet": "Project Management",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Job Cafet Sprint 3 - Age limite des enfants",
+			"Projet": "Demandes à traiter",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Connexion espace assuré - carte blanche",
+			"Projet": "Demandes à traiter",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Module hors acquisition sur comptes de tiers",
+			"Projet": "Demandes à traiter",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "PEC Hospi - Lot 3",
+			"Projet": "Demandes à traiter",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Automatisation fichiers \"demandes de remboursements\"",
+			"Projet": "Demandes à traiter",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "BIM - BIA Générer une fiche de paramétrage",
+			"Projet": "Demandes à traiter",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Gestion des retours CORUS",
+			"Projet": "Demandes à traiter",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "API Souscripteur",
+			"Projet": "Demandes à traiter",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Automatisation d\u2019envoi propositions commerciales individuelles",
+			"Projet": "Demandes à traiter",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Données dynamiques sur ageo.fr",
+			"Projet": "Demandes à traiter",
+			"Equipe": "_TESTS_"
+		},
+		{ "Lot": "Bugs", "Projet": "Sprints and Backlog", "Equipe": "_TESTS_" },
+		{ "Lot": "Backlog", "Projet": "Sprints and Backlog", "Equipe": "_TESTS_" },
+		{ "Lot": "Sprint 2", "Projet": "Sprints and Backlog", "Equipe": "_TESTS_" },
+		{ "Lot": "Sprint 1", "Projet": "Sprints and Backlog", "Equipe": "_TESTS_" },
+		{
+			"Lot": "Gestion rejets prestations et FDR",
+			"Projet": "Demandes reportées",
+			"Equipe": "_TESTS_"
+		},
+		{
+			"Lot": "Améliorations Outil de Qualif",
+			"Projet": "Demandes reportées",
+			"Equipe": "_TESTS_"
+		}
+	]
+}

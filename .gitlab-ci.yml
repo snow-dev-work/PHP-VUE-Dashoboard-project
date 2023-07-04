@@ -1,0 +1,45 @@
+stages:
+    - deploy
+    - cleanup_build
+
+############################################################
+######  1- Deploiement Windows ST-080- Recette  ########
+############################################################
+
+deploy_recette:
+  stage: deploy
+  script:
+    # Création des dossiers du projet
+    - ssh -p22 $SSH_GITLAB_USER@$SSH_HOST_IP_RECETTE "cd /d $RECETTE_PATH && IF exist $CI_PROJECT_NAME ( echo $CI_PROJECT_NAME exists ) ELSE mkdir $CI_PROJECT_NAME"
+    - ssh -p22 $SSH_GITLAB_USER@$SSH_HOST_IP_RECETTE "cd /d $RECETTE_PATH/$CI_PROJECT_NAME/ && IF exist $CI_PIPELINE_ID ( echo $CI_PIPELINE_ID exists ) ELSE mkdir $CI_PIPELINE_ID"
+    # Copie du projet
+    - scp -r $CI_PROJECT_DIR/.[!.]* $SSH_GITLAB_USER@$SSH_HOST_IP_RECETTE:$RECETTE_PATH/$CI_PROJECT_NAME/$CI_PIPELINE_ID/
+    - scp -r $CI_PROJECT_DIR/* $SSH_GITLAB_USER@$SSH_HOST_IP_RECETTE:$RECETTE_PATH/$CI_PROJECT_NAME/$CI_PIPELINE_ID/
+    # Récupération de la base de données (fichier .json)
+    - ssh -p22 $SSH_GITLAB_USER@$SSH_HOST_IP_RECETTE "xcopy /E /I $DB_PATH_RECETTE $DB_PATH_DESTINATION_RECETTE\\$CI_PIPELINE_ID\\data"
+    # Ajout du projet au chemin "current"
+    - ssh -p22 $SSH_GITLAB_USER@$SSH_HOST_IP_RECETTE "cd /d $RECETTE_PATH/$CI_PROJECT_NAME && IF exist current/ ( rd d:\recette\sites\\$CI_PROJECT_NAME\current )"
+    - ssh -p22 $SSH_GITLAB_USER@$SSH_HOST_IP_RECETTE "mklink /D /d d:\recette\sites\\$CI_PROJECT_NAME\current d:\recette\sites\\$CI_PROJECT_NAME\\$CI_PIPELINE_ID"
+  only:
+    - develop
+
+############################################################
+#######  2- Deploiement Windows SP-008- Production   #######
+############################################################
+
+deploy_production:
+  stage: deploy
+  script:
+    # Création des dossiers du projet
+    - ssh -p22 $SSH_GITLAB_USER@$SSH_HOST_IP_PRODUCTION "cd /d $PRODUCTION_PATH && IF exist $CI_PROJECT_NAME ( echo $CI_PROJECT_NAME exists ) ELSE mkdir $CI_PROJECT_NAME"
+    - ssh -p22 $SSH_GITLAB_USER@$SSH_HOST_IP_PRODUCTION "cd /d $PRODUCTION_PATH/$CI_PROJECT_NAME/ && IF exist $CI_PIPELINE_ID ( echo $CI_PIPELINE_ID exists ) ELSE mkdir $CI_PIPELINE_ID"
+    # Copie du projet
+    - scp -r $CI_PROJECT_DIR/.[!.]* $SSH_GITLAB_USER@$SSH_HOST_IP_PRODUCTION:$PRODUCTION_PATH/$CI_PROJECT_NAME/$CI_PIPELINE_ID/
+    - scp -r $CI_PROJECT_DIR/* $SSH_GITLAB_USER@$SSH_HOST_IP_PRODUCTION:$PRODUCTION_PATH/$CI_PROJECT_NAME/$CI_PIPELINE_ID/
+    # Récupération de la base de données (fichier .json)
+    - ssh -p22 $SSH_GITLAB_USER@$SSH_HOST_IP_PRODUCTION "xcopy /E /I $DB_PATH_PRODUCTION $DB_PATH_DESTINATION_PRODUCTION\\$CI_PIPELINE_ID\\data"
+    # Ajout du projet au chemin "current"
+    - ssh -p22 $SSH_GITLAB_USER@$SSH_HOST_IP_PRODUCTION "cd /d $PRODUCTION_PATH/$CI_PROJECT_NAME && IF exist current/ ( rd d:\production\sites\\$CI_PROJECT_NAME\current )" #
+    - ssh -p22 $SSH_GITLAB_USER@$SSH_HOST_IP_PRODUCTION "mklink /D /d d:\production\sites\\$CI_PROJECT_NAME\current d:\production\sites\\$CI_PROJECT_NAME\\$CI_PIPELINE_ID"
+  only:
+    - master

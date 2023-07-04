@@ -1,0 +1,6622 @@
+{
+	"data": [
+		{
+			"date": "2019-01",
+			"temps_en_minute": 60,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2019-01",
+			"temps_en_minute": 60,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2019-47",
+			"temps_en_minute": 1080,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-47",
+			"temps_en_minute": 639,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2019-47",
+			"temps_en_minute": 2422,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2019-47",
+			"temps_en_minute": 1080,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-47",
+			"temps_en_minute": 639,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2019-47",
+			"temps_en_minute": 2422,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 266,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 3310,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 1874,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 1347,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 12,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 238,
+			"source": "ClickUp",
+			"nom": "Mathieu_B"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 300,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 440,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 266,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 3310,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 1874,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 1347,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 12,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 238,
+			"source": "Total",
+			"nom": "Mathieu_B"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 300,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2019-48",
+			"temps_en_minute": 440,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2019-49",
+			"temps_en_minute": 588,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2019-49",
+			"temps_en_minute": 1675,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-49",
+			"temps_en_minute": 213,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2019-49",
+			"temps_en_minute": 762,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2019-49",
+			"temps_en_minute": 588,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2019-49",
+			"temps_en_minute": 1675,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-49",
+			"temps_en_minute": 213,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2019-49",
+			"temps_en_minute": 762,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 419,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 535,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 3810,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 162,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 75,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 1226,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 419,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 535,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 3810,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 162,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 75,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2019-50",
+			"temps_en_minute": 1226,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 347,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 785,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 2017,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 315,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 337,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 360,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 347,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 785,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 2017,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 315,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 337,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2019-51",
+			"temps_en_minute": 360,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2019-52",
+			"temps_en_minute": 210,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-52",
+			"temps_en_minute": 60,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2019-52",
+			"temps_en_minute": 210,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2019-52",
+			"temps_en_minute": 60,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 414,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 50,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 675,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 779,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 296,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 1050,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 414,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 50,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 675,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 779,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 296,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-02",
+			"temps_en_minute": 1050,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-03",
+			"temps_en_minute": 790,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-03",
+			"temps_en_minute": 6600,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-03",
+			"temps_en_minute": 1183,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-03",
+			"temps_en_minute": 218,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-03",
+			"temps_en_minute": 300,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-03",
+			"temps_en_minute": 790,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-03",
+			"temps_en_minute": 6600,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-03",
+			"temps_en_minute": 1183,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-03",
+			"temps_en_minute": 218,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-03",
+			"temps_en_minute": 300,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-04",
+			"temps_en_minute": 2140,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-04",
+			"temps_en_minute": 2012,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-04",
+			"temps_en_minute": 14,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-04",
+			"temps_en_minute": 2140,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-04",
+			"temps_en_minute": 2012,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-04",
+			"temps_en_minute": 14,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 223,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 2163,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 3838,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 2446,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 395,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 145,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 223,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 2163,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 3838,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 2446,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 395,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-05",
+			"temps_en_minute": 145,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-06",
+			"temps_en_minute": 434,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-06",
+			"temps_en_minute": 598,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-06",
+			"temps_en_minute": 265,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-06",
+			"temps_en_minute": 434,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-06",
+			"temps_en_minute": 598,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-06",
+			"temps_en_minute": 265,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-07",
+			"temps_en_minute": 67,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-07",
+			"temps_en_minute": 378,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-07",
+			"temps_en_minute": 420,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-07",
+			"temps_en_minute": 60,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-07",
+			"temps_en_minute": 305,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-07",
+			"temps_en_minute": 67,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-07",
+			"temps_en_minute": 378,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-07",
+			"temps_en_minute": 420,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-07",
+			"temps_en_minute": 60,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-07",
+			"temps_en_minute": 305,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-08",
+			"temps_en_minute": 195,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-08",
+			"temps_en_minute": 2105,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-08",
+			"temps_en_minute": 170,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-08",
+			"temps_en_minute": 195,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-08",
+			"temps_en_minute": 2105,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-08",
+			"temps_en_minute": 170,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-09",
+			"temps_en_minute": 1426,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-09",
+			"temps_en_minute": 720,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-09",
+			"temps_en_minute": 566,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-09",
+			"temps_en_minute": 1761,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-09",
+			"temps_en_minute": 1426,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-09",
+			"temps_en_minute": 720,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-09",
+			"temps_en_minute": 566,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-09",
+			"temps_en_minute": 1761,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-10",
+			"temps_en_minute": 637,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-10",
+			"temps_en_minute": 249,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-10",
+			"temps_en_minute": 1200,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-10",
+			"temps_en_minute": 637,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-10",
+			"temps_en_minute": 249,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-10",
+			"temps_en_minute": 1200,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-11",
+			"temps_en_minute": 384,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-11",
+			"temps_en_minute": 1310,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-11",
+			"temps_en_minute": 270,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-11",
+			"temps_en_minute": 384,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-11",
+			"temps_en_minute": 1310,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-11",
+			"temps_en_minute": 270,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 942,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 280,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 2380,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 1836,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 664,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 960,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 942,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 280,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 2380,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 1836,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 664,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-12",
+			"temps_en_minute": 960,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-13",
+			"temps_en_minute": 890,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-13",
+			"temps_en_minute": 1064,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-13",
+			"temps_en_minute": 216,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-13",
+			"temps_en_minute": 3180,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-13",
+			"temps_en_minute": 890,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-13",
+			"temps_en_minute": 1064,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-13",
+			"temps_en_minute": 216,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-13",
+			"temps_en_minute": 3180,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 509,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 140,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 683,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 708,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 896,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 4758,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 2790,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 509,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 140,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 683,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 708,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 896,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 4758,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-14",
+			"temps_en_minute": 2790,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 84,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 1050,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 1243,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 853,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 851,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 1387,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 411,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 84,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 1050,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 1243,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 853,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 851,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 1387,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-15",
+			"temps_en_minute": 411,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 307,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 135,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 1802,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 758,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 1946,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 100,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 307,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 135,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 1802,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 758,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 1946,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 100,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-16",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 480,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 2710,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 165,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 1461,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 1003,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 1500,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 480,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 2710,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 165,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 1461,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 1003,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-17",
+			"temps_en_minute": 1500,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 606,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 6010,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 914,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 581,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 507,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 71,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 600,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 606,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 6010,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 914,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 581,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 507,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 71,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-18",
+			"temps_en_minute": 600,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 656,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 50,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 1230,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 799,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 1821,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 0,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 240,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 656,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 50,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 1230,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 799,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 1821,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 0,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-19",
+			"temps_en_minute": 240,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 137,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 2026,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 1225,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 39,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 90,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 361,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 777,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 916,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 5004,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 137,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 2026,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 1225,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 39,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 90,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 361,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 777,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 916,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-20",
+			"temps_en_minute": 5004,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 32,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 300,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 328,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 765,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 330,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 32,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 300,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 328,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 765,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-21",
+			"temps_en_minute": 330,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 3178,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 558,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 810,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 778,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 1355,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 2120,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 243,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 300,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 3178,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 558,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 810,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 778,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 1355,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 2120,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 243,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-22",
+			"temps_en_minute": 300,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 154,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 1635,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 587,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 740,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 836,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 870,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 154,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 1635,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 587,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 740,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 836,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-23",
+			"temps_en_minute": 870,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 213,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 4080,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 2100,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 1786,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 424,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 895,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 371,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 240,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 213,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 4080,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 2100,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 1786,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 424,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 895,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 371,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-24",
+			"temps_en_minute": 240,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-25",
+			"temps_en_minute": 746,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-25",
+			"temps_en_minute": 616,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-25",
+			"temps_en_minute": 2029,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-25",
+			"temps_en_minute": 746,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-25",
+			"temps_en_minute": 616,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-25",
+			"temps_en_minute": 2029,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-26",
+			"temps_en_minute": 3733,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-26",
+			"temps_en_minute": 1222,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-26",
+			"temps_en_minute": 17,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-26",
+			"temps_en_minute": 3607,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-26",
+			"temps_en_minute": 3733,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-26",
+			"temps_en_minute": 1222,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-26",
+			"temps_en_minute": 17,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-26",
+			"temps_en_minute": 3607,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 158,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 1061,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 1573,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 308,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 50,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 569,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 420,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 158,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 1061,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 1573,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 308,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 50,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 569,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-27",
+			"temps_en_minute": 420,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-28",
+			"temps_en_minute": 1556,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-28",
+			"temps_en_minute": 840,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-28",
+			"temps_en_minute": 1342,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-28",
+			"temps_en_minute": 317,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-28",
+			"temps_en_minute": 949,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-28",
+			"temps_en_minute": 1556,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-28",
+			"temps_en_minute": 840,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-28",
+			"temps_en_minute": 1342,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-28",
+			"temps_en_minute": 317,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-28",
+			"temps_en_minute": 949,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 2808,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 932,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 0,
+			"source": "ClickUp",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 5,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 446,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 891,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 2808,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 932,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 0,
+			"source": "Total",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 5,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 446,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-29",
+			"temps_en_minute": 891,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-30",
+			"temps_en_minute": 189,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-30",
+			"temps_en_minute": 5527,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-30",
+			"temps_en_minute": 464,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-30",
+			"temps_en_minute": 5060,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-30",
+			"temps_en_minute": 189,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-30",
+			"temps_en_minute": 5527,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-30",
+			"temps_en_minute": 464,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-30",
+			"temps_en_minute": 5060,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 133,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 18,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 90,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 10,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 327,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 1018,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 293,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 133,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 18,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 90,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 10,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 327,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 1018,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-31",
+			"temps_en_minute": 293,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-32",
+			"temps_en_minute": 1830,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-32",
+			"temps_en_minute": 346,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-32",
+			"temps_en_minute": 420,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-32",
+			"temps_en_minute": 100,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-32",
+			"temps_en_minute": 1830,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-32",
+			"temps_en_minute": 346,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-32",
+			"temps_en_minute": 420,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-32",
+			"temps_en_minute": 100,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-33",
+			"temps_en_minute": 489,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-33",
+			"temps_en_minute": 5521,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-33",
+			"temps_en_minute": 39,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-33",
+			"temps_en_minute": 510,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-33",
+			"temps_en_minute": 489,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-33",
+			"temps_en_minute": 5521,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-33",
+			"temps_en_minute": 39,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-33",
+			"temps_en_minute": 510,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-34",
+			"temps_en_minute": 491,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-34",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-34",
+			"temps_en_minute": 380,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-34",
+			"temps_en_minute": 491,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-34",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-34",
+			"temps_en_minute": 380,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-35",
+			"temps_en_minute": 624,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-35",
+			"temps_en_minute": 608,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-35",
+			"temps_en_minute": 864,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-35",
+			"temps_en_minute": 188,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-35",
+			"temps_en_minute": 1643,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-35",
+			"temps_en_minute": 624,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-35",
+			"temps_en_minute": 608,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2020-35",
+			"temps_en_minute": 864,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-35",
+			"temps_en_minute": 188,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-35",
+			"temps_en_minute": 1643,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 617,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 180,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 134,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 1362,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 86,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 617,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 180,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 134,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 1362,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-36",
+			"temps_en_minute": 86,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-37",
+			"temps_en_minute": 7140,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-37",
+			"temps_en_minute": 326,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-37",
+			"temps_en_minute": 581,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-37",
+			"temps_en_minute": 2055,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-37",
+			"temps_en_minute": 7140,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-37",
+			"temps_en_minute": 326,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-37",
+			"temps_en_minute": 581,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-37",
+			"temps_en_minute": 2055,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 2161,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 1096,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 204,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 30,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 778,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 234,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 2161,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 1096,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 204,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 30,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 778,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-38",
+			"temps_en_minute": 234,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-39",
+			"temps_en_minute": 1614,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-39",
+			"temps_en_minute": 190,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-39",
+			"temps_en_minute": 1200,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-39",
+			"temps_en_minute": 783,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-39",
+			"temps_en_minute": 1614,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-39",
+			"temps_en_minute": 190,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-39",
+			"temps_en_minute": 1200,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-39",
+			"temps_en_minute": 783,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 180,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 121,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 2170,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 2719,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 637,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 519,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 180,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 121,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 2170,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 2719,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 637,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-40",
+			"temps_en_minute": 519,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-41",
+			"temps_en_minute": 1875,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-41",
+			"temps_en_minute": 659,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-41",
+			"temps_en_minute": 825,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-41",
+			"temps_en_minute": 2301,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-41",
+			"temps_en_minute": 18900,
+			"source": "ClickUp",
+			"nom": "Vincent MARIAS"
+		},
+		{
+			"date": "2020-41",
+			"temps_en_minute": 1875,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-41",
+			"temps_en_minute": 659,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-41",
+			"temps_en_minute": 825,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-41",
+			"temps_en_minute": 2301,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-41",
+			"temps_en_minute": 18900,
+			"source": "Total",
+			"nom": "Vincent MARIAS"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 266,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 224,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 1366,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 695,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 365,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 1440,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 1090,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 266,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 224,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 1366,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 695,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 365,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 1440,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-42",
+			"temps_en_minute": 1090,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-43",
+			"temps_en_minute": 191,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-43",
+			"temps_en_minute": 429,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-43",
+			"temps_en_minute": 662,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-43",
+			"temps_en_minute": 1375,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-43",
+			"temps_en_minute": 191,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-43",
+			"temps_en_minute": 429,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-43",
+			"temps_en_minute": 662,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-43",
+			"temps_en_minute": 1375,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 241,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 197,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 2244,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 22,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 300,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 595,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 241,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 197,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 2244,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 22,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 300,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-44",
+			"temps_en_minute": 595,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 2506,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 21,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 772,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 313,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 1680,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 224,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 2506,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 21,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 772,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 313,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 1680,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-45",
+			"temps_en_minute": 224,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 840,
+			"source": "ClickUp",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 359,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 1576,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 1106,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 1020,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 98,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 840,
+			"source": "Total",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 359,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 1576,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 1106,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 1020,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-46",
+			"temps_en_minute": 98,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 420,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 300,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 305,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 377,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 351,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 54,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 1666,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 464,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 420,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 300,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 305,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 377,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 351,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 54,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 1666,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-47",
+			"temps_en_minute": 464,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-48",
+			"temps_en_minute": 540,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-48",
+			"temps_en_minute": 714,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-48",
+			"temps_en_minute": 148,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-48",
+			"temps_en_minute": 758,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-48",
+			"temps_en_minute": 240,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-48",
+			"temps_en_minute": 540,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-48",
+			"temps_en_minute": 714,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-48",
+			"temps_en_minute": 148,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-48",
+			"temps_en_minute": 758,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-48",
+			"temps_en_minute": 240,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 60,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 1080,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 1371,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 1641,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 1068,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 659,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 1560,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 265,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 60,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 1080,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 1371,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 1641,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 1068,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 659,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 1560,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-49",
+			"temps_en_minute": 265,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-50",
+			"temps_en_minute": 404,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-50",
+			"temps_en_minute": 305,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-50",
+			"temps_en_minute": 796,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-50",
+			"temps_en_minute": 660,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-50",
+			"temps_en_minute": 47040,
+			"source": "ClickUp",
+			"nom": "Vincent MARIAS"
+		},
+		{
+			"date": "2020-50",
+			"temps_en_minute": 404,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-50",
+			"temps_en_minute": 305,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-50",
+			"temps_en_minute": 796,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-50",
+			"temps_en_minute": 660,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-50",
+			"temps_en_minute": 47040,
+			"source": "Total",
+			"nom": "Vincent MARIAS"
+		},
+		{
+			"date": "2020-51",
+			"temps_en_minute": 486,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-51",
+			"temps_en_minute": 1408,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-51",
+			"temps_en_minute": 1890,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-51",
+			"temps_en_minute": 486,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-51",
+			"temps_en_minute": 1408,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-51",
+			"temps_en_minute": 1890,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-52",
+			"temps_en_minute": 932,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-52",
+			"temps_en_minute": 417,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-52",
+			"temps_en_minute": 344,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-52",
+			"temps_en_minute": 32,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-52",
+			"temps_en_minute": 932,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2020-52",
+			"temps_en_minute": 417,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2020-52",
+			"temps_en_minute": 344,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2020-52",
+			"temps_en_minute": 32,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2020-53",
+			"temps_en_minute": 3810,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2020-53",
+			"temps_en_minute": 3810,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-01",
+			"temps_en_minute": 603,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-01",
+			"temps_en_minute": 510,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-01",
+			"temps_en_minute": 603,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-01",
+			"temps_en_minute": 510,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-02",
+			"temps_en_minute": 957,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-02",
+			"temps_en_minute": 149,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-02",
+			"temps_en_minute": 165,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-02",
+			"temps_en_minute": 957,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-02",
+			"temps_en_minute": 149,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-02",
+			"temps_en_minute": 165,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-03",
+			"temps_en_minute": 291,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-03",
+			"temps_en_minute": 2831,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-03",
+			"temps_en_minute": 450,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-03",
+			"temps_en_minute": 291,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-03",
+			"temps_en_minute": 2831,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-03",
+			"temps_en_minute": 450,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-04",
+			"temps_en_minute": 330,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-04",
+			"temps_en_minute": 470,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-04",
+			"temps_en_minute": 1611,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-04",
+			"temps_en_minute": 870,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-04",
+			"temps_en_minute": 330,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-04",
+			"temps_en_minute": 470,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-04",
+			"temps_en_minute": 1611,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-04",
+			"temps_en_minute": 870,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-05",
+			"temps_en_minute": 60,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-05",
+			"temps_en_minute": 55,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-05",
+			"temps_en_minute": 626,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-05",
+			"temps_en_minute": 180,
+			"source": "ClickUp",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2021-05",
+			"temps_en_minute": 60,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-05",
+			"temps_en_minute": 55,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-05",
+			"temps_en_minute": 626,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-05",
+			"temps_en_minute": 180,
+			"source": "Total",
+			"nom": "Thinhinane MECHAREK"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 1800,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 377,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 769,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 170,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 185,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 1250,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 540,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 8400,
+			"source": "ClickUp",
+			"nom": "Vincent MARIAS"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 1800,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 377,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 769,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 170,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 185,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 1250,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 540,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-06",
+			"temps_en_minute": 8400,
+			"source": "Total",
+			"nom": "Vincent MARIAS"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 2220,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 2761,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 390,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 15902,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 518,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 1994,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 2220,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 2761,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 390,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 15902,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 518,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-07",
+			"temps_en_minute": 1994,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 1980,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 1197,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 1238,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 168,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 888,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 300,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 569,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 1980,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 1197,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 1238,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 168,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 888,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 300,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-08",
+			"temps_en_minute": 569,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 374,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 522,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 300,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 565,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 459,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 527,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 960,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 374,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 522,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 300,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 565,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 459,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 527,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-09",
+			"temps_en_minute": 960,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 56,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 4532,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 659,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 97,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 1830,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 30,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 31,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 56,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 4532,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 659,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 97,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 1830,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 30,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-10",
+			"temps_en_minute": 31,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 3025,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 366,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 44,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 26,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 742,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 1122,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 562,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 3025,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 366,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 44,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 26,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 742,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 1122,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-11",
+			"temps_en_minute": 562,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 863,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 60,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 1730,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 1005,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 1371,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 6135,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 1814,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 3507,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 863,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 60,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 1730,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 1005,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 1371,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 6135,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 1814,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-12",
+			"temps_en_minute": 3507,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 180,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 400,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 2837,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 81,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 161,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 1553,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 12764,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 180,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 400,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 2837,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 81,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 161,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 1553,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-13",
+			"temps_en_minute": 12764,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 1053,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 442,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 180,
+			"source": "ClickUp",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 160,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 423,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 762,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 1769,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 210,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 1053,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 442,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 210,
+			"source": "Total",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 180,
+			"source": "Total",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 160,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 423,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 762,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-14",
+			"temps_en_minute": 1769,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 1332,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 401,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 3851,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 939,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 2208,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 687,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 1431,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 840,
+			"source": "ClickUp",
+			"nom": "Vincent MARIAS"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 1332,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 401,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 3851,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 939,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 2208,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 687,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 1431,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-15",
+			"temps_en_minute": 840,
+			"source": "Total",
+			"nom": "Vincent MARIAS"
+		},
+		{
+			"date": "2021-16",
+			"temps_en_minute": 190,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-16",
+			"temps_en_minute": 590,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-16",
+			"temps_en_minute": 1640,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-16",
+			"temps_en_minute": 211,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-16",
+			"temps_en_minute": 1092,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-16",
+			"temps_en_minute": 190,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-16",
+			"temps_en_minute": 590,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-16",
+			"temps_en_minute": 1640,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-16",
+			"temps_en_minute": 211,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-16",
+			"temps_en_minute": 1092,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 600,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 1269,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 2093,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 123,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 348,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 1517,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 1284,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 1066,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 600,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 1269,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 2093,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 123,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 348,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 1517,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 1284,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-17",
+			"temps_en_minute": 1066,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-18",
+			"temps_en_minute": 816,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-18",
+			"temps_en_minute": 192,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-18",
+			"temps_en_minute": 759,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-18",
+			"temps_en_minute": 60,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-18",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-18",
+			"temps_en_minute": 816,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-18",
+			"temps_en_minute": 192,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-18",
+			"temps_en_minute": 759,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-18",
+			"temps_en_minute": 60,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-18",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 1630,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 0,
+			"source": "ClickUp",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 385,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 10,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 875,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 300,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 15,
+			"source": "GLPI",
+			"nom": "FLEURY"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 1630,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 0,
+			"source": "Total",
+			"nom": "Gautier ANTOINE"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 385,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 10,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 875,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 300,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-19",
+			"temps_en_minute": 15,
+			"source": "Total",
+			"nom": "FLEURY"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 300,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 374,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 69,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 1338,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 1476,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 45,
+			"source": "GLPI",
+			"nom": "ROLLETT"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 45,
+			"source": "GLPI",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 1225,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 92,
+			"source": "GLPI",
+			"nom": "BUSSON"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 1,
+			"source": "GLPI",
+			"nom": "MOISSON"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 59,
+			"source": "GLPI",
+			"nom": "FLEURY"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 300,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 374,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 45,
+			"source": "Total",
+			"nom": "ROLLETT"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 45,
+			"source": "Total",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 1225,
+			"source": "Total",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 69,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 1338,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 92,
+			"source": "Total",
+			"nom": "BUSSON"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 1476,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 1,
+			"source": "Total",
+			"nom": "MOISSON"
+		},
+		{
+			"date": "2021-20",
+			"temps_en_minute": 59,
+			"source": "Total",
+			"nom": "FLEURY"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 322,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 0,
+			"source": "ClickUp",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 158,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 329,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 1068,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 40,
+			"source": "GLPI",
+			"nom": "ROLLETT"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 20,
+			"source": "GLPI",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 240,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 98,
+			"source": "GLPI",
+			"nom": "BUSSON"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 322,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 40,
+			"source": "Total",
+			"nom": "ROLLETT"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 20,
+			"source": "Total",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 240,
+			"source": "Total",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 0,
+			"source": "Total",
+			"nom": "Hélios DUHAMEL"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 158,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 98,
+			"source": "Total",
+			"nom": "BUSSON"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 329,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-21",
+			"temps_en_minute": 1068,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 78,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 1250,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 2565,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 58,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 756,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 255,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 368,
+			"source": "ClickUp",
+			"nom": "Paul MAERTEN"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 10,
+			"source": "GLPI",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 230,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 30,
+			"source": "GLPI",
+			"nom": "BUSSON"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 1,
+			"source": "GLPI",
+			"nom": "MOISSON"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 78,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 1250,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 2565,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 10,
+			"source": "Total",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 230,
+			"source": "Total",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 58,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 30,
+			"source": "Total",
+			"nom": "BUSSON"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 756,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 255,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 1,
+			"source": "Total",
+			"nom": "MOISSON"
+		},
+		{
+			"date": "2021-22",
+			"temps_en_minute": 368,
+			"source": "Total",
+			"nom": "Paul MAERTEN"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 280,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 1316,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 1759,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 501,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 72,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 3959,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 46,
+			"source": "GLPI",
+			"nom": "ROLLETT"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 555,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 4,
+			"source": "GLPI",
+			"nom": "PORNOT"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 1,
+			"source": "GLPI",
+			"nom": "MOISSON"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 60,
+			"source": "GLPI",
+			"nom": "FLEURY"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 280,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 1316,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 46,
+			"source": "Total",
+			"nom": "ROLLETT"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 555,
+			"source": "Total",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 1759,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 501,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 72,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 1,
+			"source": "Total",
+			"nom": "MOISSON"
+		},
+		{
+			"date": "2021-23",
+			"temps_en_minute": 60,
+			"source": "Total",
+			"nom": "FLEURY"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 1289,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 370,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 4991,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 644,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 1441,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 737,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 616,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 570,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 30,
+			"source": "GLPI",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 765,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 5,
+			"source": "GLPI",
+			"nom": "PORNOT"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 16,
+			"source": "GLPI",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 5,
+			"source": "GLPI",
+			"nom": "PERIN"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 1,
+			"source": "GLPI",
+			"nom": "MOISSON"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 1289,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 370,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 4991,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 30,
+			"source": "Total",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 765,
+			"source": "Total",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 644,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 1441,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 737,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 616,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-24",
+			"temps_en_minute": 570,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 668,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 955,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 288,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 1112,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 41,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 12,
+			"source": "ClickUp",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 394,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 2095,
+			"source": "ClickUp",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 4,
+			"source": "GLPI",
+			"nom": "BOYER"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 700,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 8,
+			"source": "GLPI",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 668,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 955,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 4,
+			"source": "Total",
+			"nom": "BOYER"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 700,
+			"source": "Total",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 288,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 1112,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 41,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 12,
+			"source": "Total",
+			"nom": "Laurent"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 394,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-25",
+			"temps_en_minute": 2095,
+			"source": "Total",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 543,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 55,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 1136,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 609,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 21,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 722,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 156,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 2278,
+			"source": "ClickUp",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 3360,
+			"source": "ClickUp",
+			"nom": "Vincent MARIAS"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 30,
+			"source": "GLPI",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 665,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 51,
+			"source": "GLPI",
+			"nom": "PORNOT"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 29,
+			"source": "GLPI",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 543,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 55,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 1136,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 30,
+			"source": "Total",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 665,
+			"source": "Total",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 51,
+			"source": "Total",
+			"nom": "PORNOT"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 21,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 29,
+			"source": "Total",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 722,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 156,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 2278,
+			"source": "Total",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-26",
+			"temps_en_minute": 3360,
+			"source": "Total",
+			"nom": "Vincent MARIAS"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 153,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 136,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 2369,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 479,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 666,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 47,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 2552,
+			"source": "ClickUp",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 90,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 30,
+			"source": "GLPI",
+			"nom": "BUSSON"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 125,
+			"source": "GLPI",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 153,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 136,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 2369,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 90,
+			"source": "Total",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 479,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 30,
+			"source": "Total",
+			"nom": "BUSSON"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 125,
+			"source": "Total",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 666,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 47,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-27",
+			"temps_en_minute": 2552,
+			"source": "Total",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 369,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 410,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 170,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 419,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 512,
+			"source": "ClickUp",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 150,
+			"source": "GLPI",
+			"nom": "DIOT"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 1115,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 112,
+			"source": "GLPI",
+			"nom": "PORNOT"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 490,
+			"source": "GLPI",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 369,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 150,
+			"source": "Total",
+			"nom": "DIOT"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 410,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 1115,
+			"source": "Total",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 112,
+			"source": "Total",
+			"nom": "PORNOT"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 419,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-28",
+			"temps_en_minute": 512,
+			"source": "Total",
+			"nom": "Mick Moisson"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 810,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 684,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 98,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 120,
+			"source": "ClickUp",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 201,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 141,
+			"source": "ClickUp",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 2857,
+			"source": "ClickUp",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 210,
+			"source": "ClickUp",
+			"nom": "Teddy ECORCHARD"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 125,
+			"source": "GLPI",
+			"nom": "DIOT"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 220,
+			"source": "GLPI",
+			"nom": "PRUVOST"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 35,
+			"source": "GLPI",
+			"nom": "PORNOT"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 39,
+			"source": "GLPI",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 120,
+			"source": "GLPI",
+			"nom": "MOISSON"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 60,
+			"source": "GLPI",
+			"nom": "FLEURY"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 810,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 125,
+			"source": "Total",
+			"nom": "DIOT"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 684,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 98,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "Gaetan Pruvost"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 35,
+			"source": "Total",
+			"nom": "PORNOT"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 39,
+			"source": "Total",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 141,
+			"source": "Total",
+			"nom": "Melvyn PERIN"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 120,
+			"source": "Total",
+			"nom": "MOISSON"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 2857,
+			"source": "Total",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 210,
+			"source": "Total",
+			"nom": "Teddy ECORCHARD"
+		},
+		{
+			"date": "2021-29",
+			"temps_en_minute": 60,
+			"source": "Total",
+			"nom": "FLEURY"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 906,
+			"source": "ClickUp",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 4149,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 620,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 1717,
+			"source": "ClickUp",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 25,
+			"source": "GLPI",
+			"nom": "DIOT"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 45,
+			"source": "GLPI",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 25,
+			"source": "Total",
+			"nom": "DIOT"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 906,
+			"source": "Total",
+			"nom": "Andy"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 4149,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 45,
+			"source": "Total",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-30",
+			"temps_en_minute": 1717,
+			"source": "Total",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 251,
+			"source": "ClickUp",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 1424,
+			"source": "ClickUp",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 274,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 99,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 78,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 1418,
+			"source": "ClickUp",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 70,
+			"source": "GLPI",
+			"nom": "DIOT"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 180,
+			"source": "GLPI",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 60,
+			"source": "GLPI",
+			"nom": "BUSSON"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 30,
+			"source": "GLPI",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 5,
+			"source": "GLPI",
+			"nom": "FLEURY"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 251,
+			"source": "Total",
+			"nom": "Adrien Raout"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 70,
+			"source": "Total",
+			"nom": "DIOT"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 1424,
+			"source": "Total",
+			"nom": "Boris Helvas"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 180,
+			"source": "Total",
+			"nom": "CANEPA"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 274,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 99,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 60,
+			"source": "Total",
+			"nom": "BUSSON"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 30,
+			"source": "Total",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 1418,
+			"source": "Total",
+			"nom": "Pierre Moulin"
+		},
+		{
+			"date": "2021-31",
+			"temps_en_minute": 5,
+			"source": "Total",
+			"nom": "FLEURY"
+		},
+		{
+			"date": "2021-32",
+			"temps_en_minute": 269,
+			"source": "ClickUp",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-32",
+			"temps_en_minute": 376,
+			"source": "ClickUp",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-32",
+			"temps_en_minute": 190,
+			"source": "ClickUp",
+			"nom": "Julien COMPAGNON"
+		},
+		{
+			"date": "2021-32",
+			"temps_en_minute": 8,
+			"source": "GLPI",
+			"nom": "COMPAGNON"
+		},
+		{
+			"date": "2021-32",
+			"temps_en_minute": 269,
+			"source": "Total",
+			"nom": "Jérémie PORNOT"
+		},
+		{
+			"date": "2021-32",
+			"temps_en_minute": 376,
+			"source": "Total",
+			"nom": "Jérémy rafflin"
+		},
+		{
+			"date": "2021-32",
+			"temps_en_minute": 190,
+			"source": "Total",
+			"nom": "Julien COMPAGNON"
+		}
+	]
+}
